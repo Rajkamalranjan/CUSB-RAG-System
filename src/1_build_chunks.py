@@ -35,32 +35,155 @@ def load_markdown(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
 
-def split_by_headings(md_text: str) -> list[dict]:
+def split_by_headings(md_text: str, max_chunk_size: int = 5000) -> list[dict]:
     """
     Split markdown into chunks at every ## or ### heading.
+    If a chunk exceeds max_chunk_size, split it into smaller sub-chunks.
     Each chunk = {id, heading, text, char_count}
     """
-    pattern = re.compile(r"(?=^#{2,3} )", re.MULTILINE)
+    pattern = re.compile(r"(?=^#{1,3} )", re.MULTILINE)
     raw_sections = pattern.split(md_text)
 
     chunks = []
-    for idx, section in enumerate(raw_sections):
+    chunk_id = 0
+
+    for section in raw_sections:
         section = section.strip()
         if not section:
             continue
 
         lines = section.splitlines()
-        heading = lines[0].lstrip("#").strip() if lines else f"Section {idx}"
+        heading = lines[0].lstrip("#").strip() if lines else "Untitled Section"
         body = re.sub(r"\n{3,}", "\n\n", section)
 
-        chunks.append(
-            {
-                "id": idx,
-                "heading": heading,
-                "text": body,
-                "char_count": len(body),
-            }
-        )
+        # If chunk is too large, split it into smaller sub-chunks
+        # Force split even if no paragraph/line structure exists
+        if len(body) > max_chunk_size * 2:
+            # Hard split for giant blobs (like PDF binary data)
+            for i in range(0, len(body), max_chunk_size):
+                chunk_text = body[i:i + max_chunk_size]
+                chunks.append(
+                    {
+                        "id": chunk_id,
+                        "heading": f"{heading} (Part {i // max_chunk_size + 1})",
+                        "text": chunk_text,
+                        "char_count": len(chunk_text),
+                    }
+                )
+                chunk_id += 1
+        elif len(body) > max_chunk_size:
+            # Split by paragraphs or sentences
+            paragraphs = body.split("\n\n")
+            current_chunk = []
+            current_size = 0
+            sub_chunk_num = 1
+
+            for para in paragraphs:
+                # Skip empty paragraphs
+                if not para.strip():
+                    continue
+                    
+                para_size = len(para) + 2  # +2 for newlines
+
+                # If single paragraph is too big, split it by lines
+                if para_size > max_chunk_size:
+                    # First save any accumulated content
+                    if current_chunk:
+                        chunk_text = "\n\n".join(current_chunk)
+                        chunks.append(
+                            {
+                                "id": chunk_id,
+                                "heading": f"{heading} (Part {sub_chunk_num})",
+                                "text": chunk_text,
+                                "char_count": len(chunk_text),
+                            }
+                        )
+                        chunk_id += 1
+                        sub_chunk_num += 1
+                        current_chunk = []
+                        current_size = 0
+                    
+                    # Split giant paragraph by lines
+                    lines = para.split("\n")
+                    current_lines = []
+                    line_size = 0
+                    
+                    for line in lines:
+                        line_len = len(line) + 1
+                        if line_size + line_len > max_chunk_size and current_lines:
+                            chunk_text = "\n".join(current_lines)
+                            chunks.append(
+                                {
+                                    "id": chunk_id,
+                                    "heading": f"{heading} (Part {sub_chunk_num})",
+                                    "text": chunk_text,
+                                    "char_count": len(chunk_text),
+                                }
+                            )
+                            chunk_id += 1
+                            sub_chunk_num += 1
+                            current_lines = [line]
+                            line_size = line_len
+                        else:
+                            current_lines.append(line)
+                            line_size += line_len
+                    
+                    # Save remaining lines
+                    if current_lines:
+                        chunk_text = "\n".join(current_lines)
+                        chunks.append(
+                            {
+                                "id": chunk_id,
+                                "heading": f"{heading} (Part {sub_chunk_num})",
+                                "text": chunk_text,
+                                "char_count": len(chunk_text),
+                            }
+                        )
+                        chunk_id += 1
+                        sub_chunk_num += 1
+                        
+                elif current_size + para_size > max_chunk_size and current_chunk:
+                    # Save current sub-chunk
+                    chunk_text = "\n\n".join(current_chunk)
+                    chunks.append(
+                        {
+                            "id": chunk_id,
+                            "heading": f"{heading} (Part {sub_chunk_num})",
+                            "text": chunk_text,
+                            "char_count": len(chunk_text),
+                        }
+                    )
+                    chunk_id += 1
+                    sub_chunk_num += 1
+                    current_chunk = [para]
+                    current_size = para_size
+                else:
+                    current_chunk.append(para)
+                    current_size += para_size
+
+            # Don't forget the last sub-chunk
+            if current_chunk:
+                chunk_text = "\n\n".join(current_chunk)
+                chunks.append(
+                    {
+                        "id": chunk_id,
+                        "heading": f"{heading} (Part {sub_chunk_num})" if sub_chunk_num > 1 else heading,
+                        "text": chunk_text,
+                        "char_count": len(chunk_text),
+                    }
+                )
+                chunk_id += 1
+        else:
+            # Normal sized chunk
+            chunks.append(
+                {
+                    "id": chunk_id,
+                    "heading": heading,
+                    "text": body,
+                    "char_count": len(body),
+                }
+            )
+            chunk_id += 1
 
     return chunks
 

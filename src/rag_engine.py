@@ -23,6 +23,8 @@ from config import (
     RETRIEVAL_CANDIDATES,
     USE_RERANKER,
     TOP_K,
+    CHATBOT_MODEL,
+    BENCHMARK_MODEL,
 )
 
 
@@ -280,10 +282,41 @@ Answer questions about the university using ONLY the context provided below.
   - English question -> English answer.
   - Hindi question written in Devanagari -> Hindi answer in Devanagari.
   - Hinglish question -> Hinglish answer using simple Roman Hindi + English.
+
+CRITICAL INSTRUCTIONS FOR SYLLABUS QUERIES:
+- When user asks for "syllabus", "course structure", or subjects/courses:
+  1. FIRST extract and present the actual syllabus content (subjects, topics, credits, courses) from the context
+  2. THEN provide the PDF download link at the end
+  3. Never just give the link without extracting the content first
+
+- For syllabus questions, include:
+  - Subject names and course codes if available
+  - Brief overview of topics covered
+  - Any credit information or semester details from context
+  - Then the download link for full PDF
+
+CRITICAL INSTRUCTIONS FOR FACULTY QUERIES:
+- When user asks for "faculty", "professor", "teacher", "head", "coordinator", "HOD", or "kaun hai":
+  1. FIRST check the context for Administration, Dean, Proctorial Board, or specific department faculty names
+  2. If faculty names are found in context, LIST them clearly with their designations
+  3. If specific faculty information is NOT in context, provide a helpful response indicating that detailed information is available on the official website
+  4. NEVER say "information not found" without checking the context first
+
+CRITICAL INSTRUCTIONS FOR COURSE/PROGRAM QUERIES:
+- When user asks for "courses", "programmes", "kaun kaun se course hain", "list all", or "how many courses":
+  1. FIRST check for "CUSB Complete Courses and Programmes List" section in context
+  2. If course list is available, LIST them clearly by category (M.Sc, B.Sc, B.A., Integrated, etc.)
+  3. For M.Sc queries, list ALL M.Sc programmes available (25+ programmes)
+  4. For B.Sc queries, list ALL B.Sc programmes available
+  5. Include department names and durations
+  6. NEVER give internal course codes (like BTN 8 1 DE 011 04) when asked for programme list
+  7. Course codes are ONLY for syllabus/subject queries, NOT for programme list queries
+
+- IMPORTANT: If the context contains specific download links, PDF URLs, forms, faculty names, or course lists, you MUST include them in your answer.
 - Prefer direct, student-friendly answers over dumping raw context.
-- Be concise and accurate.
+- Be concise but comprehensive for syllabus queries.
 - Mention the most relevant source heading at the end when useful.
-- If the answer is not in the context, say that information was not found in the same required output language and include: https://www.cusb.ac.in
+- If the answer is not in the context, respond with: "The provided information does not include details regarding this query. For the most accurate and up-to-date information, please refer to the university's official website: https://www.cusb.ac.in."
 - Never make up information.
 """
 
@@ -338,7 +371,7 @@ Answer:"""
 class GroqGenerator:
     """Generates answers using Groq API (free, fast alternative to Gemini)."""
 
-    def __init__(self, api_key: Optional[str] = None):
+    def __init__(self, api_key: Optional[str] = None, model: Optional[str] = None):
         from groq import Groq
 
         key = api_key or GROQ_API_KEY
@@ -350,7 +383,7 @@ class GroqGenerator:
             )
 
         self.client = Groq(api_key=key)
-        self.model_name = GROQ_MODEL
+        self.model_name = model or GROQ_MODEL
 
     def generate(self, query: str, context: str, output_language: str = "English") -> str:
         prompt = f"""{SYSTEM_PROMPT}\n\n=== CONTEXT (from CUSB knowledge base) ===\n{context}\n===========================================\n\nUser Question: {query}\nRequired Output Language: {output_language}\n\nAnswer:"""
@@ -415,7 +448,7 @@ class FallbackGenerator:
 class RAGPipeline:
     """Full RAG pipeline: query -> retrieve chunks -> build context -> answer."""
 
-    def __init__(self, api_key: Optional[str] = None, use_llm: bool = True):
+    def __init__(self, api_key: Optional[str] = None, use_llm: bool = True, model: Optional[str] = None):
         self.retriever = Retriever()
         self.fallback_generator = FallbackGenerator()
 
@@ -423,7 +456,7 @@ class RAGPipeline:
             provider = LLM_PROVIDER.lower()
             if provider == "groq":
                 try:
-                    self.generator = GroqGenerator(api_key)
+                    self.generator = GroqGenerator(api_key, model)
                     print(f"✅  Groq LLM connected ({self.generator.model_name})")
                 except ValueError as e:
                     print(f"⚠️  {e}\n    Trying Gemini fallback...")

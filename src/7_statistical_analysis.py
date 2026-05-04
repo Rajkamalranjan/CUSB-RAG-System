@@ -253,6 +253,52 @@ class ResultsAnalyzer:
             "helpfulness": [],
         }
 
+        # Handle baseline_comparison format (single JSON with nested baselines)
+        if len(results) == 1 and "baselines" in results[0]:
+            baselines = results[0]["baselines"]
+            for baseline_name, baseline_data in baselines.items():
+                if "results" in baseline_data:
+                    for result in baseline_data["results"]:
+                        if "latency_ms" in result:
+                            metrics["latency_ms"].append(result["latency_ms"])
+                if "avg_latency_ms" in baseline_data:
+                    metrics["latency_ms"].append(baseline_data["avg_latency_ms"])
+            return {k: v for k, v in metrics.items() if v}
+
+        # Handle ablation study format (single JSON with nested models)
+        if len(results) == 1 and "models" in results[0]:
+            for model_data in results[0]["models"]:
+                if "queries" in model_data:
+                    for query in model_data["queries"]:
+                        if "latency_ms" in query:
+                            metrics["latency_ms"].append(query["latency_ms"])
+                if "total_latency_ms" in model_data:
+                    metrics["latency_ms"].append(model_data["total_latency_ms"])
+            return {k: v for k, v in metrics.items() if v}
+
+        # Handle context window ablation format
+        if len(results) == 1 and "context_windows" in results[0]:
+            for window_data in results[0]["context_windows"]:
+                if "queries" in window_data:
+                    for query in window_data["queries"]:
+                        if "latency_ms" in query:
+                            metrics["latency_ms"].append(query["latency_ms"])
+                if "avg_latency_ms" in window_data:
+                    metrics["latency_ms"].append(window_data["avg_latency_ms"])
+            return {k: v for k, v in metrics.items() if v}
+
+        # Handle top-k ablation format
+        if len(results) == 1 and "top_k_values" in results[0]:
+            for topk_data in results[0]["top_k_values"]:
+                if "queries" in topk_data:
+                    for query in topk_data["queries"]:
+                        if "latency_ms" in query:
+                            metrics["latency_ms"].append(query["latency_ms"])
+                if "avg_latency_ms" in topk_data:
+                    metrics["latency_ms"].append(topk_data["avg_latency_ms"])
+            return {k: v for k, v in metrics.items() if v}
+
+        # Handle standard format
         for result in results:
             if "latency_ms" in result:
                 metrics["latency_ms"].append(result["latency_ms"])
@@ -304,7 +350,8 @@ class ResultsAnalyzer:
         metrics2 = self.extract_metrics(results2)
 
         if metric not in metrics1 or metric not in metrics2:
-            return {"error": f"Metric '{metric}' not found in results"}
+            error_msg = f"Metric '{metric}' not found in results. Available in file1: {list(metrics1.keys())}, file2: {list(metrics2.keys())}"
+            return {"error": error_msg}
 
         values1 = metrics1[metric]
         values2 = metrics2[metric]
@@ -367,17 +414,22 @@ def main():
         print("COMPARISON RESULTS")
         print("=" * 80)
 
-        print(f"\n📊 {args.metric.upper()}:")
-        print(f"  File 1 Mean: {comparison['file1_stats']['mean']:.4f}")
-        print(f"  File 2 Mean: {comparison['file2_stats']['mean']:.4f}")
-        print(f"  Difference: {comparison['file1_stats']['mean'] - comparison['file2_stats']['mean']:.4f}")
+        if "error" in comparison:
+            print(f"\n❌ {comparison['error']}")
+            print("\n💡 Try comparing with 'latency_ms' instead:")
+            print(f"   python src/7_statistical_analysis.py --compare {args.compare[0]} {args.compare[1]} --metric latency_ms")
+        else:
+            print(f"\n📊 {args.metric.upper()}:")
+            print(f"  File 1 Mean: {comparison['file1_stats']['mean']:.4f}")
+            print(f"  File 2 Mean: {comparison['file2_stats']['mean']:.4f}")
+            print(f"  Difference: {comparison['file1_stats']['mean'] - comparison['file2_stats']['mean']:.4f}")
 
-        print(f"\n🔬 Independent t-test:")
-        ttest = comparison["ttest"]
-        print(f"  t-statistic: {ttest['t_statistic']:.4f}")
-        print(f"  p-value:     {ttest['p_value']:.4f}")
-        print(f"  Significant: {'Yes' if ttest['significant'] else 'No'}")
-        print(f"  Cohen's d:   {ttest['cohens_d']:.4f}")
+            print(f"\n🔬 Independent t-test:")
+            ttest = comparison["ttest"]
+            print(f"  t-statistic: {ttest['t_statistic']:.4f}")
+            print(f"  p-value:     {ttest['p_value']:.4f}")
+            print(f"  Significant: {'Yes' if ttest['significant'] else 'No'}")
+            print(f"  Cohen's d:   {ttest['cohens_d']:.4f}")
 
     print("\n" + "=" * 80)
 

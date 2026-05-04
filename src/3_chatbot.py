@@ -26,6 +26,7 @@ load_dotenv(dotenv_path=env_path)
 # ──────────────────────────────────────────────────────────────────────────────
 
 from rag_engine import RAGPipeline
+from config import CHATBOT_MODEL
 
 try:
     from colorama import Fore, Style, init as colorama_init
@@ -91,7 +92,7 @@ def main():
     # Initialize pipeline
     print(c("⏳ Loading RAG pipeline...", "yellow"))
     try:
-        rag = RAGPipeline(use_llm=use_llm)
+        rag = RAGPipeline(use_llm=use_llm, model=CHATBOT_MODEL)
     except FileNotFoundError as e:
         print(c(str(e), "red"))
         sys.exit(1)

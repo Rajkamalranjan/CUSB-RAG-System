@@ -1,12 +1,12 @@
 {
-  "created_at_utc": "2026-04-30T11:18:40.185874+00:00",
+  "created_at_utc": "2026-05-01T12:09:48.097750+00:00",
   "include_qa_in_index": true,
-  "total_chunks": 224,
-  "markdown_chunks": 49,
+  "total_chunks": 1604,
+  "markdown_chunks": 1429,
   "qa_chunks": 175,
-  "min_chars": 28,
-  "max_chars": 2492,
-  "avg_chars": 740,
+  "min_chars": 3,
+  "max_chars": 7582,
+  "avg_chars": 3132,
   "markdown_path": "C:\\Users\\acer\\Desktop\\Rag Project\\data\\CUSB_markdown.md",
   "qa_dataset_path": "C:\\Users\\acer\\Desktop\\Rag Project\\data\\final_data_set.json"
 }

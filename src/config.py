@@ -29,6 +29,12 @@ GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 
+# Chatbot-specific model (cheaper/faster for interactive use)
+CHATBOT_MODEL = os.getenv("CHATBOT_MODEL", "llama-3.1-8b-instant")
+
+# Benchmark/evaluation model (higher quality for testing)
+BENCHMARK_MODEL = os.getenv("BENCHMARK_MODEL", "llama-3.3-70b-versatile")
+
 # LLM provider: "gemini" or "groq"
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini")
 GEMINI_FALLBACK_MODELS = [
