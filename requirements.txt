@@ -1,6 +1,6 @@
 # Core RAG dependencies
 sentence-transformers==3.0.1
-faiss-cpu==1.8.0
+faiss-cpu==1.13.2
 numpy==1.26.4
 scipy==1.13.1
 
