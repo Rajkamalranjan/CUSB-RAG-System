@@ -125,17 +125,8 @@ if prompt := st.chat_input("Type your question here..."):
                     elapsed = time.time() - start
 
                     answer = result.get("answer", "Sorry, I couldn't find an answer.")
-                    sources = result.get("sources", [])
 
                     st.write(answer)
-
-                    # Show sources in expander
-                    if sources:
-                        with st.expander("📚 Sources"):
-                            for src in sources:
-                                heading = src.get("heading", "Unknown")
-                                score = src.get("score", 0)
-                                st.markdown(f"- **{heading}** (score: {score:.3f})")
 
                     # Processing time
                     st.caption(f"⏱️ {elapsed:.2f}s | Powered by RAG + LLM")
