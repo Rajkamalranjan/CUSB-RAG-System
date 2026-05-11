@@ -315,7 +315,6 @@ CRITICAL INSTRUCTIONS FOR COURSE/PROGRAM QUERIES:
 - IMPORTANT: If the context contains specific download links, PDF URLs, forms, faculty names, or course lists, you MUST include them in your answer.
 - Prefer direct, student-friendly answers over dumping raw context.
 - Be concise but comprehensive for syllabus queries.
-- Mention the most relevant source heading at the end when useful.
 - If the answer is not in the context, respond with: "The provided information does not include details regarding this query. For the most accurate and up-to-date information, please refer to the university's official website: https://www.cusb.ac.in."
 - Never make up information.
 """

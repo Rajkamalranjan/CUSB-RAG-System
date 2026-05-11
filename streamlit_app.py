@@ -128,9 +128,6 @@ if prompt := st.chat_input("Type your question here..."):
 
                     st.write(answer)
 
-                    # Processing time
-                    st.caption(f"⏱️ {elapsed:.2f}s | Powered by RAG + LLM")
-
                     st.session_state.messages.append({"role": "assistant", "content": answer})
 
             except Exception as e:
