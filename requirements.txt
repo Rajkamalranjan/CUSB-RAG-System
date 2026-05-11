@@ -1,9 +1,30 @@
+# Core RAG dependencies
 sentence-transformers==2.7.0
 faiss-cpu==1.13.2
 numpy==2.2.6
+scipy==1.11.4
+
+# LLM APIs
 google-generativeai==0.5.4
 groq==1.2.0
+
+# Web scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# API Server
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+
+# Streamlit Deployment
+streamlit==1.40.0
+
+# Utilities
 python-dotenv==1.0.1
 colorama==0.4.6
 tqdm==4.66.4
-scipy==1.11.4
+Pillow==11.0.0
+
+# Data analysis (for research modules)
+pandas==2.2.3
