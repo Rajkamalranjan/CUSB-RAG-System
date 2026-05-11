@@ -44,27 +44,35 @@ st.markdown("""
         border-radius: 0;
         background: transparent !important;
     }
-    
-    /* User message */
+
+    /* User message - RIGHT side */
     .stChatMessage[data-testid="stChatMessageUser"] {
         background-color: transparent !important;
+        text-align: right;
     }
     .stChatMessage[data-testid="stChatMessageUser"] .stChatMessageContent {
-        background-color: #f7f7f8;
+        background-color: #2563eb;
+        color: white;
         border-radius: 20px;
         padding: 12px 16px;
         max-width: 70%;
         margin-left: auto;
+        display: inline-block;
+        text-align: left;
     }
-    
-    /* Assistant message */
+
+    /* Assistant message - LEFT side */
     .stChatMessage[data-testid="stChatMessageAssistant"] {
         background-color: transparent !important;
+        text-align: left;
     }
     .stChatMessage[data-testid="stChatMessageAssistant"] .stChatMessageContent {
-        background-color: transparent;
-        padding: 0;
-        max-width: 100%;
+        background-color: #f1f5f9;
+        border-radius: 20px;
+        padding: 16px;
+        max-width: 85%;
+        margin-right: auto;
+        display: inline-block;
     }
     
     /* Chat input */
