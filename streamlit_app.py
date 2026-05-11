@@ -45,10 +45,10 @@ st.markdown("""
         background: transparent !important;
     }
 
-    /* User message - LEFT side (dark bubble like ChatGPT) */
+    /* User message - RIGHT side (dark bubble like ChatGPT) */
     .stChatMessage[data-testid="stChatMessageUser"] {
         background-color: transparent !important;
-        text-align: left;
+        text-align: right;
     }
     .stChatMessage[data-testid="stChatMessageUser"] .stChatMessageContent {
         background-color: #2d2d2d;
@@ -56,16 +56,16 @@ st.markdown("""
         border-radius: 18px;
         padding: 12px 16px;
         max-width: 70%;
-        margin-right: auto;
+        margin-left: auto;
         display: inline-block;
         text-align: left;
         font-weight: 500;
     }
 
-    /* Assistant message - RIGHT side (light bubble like ChatGPT) */
+    /* Assistant message - LEFT side (light bubble like ChatGPT) */
     .stChatMessage[data-testid="stChatMessageAssistant"] {
         background-color: transparent !important;
-        text-align: right;
+        text-align: left;
     }
     .stChatMessage[data-testid="stChatMessageAssistant"] .stChatMessageContent {
         background-color: #f7f7f8;
@@ -73,7 +73,7 @@ st.markdown("""
         border-radius: 18px;
         padding: 16px;
         max-width: 85%;
-        margin-left: auto;
+        margin-right: auto;
         display: inline-block;
         text-align: left;
         box-shadow: 0 1px 2px rgba(0,0,0,0.05);
