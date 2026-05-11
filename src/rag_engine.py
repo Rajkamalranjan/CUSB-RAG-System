@@ -252,26 +252,27 @@ class Retriever:
         return bonus
 
     def build_context(self, chunks: list[dict], max_chars: int = MAX_CONTEXT) -> str:
-        """Concatenate retrieved chunks into source-labeled context."""
+        """Concatenate retrieved chunks into context."""
         parts = []
         total = 0
 
         for rank, chunk in enumerate(chunks, 1):
-            source = (
-                f"[Source {rank} | id={chunk.get('id', 'unknown')} | "
-                f"score={chunk.get('score', 0):.3f} | "
-                f"heading={chunk.get('heading', 'Untitled')}]\n"
-                f"{chunk['text']}"
-            )
+            # Filter out Source: lines from chunk text
+            text = chunk['text']
+            text_lines = text.split('\n')
+            filtered_lines = [line for line in text_lines if not line.strip().startswith('Source:')]
+            clean_text = '\n'.join(filtered_lines)
 
-            if total + len(source) > max_chars:
+            context_part = f"[Section: {chunk.get('heading', 'Untitled')}]\n{clean_text}"
+
+            if total + len(context_part) > max_chars:
                 remaining = max_chars - total
                 if remaining > 100:
-                    parts.append(source[:remaining].rstrip())
+                    parts.append(context_part[:remaining].rstrip())
                 break
 
-            parts.append(source)
-            total += len(source)
+            parts.append(context_part)
+            total += len(context_part)
 
         return "\n\n---\n\n".join(parts)
 
@@ -315,6 +316,7 @@ CRITICAL INSTRUCTIONS FOR COURSE/PROGRAM QUERIES:
 - IMPORTANT: If the context contains specific download links, PDF URLs, forms, faculty names, or course lists, you MUST include them in your answer.
 - Prefer direct, student-friendly answers over dumping raw context.
 - Be concise but comprehensive for syllabus queries.
+- DO NOT mention "Source:" or source headings in your answer. Just provide the information directly.
 - If the answer is not in the context, respond with: "The provided information does not include details regarding this query. For the most accurate and up-to-date information, please refer to the university's official website: https://www.cusb.ac.in."
 - Never make up information.
 """
