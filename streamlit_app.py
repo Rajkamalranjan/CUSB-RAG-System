@@ -107,7 +107,7 @@ if prompt := st.chat_input("Type your question here..."):
             try:
                 rag = get_rag_pipeline()
                 start = time.time()
-                result = rag.query(prompt)
+                result = rag.answer(prompt)
                 elapsed = time.time() - start
 
                 answer = result.get("answer", "Sorry, I couldn't find an answer.")
