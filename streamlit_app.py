@@ -45,35 +45,38 @@ st.markdown("""
         background: transparent !important;
     }
 
-    /* User message - LEFT side (like ChatGPT) */
+    /* User message - LEFT side (dark bubble like ChatGPT) */
     .stChatMessage[data-testid="stChatMessageUser"] {
         background-color: transparent !important;
         text-align: left;
     }
     .stChatMessage[data-testid="stChatMessageUser"] .stChatMessageContent {
-        background-color: #2563eb;
+        background-color: #2d2d2d;
         color: white;
-        border-radius: 20px;
+        border-radius: 18px;
         padding: 12px 16px;
         max-width: 70%;
         margin-right: auto;
         display: inline-block;
         text-align: left;
+        font-weight: 500;
     }
 
-    /* Assistant message - RIGHT side (like ChatGPT) */
+    /* Assistant message - RIGHT side (light bubble like ChatGPT) */
     .stChatMessage[data-testid="stChatMessageAssistant"] {
         background-color: transparent !important;
         text-align: right;
     }
     .stChatMessage[data-testid="stChatMessageAssistant"] .stChatMessageContent {
-        background-color: #f1f5f9;
-        border-radius: 20px;
+        background-color: #f7f7f8;
+        color: #374151;
+        border-radius: 18px;
         padding: 16px;
         max-width: 85%;
         margin-left: auto;
         display: inline-block;
         text-align: left;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05);
     }
     
     /* Chat input */
