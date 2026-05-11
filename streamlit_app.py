@@ -66,6 +66,17 @@ st.markdown("""
 # Initialize RAG pipeline
 @st.cache_resource
 def get_rag_pipeline():
+    import os
+    # Debug: Show if API keys are loaded
+    groq_key = os.getenv("GROQ_API_KEY", "")
+    gemini_key = os.getenv("GEMINI_API_KEY", "")
+    provider = os.getenv("LLM_PROVIDER", "not set")
+
+    if not groq_key and not gemini_key:
+        st.error("❌ API keys not found! Add secrets in Streamlit Cloud Settings.")
+        st.info("Go to: Settings → Secrets → Add your API keys")
+        return None
+
     from rag_engine import RAGPipeline
     return RAGPipeline()
 
@@ -106,31 +117,35 @@ if prompt := st.chat_input("Type your question here..."):
         with st.spinner("🤔 Thinking..."):
             try:
                 rag = get_rag_pipeline()
-                start = time.time()
-                result = rag.answer(prompt)
-                elapsed = time.time() - start
+                if rag is None:
+                    st.error("❌ RAG Pipeline not initialized. Check API keys in Secrets.")
+                else:
+                    start = time.time()
+                    result = rag.answer(prompt)
+                    elapsed = time.time() - start
 
-                answer = result.get("answer", "Sorry, I couldn't find an answer.")
-                sources = result.get("sources", [])
+                    answer = result.get("answer", "Sorry, I couldn't find an answer.")
+                    sources = result.get("sources", [])
 
-                st.write(answer)
+                    st.write(answer)
 
-                # Show sources in expander
-                if sources:
-                    with st.expander("📚 Sources"):
-                        for src in sources:
-                            heading = src.get("heading", "Unknown")
-                            score = src.get("score", 0)
-                            st.markdown(f"- **{heading}** (score: {score:.3f})")
+                    # Show sources in expander
+                    if sources:
+                        with st.expander("📚 Sources"):
+                            for src in sources:
+                                heading = src.get("heading", "Unknown")
+                                score = src.get("score", 0)
+                                st.markdown(f"- **{heading}** (score: {score:.3f})")
 
-                # Processing time
-                st.caption(f"⏱️ {elapsed:.2f}s | Powered by RAG + LLM")
+                    # Processing time
+                    st.caption(f"⏱️ {elapsed:.2f}s | Powered by RAG + LLM")
 
-                st.session_state.messages.append({"role": "assistant", "content": answer})
+                    st.session_state.messages.append({"role": "assistant", "content": answer})
 
             except Exception as e:
                 st.error(f"Error: {str(e)}")
-                st.info("Please make sure the vector database is built. Run: `python src/1_build_chunks.py` and `python src/2_build_vectordb.py`")
+                import traceback
+                st.code(traceback.format_exc())
 
 # Footer
 st.markdown("""
