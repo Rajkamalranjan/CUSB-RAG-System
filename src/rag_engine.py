@@ -510,6 +510,22 @@ class RAGPipeline:
             fallback = self.fallback_generator.generate(query, context, output_language=output_language)
             answer = f"⚠️  {e}\n\nUsing offline fallback:\n\n{fallback}"
 
+        # Post-process: Remove any Source lines from answer
+        answer_lines = answer.split('\n')
+        cleaned_lines = []
+        for line in answer_lines:
+            # Skip lines that start with Source: or contain source references
+            stripped = line.strip()
+            if stripped.startswith('Source:'):
+                continue
+            if stripped.startswith('Sources:'):
+                continue
+            if stripped.startswith('The most relevant source'):
+                continue
+            cleaned_lines.append(line)
+
+        answer = '\n'.join(cleaned_lines).strip()
+
         return {
             "answer": answer,
             "language": output_language,
