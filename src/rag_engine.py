@@ -257,13 +257,23 @@ class Retriever:
         total = 0
 
         for rank, chunk in enumerate(chunks, 1):
-            # Filter out Source: lines from chunk text
+            # Filter out Source: lines and QA Batch headings from chunk text
             text = chunk['text']
             text_lines = text.split('\n')
-            filtered_lines = [line for line in text_lines if not line.strip().startswith('Source:')]
+            filtered_lines = [
+                line for line in text_lines
+                if not line.strip().startswith('Source:')
+                and not line.strip().startswith('**Source:**')
+                and 'QA Batch' not in line
+            ]
             clean_text = '\n'.join(filtered_lines)
 
-            context_part = f"[Section: {chunk.get('heading', 'Untitled')}]\n{clean_text}"
+            # Skip QA Batch headings
+            heading = chunk.get('heading', 'Untitled')
+            if 'QA Batch' in heading:
+                heading = 'Information'
+
+            context_part = f"[Section: {heading}]\n{clean_text}"
 
             if total + len(context_part) > max_chars:
                 remaining = max_chars - total
@@ -316,7 +326,7 @@ CRITICAL INSTRUCTIONS FOR COURSE/PROGRAM QUERIES:
 - IMPORTANT: If the context contains specific download links, PDF URLs, forms, faculty names, or course lists, you MUST include them in your answer.
 - Prefer direct, student-friendly answers over dumping raw context.
 - Be concise but comprehensive for syllabus queries.
-- DO NOT mention "Source:" or source headings in your answer. Just provide the information directly.
+- CRITICAL: NEVER include "Source:", "Sources:", or any source references in your answer. Do NOT mention where the information came from. Just provide the answer directly.
 - If the answer is not in the context, respond with: "The provided information does not include details regarding this query. For the most accurate and up-to-date information, please refer to the university's official website: https://www.cusb.ac.in."
 - Never make up information.
 """
