@@ -1,0 +1,27 @@
+{
+  "seed_url": "https://www.cusb.ac.in",
+  "max_pages": 100,
+  "delay_seconds": 1.0,
+  "pages_saved": 100,
+  "jsonl": "D:\\CUSB-RAG-System\\data\\cusb_research_scrape.jsonl",
+  "markdown": "D:\\CUSB-RAG-System\\data\\CUSB_research_scrape.md",
+  "generated_at_utc": "2026-05-15T20:36:14.710692+00:00",
+  "robots_disallow_respected": [
+    "/administrator/",
+    "/api/",
+    "/bin/",
+    "/cache/",
+    "/cli/",
+    "/components/",
+    "/includes/",
+    "/installation/",
+    "/language/",
+    "/layouts/",
+    "/libraries/",
+    "/logs/",
+    "/modules/",
+    "/plugins/",
+    "/tmp/"
+  ],
+  "user_agent": "CUSB-EduRAG-ResearchBot/1.0 (+public academic data collection)"
+}

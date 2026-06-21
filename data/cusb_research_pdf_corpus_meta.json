@@ -1,0 +1,35 @@
+{
+  "selected": 80,
+  "attempted": 80,
+  "extracted": 35,
+  "skipped_existing": 0,
+  "skipped_short": 45,
+  "failed": 0,
+  "errors": [],
+  "input": "D:\\CUSB-RAG-System\\data\\cusb_research_corpus.jsonl",
+  "output_jsonl": "D:\\CUSB-RAG-System\\data\\cusb_research_pdf_corpus.jsonl",
+  "output_markdown": "D:\\CUSB-RAG-System\\data\\CUSB_research_pdf_corpus.md",
+  "cache_dir": "D:\\CUSB-RAG-System\\data\\pdf_cache",
+  "categories": [
+    "fees",
+    "admission",
+    "syllabus",
+    "policy"
+  ],
+  "keywords": [
+    "fee",
+    "fees",
+    "fee structure",
+    "admission",
+    "prospectus",
+    "syllabus",
+    "course structure",
+    "board of studies",
+    "ordinance",
+    "regulation",
+    "hostel"
+  ],
+  "limit": 80,
+  "max_pages_per_pdf": 30,
+  "generated_at_utc": "2026-05-15T20:50:46.016320+00:00"
+}

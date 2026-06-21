@@ -1,0 +1,491 @@
+{
+  "created_at_utc": "2026-05-18T05:24:28.874560+00:00",
+  "seed_page_count": 26,
+  "discovered_records": 402,
+  "extracted_records": 364,
+  "webpage_records": 48,
+  "failed_records": 38,
+  "failed_discovery_pages": 2,
+  "ocr_max_pages": 0,
+  "ocr_dpi": 240,
+  "ocr_language": "eng",
+  "ocr_engine": "tesseract",
+  "ocr_configs": [
+    "--oem 1 --psm 3 -c preserve_interword_spaces=1"
+  ],
+  "ocr_rotation_retry": true,
+  "min_page_text_chars": 40,
+  "max_child_pages_per_section": 250,
+  "total_text_chars": 4066052,
+  "total_pdf_text_chars": 3945183,
+  "total_webpage_text_chars": 120869,
+  "total_text_pages": 1622,
+  "total_ocr_pages": 263,
+  "outputs": {
+    "markdown": "data\\CUSB_about_university_pdfs.md",
+    "jsonl": "data\\cusb_about_university_pdfs.jsonl",
+    "metadata": "data\\cusb_about_university_pdfs_meta.json"
+  },
+  "seed_pages": [
+    {
+      "section": "The University",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=156&Itemid=104"
+    },
+    {
+      "section": "Central Universities Act, 2009",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=2&Itemid=105"
+    },
+    {
+      "section": "History and Development",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=91&Itemid=106"
+    },
+    {
+      "section": "Statutes & Ordinances",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=4&Itemid=107"
+    },
+    {
+      "section": "Vision & Mission",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=5&Itemid=108"
+    },
+    {
+      "section": "Regulation and Policy Documents",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=6&Itemid=109"
+    },
+    {
+      "section": "Salient Features and Best Practices",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=7&Itemid=110"
+    },
+    {
+      "section": "Annual Reports and Annual Accounts",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=8&Itemid=111"
+    },
+    {
+      "section": "University Kulgeet",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=9&Itemid=112"
+    },
+    {
+      "section": "CUSB Logo",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=10&Itemid=113"
+    },
+    {
+      "section": "How to Reach CUSB",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=11&Itemid=114"
+    },
+    {
+      "section": "The Court",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=12&Itemid=115"
+    },
+    {
+      "section": "Executive Council",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=13&Itemid=116"
+    },
+    {
+      "section": "Academic Council",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=14&Itemid=117"
+    },
+    {
+      "section": "Finance Committee",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=15&Itemid=118"
+    },
+    {
+      "section": "Tenders",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=13&Itemid=566"
+    },
+    {
+      "section": "Notices",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=12&Itemid=567"
+    },
+    {
+      "section": "Upcoming Events",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=23&Itemid=568"
+    },
+    {
+      "section": "Archived Events",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=24&Itemid=569"
+    },
+    {
+      "section": "Photo Gallery",
+      "url": "https://www.cusb.ac.in/index.php?option=com_phocagallery&view=category&id=2&Itemid=586"
+    },
+    {
+      "section": "Recruitment",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=48&Itemid=587"
+    },
+    {
+      "section": "Download",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=445&Itemid=591"
+    },
+    {
+      "section": "Recent Event",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=54&Itemid=615"
+    },
+    {
+      "section": "Academic Highlights",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=57&Itemid=620"
+    },
+    {
+      "section": "Circular / Notification / Office Order",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=category&id=56&Itemid=621"
+    },
+    {
+      "section": "Foundation Day",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=934&Itemid=704"
+    }
+  ],
+  "failed": [
+    {
+      "section": "Academics/Examination Notices",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_title": "About University",
+      "title": "Backlog form for appearing in backlog course for BA B.Ed. & B.SC. B.Ed.",
+      "url": "https://cusb.ac.in/images/2026/academic/march_26/bc_form.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Academics/Examination Notices",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_title": "About University",
+      "title": "Multi-disciplinary courses UG-PG (Jan-June 2026)",
+      "url": "https://cusb.ac.in/images/2026/academic/Jan_26/s6.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Academics/Examination Notices",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_title": "About University",
+      "title": "Annexure-1 -A Fee structure",
+      "url": "https://cusb.ac.in/images/2025/acad_notice/jul_25/ann_fee_1.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Academics/Examination Notices",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_title": "About University",
+      "title": "Annexure-1 for document verification for UG programme",
+      "url": "https://cusb.ac.in/images/2025/acad_notice/Feb_25/annex_1.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Academics/Examination Notices",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_title": "About University",
+      "title": "Checklist for Document Verification for UG programme",
+      "url": "https://cusb.ac.in/images/2025/acad_notice/Feb_25/chklist.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Academics/Examination Notices",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191",
+      "source_page_title": "About University",
+      "title": "Regarding semester registration of M.Sc. Data Science and Applied Statistics 4th Semester for the period of January-June,2025",
+      "url": "https://cusb.ac.in/images/2025/acad_notice/Jan_25/4th_sem.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Semester Exam Schedule",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_title": "About University",
+      "title": "Time-Table of End-Term Examination of MA in Hindi-2nd & 4th Sem and UG-PG in Hindi-2nd & 4th Sem",
+      "url": "https://cusb.ac.in/images/2026/academic/exam_time/7.pdf",
+      "error": "404 Client Error: Not Found for url: https://cusb.ac.in/images/2026/academic/exam_time/7.pdf"
+    },
+    {
+      "section": "Semester Exam Schedule",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_title": "About University",
+      "title": "Time-Table of End-Term Examination of MA in History-2nd & 4th Sem",
+      "url": "https://cusb.ac.in/images/2026/academic/exam_time/8.pdf",
+      "error": "404 Client Error: Not Found for url: https://cusb.ac.in/images/2026/academic/exam_time/8.pdf"
+    },
+    {
+      "section": "Semester Exam Schedule",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_title": "About University",
+      "title": "Time-Table of End-Term Examination of int.Blib ISc and Mlib ISc-2nd Sem",
+      "url": "https://cusb.ac.in/images/2026/academic/exam_time/15.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Semester Exam Schedule",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "source_page_title": "About University",
+      "title": "Time-Table of End-Term Examination of MSc in Geology- 2nd Sem",
+      "url": "https://cusb.ac.in/images/2026/academic/exam_time/24.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Notice regarding submission of Ph.D. thesis in Soft copy",
+      "url": "https://cusb.ac.in/images/phd_format_regulation/Notice_submission_of_PhD_Thesis_in_soft_copy.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "General Notification (Dated 13/04/2021)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_862_phd_20_21.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_862_phd_20_21.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Claim Form for Non-Net Fellowship",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/claim_form_non_net_fellowship.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/claim_form_non_net_fellowship.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Claim form for Non-Net Contingency",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/non_net_contingency_claim_from_862.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/non_net_contingency_claim_from_862.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Research-scholar-Leave-approval-format.pdf",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2023/01/Research-scholar-Leave-approval-format.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2023/01/Research-scholar-Leave-approval-format.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Notice Regarding Disbursement of Fellowship by UGC (CUSB/DEV/2522/2018 dated 03/11/2018)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/notice_ugc_web_portal.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Public Notice: Enhancements made to UGC-Canara Bank web portal",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/UGC-Notice-Enahncements-made-to-UGC-Canara-web.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/UGC-Notice-Enahncements-made-to-UGC-Canara-web.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Canara Bank Guide lines",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/CANARA_Guidelines.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/CANARA_Guidelines.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Joining and Certification Net JRF",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/joining_and_certification_net_jrf.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/joining_and_certification_net_jrf.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "UGC Exception format",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/exception_fellowship.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/exception_fellowship.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "General Notification (Dated 22/10/2019)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_phd_1599.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_phd_1599.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "Claim Form for Non-Net Fellowship",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/application_non_net_fellowship.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/application_non_net_fellowship.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "source_page_title": "About University",
+      "title": "General Notification (Dated 19/02/2019)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/phd_gen_notification.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/phd_gen_notification.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Result of M.Sc. Environmental Science, 3rd semester, session 2024-26.",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/612.pdf",
+      "error": "404 Client Error: Not Found for url: https://cusb.ac.in/images/2025/result_dec_25/612.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Revised result (After submission of pending documents) of 3rd Semester PG Programme in Mass Communication 2024-26",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/611.pdf",
+      "error": "404 Client Error: Not Found for url: https://cusb.ac.in/images/2025/result_dec_25/611.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Revised Result M.COM PG 2024-26-3st Sem.",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/609.pdf",
+      "error": "404 Client Error: Not Found for url: https://cusb.ac.in/images/2025/result_dec_25/609.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Backlog Result M.COM PG 2024-26-1st Sem.",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/610.pdf",
+      "error": "404 Client Error: Not Found for url: https://cusb.ac.in/images/2025/result_dec_25/610.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Repeat/Backlog/Improvement result of M.A. Hindi 1st and 3rd semester, 2023-25",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/420.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Result of M.A. Hindi 3rd Semester (Session 2024-26)",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/413.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Result of 5 Year Integrated UG-PG English (Session 2025-30)",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/dec_50.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Backlog Result of Aman, Raj, Raja & Vinit, B.Sc.B.Ed. programme, session: 2021-25",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/dec_11.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Backlog Result of Ravi Shankar Kumar Raj, B.A.B.Ed. programme, session: 2020-24",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/dec_7.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Result of 3rd Semester, M.Ed. Programme, Session 2024-26",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/dec_6.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Result of 3rd Semester, M.P.Ed. Programme, Session 2024-26",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/dec_3.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "source_page_title": "About University",
+      "title": "Result of PhD Course Work in Law, AY 2024-25, 1st Semester",
+      "url": "https://cusb.ac.in/images/2025/result_dec_25/dec_2.pdf",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Convocation",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=625&Itemid=209",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=625&Itemid=209",
+      "source_page_title": "About University",
+      "title": "Minute to minute Programme - 4th Convocation",
+      "url": "https://cusb.ac.in/images/convocation/4th/minutes_of_prog.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Download (Format/Performa)",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=455&Itemid=619",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=455&Itemid=619",
+      "source_page_title": "About University",
+      "title": "Student information form",
+      "url": "https://cusb.ac.in/images/downloads/students/student_information_form.13pdf.pdf",
+      "error": "No text extracted"
+    },
+    {
+      "section": "Download (Format/Performa)",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=455&Itemid=619",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=455&Itemid=619",
+      "source_page_title": "About University",
+      "title": "Application form for issuing various certificate(s)",
+      "url": "https://cusb.ac.in/images/downloads/students/application_for_issuing_various_certificate.pdf",
+      "error": "No text extracted"
+    }
+  ],
+  "failed_pages": [
+    {
+      "section": "IECBHR/IBSC Cell",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=71&Itemid=185",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "section": "Highlights and Publications",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=58&Itemid=141",
+      "error": "HTTPSConnectionPool(host='cusb.ac.in', port=443): Max retries exceeded with url: /index.php?option=com_content&view=article&id=58&Itemid=141 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cusb.ac.in', port=443) at 0x2d6d43290f0>, 'Connection to cusb.ac.in timed out. (connect timeout=30)'))"
+    }
+  ]
+}

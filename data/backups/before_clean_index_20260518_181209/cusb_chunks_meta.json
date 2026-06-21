@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2026-05-16T04:41:53.898147+00:00",
+  "include_qa_in_index": true,
+  "total_chunks": 5298,
+  "markdown_chunks": 5123,
+  "qa_chunks": 175,
+  "min_chars": 3,
+  "max_chars": 7582,
+  "avg_chars": 3014,
+  "markdown_path": "D:\\CUSB-RAG-System\\data\\final_merged_corpus.md",
+  "qa_dataset_path": "D:\\CUSB-RAG-System\\data\\final_data_set.json"
+}

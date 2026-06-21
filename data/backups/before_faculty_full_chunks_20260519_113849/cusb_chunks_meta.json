@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2026-05-19T06:00:30.464779+00:00",
+  "total_chunks": 26789,
+  "added_faculty_summary_chunks": 27,
+  "include_qa_in_index": false,
+  "source": "clean chunks plus department-wise faculty summary chunks",
+  "backup_dir": "data\\backups\\before_faculty_summary_chunks_20260519_113000",
+  "min_chars": 122,
+  "max_chars": 2383,
+  "avg_chars": 1304.07,
+  "requires_index_rebuild": true
+}

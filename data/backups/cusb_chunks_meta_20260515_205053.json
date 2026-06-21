@@ -1,0 +1,22 @@
+{
+  "created_at_utc": "2026-05-15T20:46:14.002793+00:00",
+  "builder": "build_research_chunks.py",
+  "corpus_path": "D:\\CUSB-RAG-System\\data\\cusb_research_corpus.jsonl",
+  "pdf_corpus_path": "D:\\CUSB-RAG-System\\data\\cusb_research_pdf_corpus.jsonl",
+  "web_record_count": 75,
+  "pdf_record_count": 20,
+  "record_count": 95,
+  "total_chunks": 228,
+  "min_chars": 183,
+  "max_chars": 5427,
+  "avg_chars": 2233,
+  "max_source_chars": 1800,
+  "overlap": 180,
+  "include_qa_in_index": false,
+  "source": "cleaned_cusb_research_corpus",
+  "backups": [
+    "D:\\CUSB-RAG-System\\data\\backups\\cusb_chunks_20260515_204613.pkl",
+    "D:\\CUSB-RAG-System\\data\\backups\\cusb_chunks_preview_20260515_204613.json",
+    "D:\\CUSB-RAG-System\\data\\backups\\cusb_chunks_meta_20260515_204613.json"
+  ]
+}

@@ -13,7 +13,8 @@ DATA_DIR = BASE_DIR / "data"
 EVAL_DIR = BASE_DIR / "eval"
 REPORTS_DIR = BASE_DIR / "reports"
 
-MARKDOWN_PATH = DATA_DIR / "CUSB_markdown.md"
+MARKDOWN_FILE = os.getenv("MARKDOWN_FILE", "CUSB_markdown.md")
+MARKDOWN_PATH = DATA_DIR / MARKDOWN_FILE
 QA_DATASET_PATH = DATA_DIR / "final_data_set.json"
 CHUNKS_PATH = DATA_DIR / "cusb_chunks.pkl"
 CHUNKS_JSON_PATH = DATA_DIR / "cusb_chunks_preview.json"
@@ -22,6 +23,10 @@ INDEX_PATH = DATA_DIR / "cusb_vector.index"
 EMBED_PATH = DATA_DIR / "cusb_embeddings.npy"
 
 EMBED_MODEL = os.getenv("EMBED_MODEL", "paraphrase-multilingual-MiniLM-L12-v2")
+VECTOR_BACKEND = os.getenv("VECTOR_BACKEND", "qdrant").lower()
+QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
+QDRANT_PATH = os.getenv("QDRANT_PATH", str(DATA_DIR / "qdrant_local"))
+QDRANT_COLLECTION = os.getenv("QDRANT_COLLECTION", "cusb_chunks")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
 

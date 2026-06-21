@@ -1,0 +1,25 @@
+{
+  "input_pages": 100,
+  "output_records": 75,
+  "skipped": {
+    "duplicate_raw_hash": 8,
+    "too_short_after_cleaning": 17
+  },
+  "noise_line_count": 201,
+  "min_chars": 500,
+  "min_line_chars": 4,
+  "noise_ratio": 0.35,
+  "built_at_utc": "2026-05-15T20:36:14.949337+00:00",
+  "category_counts": {
+    "admission": 11,
+    "syllabus": 21,
+    "examination": 7,
+    "policy": 4,
+    "faculty": 20,
+    "fees": 2,
+    "student_support": 3,
+    "general": 7
+  },
+  "total_chars": 223535,
+  "total_pdf_links": 1105
+}

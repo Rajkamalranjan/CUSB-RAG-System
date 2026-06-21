@@ -1,0 +1,33 @@
+project:
+  name: CUSB RAG
+  university: Central University of South Bihar
+  environment: local-no-docker
+
+hardware:
+  extraction_gpu: NVIDIA GTX 1650 4GB
+  target_gpu: NVIDIA RTX 4070 SUPER 12GB
+  precision: fp16
+
+data:
+  corpus_dir: data
+  benchmark_dir: data/benchmark
+  chunk_size_tokens: 800
+  chunk_overlap_tokens: 100
+  min_chunk_chars: 250
+
+retrieval:
+  vector_store: qdrant
+  fallback_vector_store: faiss
+  dense_top_k: 20
+  bm25_top_k: 20
+  fused_top_k: 30
+  final_top_k: 5
+  rrf_k: 60
+  require_citations: true
+
+generation:
+  provider: gemini
+  fallback_providers:
+    - openai
+    - ollama
+  not_found_answer: I could not find this in available CUSB data.

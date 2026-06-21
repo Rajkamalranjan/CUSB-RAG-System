@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2026-05-18T11:25:21.815486+00:00",
+  "source_file": "data\\admission_fee\\pg_course_fee.pdf",
+  "record_count": 17,
+  "failed_records": 0,
+  "outputs": {
+    "markdown": "data\\CUSB_pg_course_fee_clean.md",
+    "jsonl": "data\\cusb_pg_course_fee_clean.jsonl",
+    "metadata": "data\\cusb_pg_course_fee_clean_meta.json",
+    "admission_markdown_with_pg_course_fee": "data\\CUSB_admission_fee_pdfs.md"
+  }
+}

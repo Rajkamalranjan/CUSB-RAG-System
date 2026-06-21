@@ -1,0 +1,13 @@
+{
+  "created_at_utc": "2026-05-18T12:42:37.622258+00:00",
+  "source": "data/cusb_chunks_clean.pkl",
+  "total_chunks": 26762,
+  "min_chars": 122,
+  "max_chars": 1900,
+  "avg_chars": 1304.11,
+  "p50_chars": 1339,
+  "p95_chars": 1384,
+  "include_qa_in_index": false,
+  "notes": "Promoted cleaned chunks to runtime chunk file.",
+  "backup_dir": "data\\backups\\before_clean_index_20260518_181209"
+}

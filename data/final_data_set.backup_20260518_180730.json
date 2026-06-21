@@ -1,0 +1,3503 @@
+[
+  {
+    "input": "CUSB kya hai? / What is CUSB?",
+    "output": "Central University of South Bihar ek central university hai jo Gaya, Bihar me sthit hai. / Central University of South Bihar is a central university located in Gaya, Bihar."
+  },
+  {
+    "input": "CUSB kaha hai? / Where is CUSB located?",
+    "output": "CUSB Gaya, Bihar ke Panchanpur ke paas sthit hai. / CUSB is located near Panchanpur in Gaya, Bihar."
+  },
+  {
+    "input": "What is the full name of CUSB? / CUSB ka poora naam kya hai?",
+    "output": "Central University of South Bihar. / Central University of South Bihar."
+  },
+  {
+    "input": "What is the motto of CUSB? / CUSB ka aadarsh vakya kya hai?",
+    "output": "Knowledge is Power / Gyan hi Shakti hai"
+  },
+  {
+    "input": "Is CUSB approved by UGC? / Kya CUSB UGC se manyat prapt hai?",
+    "output": "Yes, it is a Central University established by an Act of Parliament. / Haan, yeh Sansad ke Adhiniyam dwara sthaapit Central University hai."
+  },
+  {
+    "input": "Does CUSB have NAAC accreditation? / Kya CUSB ke paas NAAC accreditation hai?",
+    "output": "Yes, NAAC accredited with A++ grade. / Haan, NAAC A++ grade se manyat prapt."
+  },
+  {
+    "input": "What is the NIRF ranking of CUSB? / CUSB ki NIRF ranking kya hai?",
+    "output": "It ranks in the 101-150 band among Indian universities. / Bharatiya vishwavidyalayon mein 101-150 ke beech mein sthan."
+  },
+  {
+    "input": "How many schools are there in CUSB? / CUSB mein kitne school hain?",
+    "output": "12 schools. / 12 school hain."
+  },
+  {
+    "input": "How many departments are in CUSB? / CUSB mein kitne vibhag hain?",
+    "output": "More than 30 departments across various schools. / 30 se adhik vibhag."
+  },
+  {
+    "input": "What is the campus area of CUSB? / CUSB ka campus kshetrafal kya hai?",
+    "output": "Approximately 300 acres. / Lagbhag 300 ekad."
+  },
+  {
+    "input": "Is the campus fully functional? / Kya campus poora karyaashil hai?",
+    "output": "Phase I is functional; Phase II is under construction. / Pehla charan karyaashil, doosra charan nirmaanadheen."
+  },
+  {
+    "input": "What is the student intake per year? / Prati varsh kitne students pravesh lete hain?",
+    "output": "Approximately 1500-2000 students across all programs. / Sabhi programs mein lagbhag 1500-2000 students."
+  },
+  {
+    "input": "How many faculty members are there? / Faculty members ki sankhya kitni hai?",
+    "output": "Around 200 permanent faculty. / Lagbhag 200 sthaayi faculty."
+  },
+  {
+    "input": "What is the student-faculty ratio? / Student-faculty ratio kya hai?",
+    "output": "Approximately 15:1. / Lagbhag 15:1."
+  },
+  {
+    "input": "Does CUSB offer distance learning? / Kya CUSB door se shikshan (distance learning) pradan karta hai?",
+    "output": "No, all programs are regular. / Nahi, sabhi programs regular hain."
+  },
+  {
+    "input": "Is there any part-time PhD? / Kya part-time PhD hota hai?",
+    "output": "Yes, for working professionals with permission. / Haan, karyarat peshevaron ke liye anumati se."
+  },
+  {
+    "input": "What is the duration of Integrated courses? / Integrated courses ki avadhi kya hai?",
+    "output": "Mostly 5 years. / Aam taur par 5 saal."
+  },
+  {
+    "input": "What is the fee for BA course? / BA course ki fee kya hai?",
+    "output": "Approximately 10,000 per year. / Lagbhag 10,000 prati varsh."
+  },
+  {
+    "input": "What is the fee for BSc course? / BSc course ki fee kya hai?",
+    "output": "Approximately 12,000 per year. / Lagbhag 12,000 prati varsh."
+  },
+  {
+    "input": "What is the fee for MA course? / MA course ki fee kya hai?",
+    "output": "Approximately 10,000 per year. / Lagbhag 10,000 prati varsh."
+  },
+  {
+    "input": "What is the fee for MSc course? / MSc course ki fee kya hai?",
+    "output": "Approximately 15,000 per year. / Lagbhag 15,000 prati varsh."
+  },
+  {
+    "input": "What is the fee for MBA? / MBA ki fee kya hai?",
+    "output": "Approximately 30,000 per year. / Lagbhag 30,000 prati varsh."
+  },
+  {
+    "input": "What is the fee for MCA? / MCA ki fee kya hai?",
+    "output": "MCA is not currently offered. / MCA abhi nahi hai."
+  },
+  {
+    "input": "What is the fee for LLM? / LLM ki fee kya hai?",
+    "output": "Approximately 20,000 per year. / Lagbhag 20,000 prati varsh."
+  },
+  {
+    "input": "What is the fee for PhD? / PhD ki fee kya hai?",
+    "output": "Approximately 15,000 per year (course work period). / Lagbhag 15,000 prati varsh (course work avadhi)."
+  },
+  {
+    "input": "Are there any additional charges like development fee? / Kya koi atirikt vikas shulk hai?",
+    "output": "Yes, nominal development fee of 2000 per year. / Haan, 2000 prati varsh ka vikas shulk."
+  },
+  {
+    "input": "Is there a refundable caution deposit? / Kya refundable caution deposit hota hai?",
+    "output": "Yes, 5000 at the time of admission. / Haan, pravesh ke samay 5000."
+  },
+  {
+    "input": "What is the examination fee per semester? / Prati semester pariksha shulk kya hai?",
+    "output": "Around 1500 per semester. / Lagbhag 1500 prati semester."
+  },
+  {
+    "input": "Does CUSB provide any scholarship for meritorious students? / Kya CUSB yogya students ko scholarship deta hai?",
+    "output": "Yes, merit-cum-means scholarship available. / Haan, merit-cum-means scholarship uplabdh."
+  },
+  {
+    "input": "How to apply for scholarship? / Scholarship ke liye kaise apply karein?",
+    "output": "Through National Scholarship Portal (NSP). / National Scholarship Portal (NSP) ke madhyam se."
+  },
+  {
+    "input": "What is the last date for scholarship application? / Scholarship application ki antim tarikh kya hai?",
+    "output": "Usually September-October. / Aam taur par September-October."
+  },
+  {
+    "input": "Is there any sports quota scholarship? / Kya sports quota scholarship hai?",
+    "output": "Yes, for national level players. / Haan, rashtriya star ke khiladiyon ke liye."
+  },
+  {
+    "input": "Can SC/ST students get post-matric scholarship? / Kya SC/ST students post-matric scholarship le sakte hain?",
+    "output": "Yes, from state government. / Haan, rajya sarkar se."
+  },
+  {
+    "input": "What is the hostel fee for girls? / Girls hostel ki fee kya hai?",
+    "output": "Same as boys: 16000 first sem, 9000 subsequent sem. / Boys ke samaan."
+  },
+  {
+    "input": "Is there a separate hostel for research scholars? / Kya research scholars ke liye alag hostel hai?",
+    "output": "No, they share with PG students. / Nahi, ve PG students ke saath rehte hain."
+  },
+  {
+    "input": "How many hostels are there? / Kitne hostel hain?",
+    "output": "4 hostels: 2 boys, 2 girls. / 4 hostel: 2 boys, 2 girls."
+  },
+  {
+    "input": "Is there a hostel for married students? / Kya vivahit students ke liye hostel hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the mess menu like? / Mess ka menu kaisa hota hai?",
+    "output": "Roti, sabzi, dal, chawal, salad, and occasionally sweets. / Roti, sabzi, dal, chawal, salad, aur kabhi kabhi mithai."
+  },
+  {
+    "input": "Is non-veg served in mess? / Kya mess mein non-veg milta hai?",
+    "output": "No, only vegetarian. / Nahi, keval shakahari."
+  },
+  {
+    "input": "Can students order food from outside? / Kya students bahar se khana manga sakte hain?",
+    "output": "Yes, but not inside hostel rooms after curfew. / Haan, lekin curfew ke baad hostel rooms mein nahi."
+  },
+  {
+    "input": "Is there a refrigerator in hostel? / Kya hostel mein refrigerator hai?",
+    "output": "No, common fridge not available. / Nahi, common fridge nahi."
+  },
+  {
+    "input": "Are washing machines available? / Kya washing machines available hain?",
+    "output": "Yes, paid service in some hostels. / Haan, kuch hostels mein paid seva."
+  },
+  {
+    "input": "What is the hostel room size? / Hostel room ka aakar kya hai?",
+    "output": "Approximately 10x12 feet for triple sharing. / Triple sharing ke liye lagbhag 10x12 feet."
+  },
+  {
+    "input": "Is there an attached bathroom in every room? / Kya har room mein attached bathroom hai?",
+    "output": "Some rooms have attached, some have common. / Kuch rooms mein attached, kuch mein common."
+  },
+  {
+    "input": "What is the drinking water facility? / Pani peene ki suvidha kya hai?",
+    "output": "RO water coolers on each floor. / Har floor par RO water cooler."
+  },
+  {
+    "input": "Is there hot water in winter? / Kya sardi mein garam pani milta hai?",
+    "output": "Solar water heaters and geysers in some hostels. / Solar water heaters aur kuch hostels mein geysers."
+  },
+  {
+    "input": "Are there power backups in hostels? / Kya hostels mein power backup hai?",
+    "output": "Yes, inverters for lights and fans. / Haan, lights aur fans ke liye inverters."
+  },
+  {
+    "input": "Is there a common room with TV? / Kya common room TV ke saath hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Can students bring their own TV or refrigerator? / Kya students apna TV ya refrigerator la sakte hain?",
+    "output": "Not allowed. / Anumati nahi."
+  },
+  {
+    "input": "What is the hostel check-in time? / Hostel mein pravesh ka samay kya hai?",
+    "output": "Before 8 PM. / Raat 8 baje se pehle."
+  },
+  {
+    "input": "Is there a fine for late entry? / Kya late entry par jurmana hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Are visitors allowed in hostel? / Kya visitors hostel mein aa sakte hain?",
+    "output": "Only parents/guardians with permission. / Keval mata-pita/abhivavak anumati se."
+  },
+  {
+    "input": "Can male students visit girls' hostel? / Kya male students girls hostel ja sakte hain?",
+    "output": "Strictly prohibited. / Sampurna roop se varjit."
+  },
+  {
+    "input": "Is there a curfew for girls? / Kya girls ke liye curfew hai?",
+    "output": "Yes, 7 PM for girls, 8 PM for boys. / Haan, girls ke liye 7 PM, boys ke liye 8 PM."
+  },
+  {
+    "input": "What is the punishment for violating curfew? / Curfew ullanghan par kya saza hai?",
+    "output": "Fine and disciplinary action. / Jurmana aur anushasanik karyavahi."
+  },
+  {
+    "input": "Is there a student warden? / Kya student warden hota hai?",
+    "output": "Yes, each hostel has a warden. / Haan, pratyek hostel ka ek warden hota hai."
+  },
+  {
+    "input": "How to register a complaint in hostel? / Hostel mein shikayat kaise darj karein?",
+    "output": "Contact the warden or use online grievance portal. / Warden se sampark karein ya online grievance portal upyog karein."
+  },
+  {
+    "input": "Is there a medical room in hostel? / Kya hostel mein medical room hai?",
+    "output": "Yes, basic first-aid available. / Haan, basic first-aid uplabdh."
+  },
+  {
+    "input": "What is the nearest hospital to hostel? / Hostel ke paas ka nearest hospital kaunsa hai?",
+    "output": "Anugrah Narayan Magadh Medical College, Gaya. / Anugrah Narayan Magadh Medical College, Gaya."
+  },
+  {
+    "input": "Does the university provide an ambulance? / Kya university ambulance pradan karti hai?",
+    "output": "Yes, for emergency. / Haan, aakasmik sthiti mein."
+  },
+  {
+    "input": "Is there a gym inside hostel? / Kya hostel ke andar gym hai?",
+    "output": "No, open gym is outside. / Nahi, open gym bahar hai."
+  },
+  {
+    "input": "Are there indoor games in hostel? / Kya hostel mein indoor games hain?",
+    "output": "Table tennis, carrom, chess in common room. / Common room mein table tennis, carrom, chess."
+  },
+  {
+    "input": "Is there a library inside hostel? / Kya hostel mein library hai?",
+    "output": "No, central library is separate. / Nahi, central library alag hai."
+  },
+  {
+    "input": "Can students receive parcels in hostel? / Kya students hostel mein parcel le sakte hain?",
+    "output": "Yes, at the security gate. / Haan, security gate par."
+  },
+  {
+    "input": "Is there a canteen inside hostel? / Kya hostel ke andar canteen hai?",
+    "output": "Yes, one canteen near hostels. / Haan, hostels ke paas ek canteen."
+  },
+  {
+    "input": "What are the canteen timings? / Canteen ke samay kya hain?",
+    "output": "8 AM to 10 PM. / Subah 8 se raat 10 baje."
+  },
+  {
+    "input": "Does canteen provide breakfast? / Kya canteen nashta pradan karta hai?",
+    "output": "Yes, limited items. / Haan, seemit vikalp."
+  },
+  {
+    "input": "What is the cost of a meal in canteen? / Canteen mein ek meal ki cost kya hai?",
+    "output": "30-50. / 30-50."
+  },
+  {
+    "input": "Is there a tea stall? / Kya chai ki dukaan hai?",
+    "output": "Yes, near the hostel gate. / Haan, hostel gate ke paas."
+  },
+  {
+    "input": "What is the WiFi speed in hostel? / Hostel mein WiFi speed kya hai?",
+    "output": "Up to 100 Mbps. / 100 Mbps tak."
+  },
+  {
+    "input": "Is WiFi free? / Kya WiFi muft hai?",
+    "output": "Yes, for students. / Haan, students ke liye muft."
+  },
+  {
+    "input": "Are there any restrictions on internet usage? / Kya internet upyog par koi rok hai?",
+    "output": "No torrent or adult content. / Torrent ya ashlil content varjit."
+  },
+  {
+    "input": "Can students use VPN? / Kya students VPN upyog kar sakte hain?",
+    "output": "Allowed, but some VPNs may be blocked. / Anumati hai, lekin kuch VPN blocked ho sakte hain."
+  },
+  {
+    "input": "How to change WiFi password? / WiFi password kaise badlein?",
+    "output": "Contact computer centre. / Computer centre se sampark karein."
+  },
+  {
+    "input": "Is there a computer lab in hostel? / Kya hostel mein computer lab hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Does CUSB provide hostel for international students? / Kya CUSB antarrashtriya students ko hostel pradan karta hai?",
+    "output": "Yes, on priority basis. / Haan, prathmikta ke aadhar par."
+  },
+  {
+    "input": "What is the hostel fee for international students? / Antarrashtriya students ke liye hostel fee kya hai?",
+    "output": "Same as Indian students. / Bhartiya students ke samaan."
+  },
+  {
+    "input": "Is there a separate mess for international students? / Kya antarrashtriya students ke liye alag mess hai?",
+    "output": "No, common mess. / Nahi, common mess."
+  },
+  {
+    "input": "Can international students get vegetarian food? / Kya antarrashtriya students shakahari bhojan le sakte hain?",
+    "output": "Yes, mess is pure vegetarian. / Haan, mess pure vegetarian hai."
+  },
+  {
+    "input": "What is the visa process for international students? / Antarrashtriya students ke liye visa prakriya kya hai?",
+    "output": "University provides invitation letter; student applies for student visa. / University nimantran patra deti hai; student student visa ke liye apply kare."
+  },
+  {
+    "input": "Is there an international student cell? / Kya antarrashtriya student cell hai?",
+    "output": "Yes, under the Dean of International Relations. / Haan, Dean of International Relations ke adheen."
+  },
+  {
+    "input": "What is the climate like in Gaya? / Gaya ki jalvayu kaisi hai?",
+    "output": "Extreme summers (45C), mild winters (5-20C), monsoon from June to September. / Ati garmi (45C), halki sardi (5-20C), monsoon June se September."
+  },
+  {
+    "input": "What is the best time to visit campus? / Campus dekhne ka sabse achha samay kya hai?",
+    "output": "October to February. / October se February."
+  },
+  {
+    "input": "Does CUSB have a dress code? / Kya CUSB mein dress code hai?",
+    "output": "No strict code, but decent attire expected. / Koi kathor code nahi, lekin susabhy pahnaawa apekshit."
+  },
+  {
+    "input": "Can students wear shorts in campus? / Kya students campus mein shorts pehen sakte hain?",
+    "output": "Not in academic buildings. / Academic buildings mein nahi."
+  },
+  {
+    "input": "Is there a prohibition on campus? / Kya campus mein sharaab band hai?",
+    "output": "Yes, strictly prohibited. / Haan, sakht varjit."
+  },
+  {
+    "input": "What is the punishment for alcohol possession? / Sharaab rakhne par kya saza hai?",
+    "output": "Immediate expulsion and legal action. / Tatkal nishkasan aur kanuni karyavahi."
+  },
+  {
+    "input": "Are there any ragging cases reported? / Kya ragging ke koi mamle samne aaye hain?",
+    "output": "No, strict anti-ragging measures. / Nahi, kadi anti-ragging vyavastha."
+  },
+  {
+    "input": "How to report ragging? / Ragging ki shikayat kaise karein?",
+    "output": "Anti-ragging helpline, email, or committee. / Anti-ragging helpline, email, ya committee."
+  },
+  {
+    "input": "Is there a women's grievance cell? / Kya mahila grievance cell hai?",
+    "output": "Yes, active. / Haan, sakriya."
+  },
+  {
+    "input": "What is the process for sexual harassment complaint? / Yaun utpeedan ki shikayat ki kya prakriya hai?",
+    "output": "File complaint with Internal Complaints Committee. / Internal Complaints Committee mein shikayat darj karein."
+  },
+  {
+    "input": "Does CUSB have a counselling cell? / Kya CUSB mein counselling cell hai?",
+    "output": "Yes, psychological counselling available. / Haan, manovaigyanik counselling uplabdh."
+  },
+  {
+    "input": "Is the counsellor qualified? / Kya counsellor yogya hai?",
+    "output": "Yes, PhD in Psychology. / Haan, Psychology mein PhD."
+  },
+  {
+    "input": "Can students get career counselling? / Kya students career counselling le sakte hain?",
+    "output": "Yes, placement cell provides it. / Haan, placement cell pradan karta hai."
+  },
+  {
+    "input": "Are there any workshops on soft skills? / Kya soft skills par workshop hote hain?",
+    "output": "Yes, regularly. / Haan, niyamit roop se."
+  },
+  {
+    "input": "What is the placement percentage for MBA? / MBA ki placement percentage kya hai?",
+    "output": "Approximately 70%. / Lagbhag 70%."
+  },
+  {
+    "input": "What is the average package for MBA? / MBA ka average package kya hai?",
+    "output": "4-6 LPA. / 4-6 LPA."
+  },
+  {
+    "input": "What is the highest package offered? / Sabse adhik package kya diya gaya?",
+    "output": "Up to 12 LPA in MBA. / MBA mein 12 LPA tak."
+  },
+  {
+    "input": "Which companies visit for placement? / Placement ke liye kaun si companies aati hain?",
+    "output": "TCS, Wipro, Infosys, HDFC, ICICI, and startups. / TCS, Wipro, Infosys, HDFC, ICICI, aur startups."
+  },
+  {
+    "input": "Does CUSB have a placement record for BSc students? / Kya BSc students ke liye placement record hai?",
+    "output": "Limited; mostly higher studies. / Seemit; adhikansh higher studies."
+  },
+  {
+    "input": "Is there any internship compulsory? / Kya internship anivarya hai?",
+    "output": "For some PG courses, yes. / Kuch PG courses ke liye, haan."
+  },
+  {
+    "input": "Does CUSB have a summer internship program? / Kya CUSB ka summer internship program hai?",
+    "output": "Students arrange their own; university helps with letters. / Students khud vyavastha karte hain; university patra mein madad karti hai."
+  },
+  {
+    "input": "Are there any research internships for PhD? / Kya PhD ke liye research internships hain?",
+    "output": "Yes, through funded projects. / Haan, vitthit pariyojnaon ke madhyam se."
+  },
+  {
+    "input": "What is the stipend for PhD? / PhD ka stipend kya hai?",
+    "output": "As per UGC norms: 31,000-35,000 per month for JRF/NET. / UGC niyamanusar: JRF/NET ke liye 31,000-35,000 prati mahina."
+  },
+  {
+    "input": "Are there any teaching assistantships? / Kya teaching assistantships hain?",
+    "output": "Yes, for PG and PhD students. / Haan, PG aur PhD students ke liye."
+  },
+  {
+    "input": "How to apply for TA? / TA ke liye kaise apply karein?",
+    "output": "Contact the department head. / Vibhaagadhyaksh se sampark karein."
+  },
+  {
+    "input": "What is the TA stipend? / TA stipend kya hai?",
+    "output": "Around 5000 per month. / Lagbhag 5000 prati mahina."
+  },
+  {
+    "input": "Does CUSB have any industry collaborations? / Kya CUSB ke udyog sahyog hain?",
+    "output": "Yes, MOUs with some companies for training. / Haan, prashikshan ke liye kuch companies ke saath MOUs."
+  },
+  {
+    "input": "Is there an incubation center? / Kya incubation center hai?",
+    "output": "Under development. / Nirmaanadheen."
+  },
+  {
+    "input": "Can students start their own startup? / Kya students apna startup shuru kar sakte hain?",
+    "output": "Yes, with support from E-cell. / Haan, E-cell ke sahyog se."
+  },
+  {
+    "input": "Does CUSB provide seed funding? / Kya CUSB seed funding pradan karta hai?",
+    "output": "Not directly, but guidance and mentorship. / Seedhe nahi, lekin margdarshan aur mentorship."
+  },
+  {
+    "input": "Are there any hackathons organized? / Kya hackathons aayojit hote hain?",
+    "output": "Yes, by Computer Science department. / Haan, Computer Science vibhag dwara."
+  },
+  {
+    "input": "What is the academic calendar? / Academic calendar kya hai?",
+    "output": "Two semesters: July-November and January-May. / Do semester: July-November aur January-May."
+  },
+  {
+    "input": "When do admissions start? / Pravesh kab shuru hote hain?",
+    "output": "Usually March-April for CUET, then counselling in June-July. / Aam taur par March-April CUET, fir counselling June-July."
+  },
+  {
+    "input": "What is the last date for admission? / Pravesh ki antim tarikh kya hai?",
+    "output": "Varies yearly; check website. / Prati varsh badalti hai; website dekhein."
+  },
+  {
+    "input": "Is there a management quota? / Kya management quota hai?",
+    "output": "No, all admissions through CUET. / Nahi, sabhi admissions CUET ke madhyam se."
+  },
+  {
+    "input": "Can I get admission without CUET? / Kya CUET ke bina admission mil sakta hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the cut-off for BSc? / BSc ke liye cut-off kya hai?",
+    "output": "Varies by category and subject; typically 70-80 percentile. / Category aur vishay ke anusar badalta hai; aam taur par 70-80 percentile."
+  },
+  {
+    "input": "What is the cut-off for MA? / MA ke liye cut-off kya hai?",
+    "output": "Around 60-70 percentile. / Lagbhag 60-70 percentile."
+  },
+  {
+    "input": "What is the cut-off for MSc? / MSc ke liye cut-off kya hai?",
+    "output": "65-75 percentile. / 65-75 percentile."
+  },
+  {
+    "input": "What is the cut-off for MBA? / MBA ke liye cut-off kya hai?",
+    "output": "80+ percentile in CUET PG. / CUET PG mein 80+ percentile."
+  },
+  {
+    "input": "What is the cut-off for LLB? / LLB ke liye cut-off kya hai?",
+    "output": "70-80 percentile. / 70-80 percentile."
+  },
+  {
+    "input": "Does CUSB accept CUET UG scores? / Kya CUSB CUET UG scores sweekar karta hai?",
+    "output": "Yes for UG courses. / Haan, UG courses ke liye."
+  },
+  {
+    "input": "Does CUSB accept CUET PG scores? / Kya CUSB CUET PG scores sweekar karta hai?",
+    "output": "Yes for PG courses. / Haan, PG courses ke liye."
+  },
+  {
+    "input": "Does CUSB accept NET/JRF for PhD? / Kya CUSB PhD ke liye NET/JRF sweekar karta hai?",
+    "output": "Yes, exemption from entrance exam. / Haan, pravesh pariksha se chhoot."
+  },
+  {
+    "input": "Is there an age limit for UG courses? / Kya UG courses ke liye aayu seema hai?",
+    "output": "No, but for D.Pharm max 25 years. / Nahi, lekin D.Pharm ke liye adhiktam 25 varsh."
+  },
+  {
+    "input": "Is there an age limit for PG courses? / Kya PG courses ke liye aayu seema hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Can a 12th pass from any board apply? / Kya kisi bhi board se 12th pass apply kar sakta hai?",
+    "output": "Yes, recognized board. / Haan, manyat prapt board."
+  },
+  {
+    "input": "Is there any entrance exam for foreign students? / Kya videshi students ke liye pravesh pariksha hai?",
+    "output": "They may need CUET or equivalent as per UGC. / Unhe UGC ke anusar CUET ya samaan dena hoga."
+  },
+  {
+    "input": "Does CUSB have any quota for Kashmiri migrants? / Kya CUSB mein Kashmiri migrants ke liye quota hai?",
+    "output": "Yes, as per government norms. / Haan, sarkari niyamanusar."
+  },
+  {
+    "input": "Is there a reservation for ex-servicemen? / Kya poorv senaniyon ke liye aarakshan hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the fee for foreign students? / Videshi students ke liye fee kya hai?",
+    "output": "Same as Indian, plus registration fee. / Bhartiyon ke samaan, plus registration fee."
+  },
+  {
+    "input": "Does CUSB provide on-campus accommodation for foreign students? / Kya CUSB videshi students ko campus par aawas pradan karta hai?",
+    "output": "Yes, on priority. / Haan, prathmikta par."
+  },
+  {
+    "input": "How many international students are currently enrolled? / Vartaman mein kitne videshi students enrol hain?",
+    "output": "Approximately 30-40. / Lagbhag 30-40."
+  },
+  {
+    "input": "Is there a cultural exchange program? / Kya cultural exchange program hai?",
+    "output": "Yes, through ICCR. / Haan, ICCR ke madhyam se."
+  },
+  {
+    "input": "Does CUSB have a sister university abroad? / Kya CUSB ka videsh mein sister university hai?",
+    "output": "Yes, MOUs with universities in Nepal, Bhutan. / Haan, Nepal, Bhutan ki universities ke saath MOUs."
+  },
+  {
+    "input": "Can students go on exchange for a semester? / Kya students ek semester ke liye exchange par ja sakte hain?",
+    "output": "Limited opportunities. / Seemit avasar."
+  },
+  {
+    "input": "What is the procedure for exchange program? / Exchange program ki kya prakriya hai?",
+    "output": "Apply through International Relations Cell. / International Relations Cell ke madhyam se apply karein."
+  },
+  {
+    "input": "Is there any scholarship for exchange? / Kya exchange ke liye scholarship hai?",
+    "output": "Some government scholarships available. / Kuch sarkari scholarships uplabdh."
+  },
+  {
+    "input": "What is the medium of instruction? / Shikshan ka madhyam kya hai?",
+    "output": "English (and Hindi for some language courses). / English (aur kuch bhasha courses ke liye Hindi)."
+  },
+  {
+    "input": "Are there any Hindi medium courses? / Kya Hindi medium courses hain?",
+    "output": "Yes, MA in Hindi and some Indian languages. / Haan, MA Hindi aur kuch Bharatiya bhashayein."
+  },
+  {
+    "input": "Does CUSB offer Sanskrit? / Kya CUSB Sanskrit offer karta hai?",
+    "output": "Not as a full course, but elective may be available. / Poorn course ke roop mein nahi, lekin elective ho sakta hai."
+  },
+  {
+    "input": "Is there a foreign language course? / Kya videshi bhasha ka course hai?",
+    "output": "Short-term certificate courses sometimes. / Kabhi kabhi short-term certificate course."
+  },
+  {
+    "input": "What is the library collection size? / Library mein kitni kitabein hain?",
+    "output": "Over 50,000 books and 200 journals. / 50,000 se adhik kitabein aur 200 journals."
+  },
+  {
+    "input": "Does the library have e-books? / Kya library mein e-books hain?",
+    "output": "Yes, through e-ShodhSindhu and NDL. / Haan, e-ShodhSindhu aur NDL ke madhyam se."
+  },
+  {
+    "input": "Can students access library from home? / Kya students ghar se library access kar sakte hain?",
+    "output": "Yes, using remote login. / Haan, remote login se."
+  },
+  {
+    "input": "What is the library membership fee for staff? / Staff ke liye library membership fee kya hai?",
+    "output": "Free for staff. / Staff ke liye muft."
+  },
+  {
+    "input": "Are there any rare books? / Kya koi durlabh kitabein hain?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Does the library have a manuscript section? / Kya library mein hastalikhit section hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the borrowing limit for PhD? / PhD ke liye borrowing limit kya hai?",
+    "output": "10 books for 30 days. / 10 kitabein 30 din ke liye."
+  },
+  {
+    "input": "Can students issue reference books? / Kya students reference books issue kar sakte hain?",
+    "output": "Only overnight, returned by next morning. / Keval overnight, agle subah vaapas karein."
+  },
+  {
+    "input": "Is there a book bank for SC/ST? / Kya SC/ST ke liye book bank hai?",
+    "output": "Yes, limited number of books. / Haan, seemit sankhya mein."
+  },
+  {
+    "input": "What is the late fee for library books? / Library books ki late fee kya hai?",
+    "output": "2 per day per book. / 2 prati din prati book."
+  },
+  {
+    "input": "Can students donate books to library? / Kya students library ko kitaben daan kar sakte hain?",
+    "output": "Yes, with acknowledgment. / Haan, sweekriti ke saath."
+  },
+  {
+    "input": "Does the library conduct orientation? / Kya library orientation karti hai?",
+    "output": "Yes, at start of session. / Haan, session ke shuruaat mein."
+  },
+  {
+    "input": "What is the library's online catalogue? / Library ka online catalogue kya hai?",
+    "output": "OPAC available on website. / Website par OPAC uplabdh."
+  },
+  {
+    "input": "Can students reserve books online? / Kya students online book reserve kar sakte hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the process for inter-library loan? / Inter-library loan ki kya prakriya hai?",
+    "output": "Request through librarian. / Librarian ke madhyam se anurodh."
+  },
+  {
+    "input": "Does CUSB have a membership of INFLIBNET? / Kya CUSB INFLIBNET ki sadasyon hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the turnitin access? / Turnitin access kya hai?",
+    "output": "Available for research scholars. / Research scholars ke liye uplabdh."
+  },
+  {
+    "input": "Is there a plagiarism check policy? / Kya plagiarism check ki niti hai?",
+    "output": "Yes, mandatory for thesis. / Haan, thesis ke liye anivarya."
+  },
+  {
+    "input": "What is the acceptable plagiarism percentage? / Plagiarism ki swikar yogya pratishat kya hai?",
+    "output": "Below 10%. / 10% se kam."
+  },
+  {
+    "input": "Does CUSB have an anti-plagiarism software? / Kya CUSB ke paas anti-plagiarism software hai?",
+    "output": "Yes, Urkund or Turnitin. / Haan, Urkund ya Turnitin."
+  },
+  {
+    "input": "How to submit thesis? / Thesis kaise submit karein?",
+    "output": "Through Samarth portal and physical copy to department. / Samarth portal aur physical copy vibhag mein."
+  },
+  {
+    "input": "What is the PhD coursework duration? / PhD coursework ki avadhi kya hai?",
+    "output": "One semester (6 months). / Ek semester (6 mahine)."
+  },
+  {
+    "input": "What is the minimum attendance for PhD coursework? / PhD coursework ke liye minimum attendance kya hai?",
+    "output": "80%. / 80%."
+  },
+  {
+    "input": "Can PhD scholars take leave? / Kya PhD scholars chhutti le sakte hain?",
+    "output": "Yes, with supervisor's approval. / Haan, niyamak ki anumati se."
+  },
+  {
+    "input": "What is the maximum duration for PhD? / PhD ki adhikatam avadhi kya hai?",
+    "output": "6 years. / 6 saal."
+  },
+  {
+    "input": "Is there a pre-submission seminar? / Kya pre-submission seminar hota hai?",
+    "output": "Yes, compulsory. / Haan, anivarya."
+  },
+  {
+    "input": "What is the viva voce process? / Viva voce ki kya prakriya hai?",
+    "output": "External examiner conducts after thesis submission. / Thesis submission ke baad bahari parikshak dwara."
+  },
+  {
+    "input": "Does CUSB have a research journal? / Kya CUSB ka research journal hai?",
+    "output": "Yes, \"CUSB Journal of Interdisciplinary Studies\". / Haan, \"CUSB Journal of Interdisciplinary Studies\"."
+  },
+  {
+    "input": "Can students publish in it? / Kya students usme prakaashit kar sakte hain?",
+    "output": "Yes, after peer review. / Haan, samiksha ke baad."
+  },
+  {
+    "input": "Is there a publication fee? / Kya prakaashan shulk hai?",
+    "output": "No, but page charges may apply. / Nahi, lekin page charges lag sakte hain."
+  },
+  {
+    "input": "What is the impact factor of the journal? / Journal ka impact factor kya hai?",
+    "output": "Not yet indexed. / Abhi tak indexed nahi."
+  },
+  {
+    "input": "Does CUSB organize conferences? / Kya CUSB sammelan aayojit karta hai?",
+    "output": "Yes, national and international. / Haan, rashtriya aur antarrashtriya."
+  },
+  {
+    "input": "How to participate in a conference? / Sammelan mein kaise bhag lein?",
+    "output": "Register through department notice. / Vibhag notice ke madhyam se registre karein."
+  },
+  {
+    "input": "Is there a travel grant for conferences? / Kya sammelanon ke liye travel grant hai?",
+    "output": "Limited, for presenting papers. / Seemit, paper prastut karne ke liye."
+  },
+  {
+    "input": "What is the maximum travel grant? / Adhiktam travel grant kitna hai?",
+    "output": "Up to 10,000. / 10,000 tak."
+  },
+  {
+    "input": "Does CUSB have a student welfare fund? / Kya CUSB ka student welfare fund hai?",
+    "output": "Yes, for emergency needs. / Haan, aakasmik aavashyaktaon ke liye."
+  },
+  {
+    "input": "How to apply for emergency fund? / Aakasmik fund ke liye kaise apply karein?",
+    "output": "Contact Dean of Students. / Dean of Students se sampark karein."
+  },
+  {
+    "input": "Is there a student health insurance? / Kya student health insurance hai?",
+    "output": "Not provided by university. / University dwara pradan nahi."
+  },
+  {
+    "input": "Can students avail Ayushman Bharat? / Kya students Ayushman Bharat ka labh le sakte hain?",
+    "output": "If eligible, yes. / Yadi patra hain, haan."
+  },
+  {
+    "input": "What is the nearest pharmacy? / Nearest pharmacy kya hai?",
+    "output": "In Panchanpur, 1 km away. / Panchanpur mein, 1 km door."
+  },
+  {
+    "input": "Are there any part-time jobs on campus? / Kya campus mein part-time jobs hain?",
+    "output": "Library, computer centre, etc., on need basis. / Library, computer centre aadi, aavashyakta anusar."
+  },
+  {
+    "input": "What is the wage for part-time jobs? / Part-time jobs ki mazdoori kya hai?",
+    "output": "50-100 per hour. / 50-100 prati ghanta."
+  },
+  {
+    "input": "Can students work as research assistants? / Kya students research assistant ka kaam kar sakte hain?",
+    "output": "Yes, with faculty. / Haan, faculty ke saath."
+  },
+  {
+    "input": "Is there any job for teaching assistant? / Kya teaching assistant ki naukri hai?",
+    "output": "Yes, for PG/PhD. / Haan, PG/PhD ke liye."
+  },
+  {
+    "input": "What is the selection process for TA? / TA ke liye chayan prakriya kya hai?",
+    "output": "Based on academic performance and interview. / Academic pradarshan aur interview ke aadhar par."
+  },
+  {
+    "input": "Does CUSB have a student ID card? / Kya CUSB ka student ID card hai?",
+    "output": "Yes, issued at admission. / Haan, pravesh par jari."
+  },
+  {
+    "input": "What are the uses of ID card? / ID card ke upyog kya hain?",
+    "output": "Library, hostel entry, exam hall, canteen discount. / Library, hostel entry, pariksha hall, canteen discount."
+  },
+  {
+    "input": "Is there a lost ID card replacement fee? / Khoi ID card ki replacement fee kya hai?",
+    "output": "200. / 200."
+  },
+  {
+    "input": "Can students get a duplicate ID card? / Kya students duplicate ID card le sakte hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Does CUSB have a student app? / Kya CUSB ka student app hai?",
+    "output": "No, but mobile website. / Nahi, lekin mobile website."
+  },
+  {
+    "input": "What is the Samarth portal used for? / Samarth portal ka upyog kya hai?",
+    "output": "Registration, fee payment, exam form, results. / Registration, fee bhugtan, pariksha form, parinaam."
+  },
+  {
+    "input": "Is Samarth portal mandatory? / Kya Samarth portal anivarya hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the login ID for Samarth? / Samarth ke liye login ID kya hai?",
+    "output": "Registration number or email. / Registration number ya email."
+  },
+  {
+    "input": "What if I forget Samarth password? / Agar Samarth password bhool jaun to kya karein?",
+    "output": "Use 'Forgot Password' option. / 'Forgot Password' option upyog karein."
+  },
+  {
+    "input": "Does CUSB have a mobile app for attendance? / Kya CUSB ke paas attendance ke liye mobile app hai?",
+    "output": "No, manual or biometric. / Nahi, manual ya biometric."
+  },
+  {
+    "input": "What is the biometric attendance system? / Biometric attendance system kya hai?",
+    "output": "Fingerprint scanning for some departments. / Kuch vibhagon mein fingerprint scanning."
+  },
+  {
+    "input": "Can students mark attendance online? / Kya students online attendance mark kar sakte hain?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the penalty for proxy attendance? / Proxy attendance par kya saza hai?",
+    "output": "Fine and disciplinary action. / Jurmana aur anushasanik karyavahi."
+  },
+  {
+    "input": "Is there a system of internal assessment? / Kya internal assessment ki pranali hai?",
+    "output": "Yes, 30% weightage. / Haan, 30% bhaar."
+  },
+  {
+    "input": "What are the components of internal assessment? / Internal assessment ke ghatak kya hain?",
+    "output": "Assignments, quizzes, presentations, attendance. / Assignment, quiz, presentation, attendance."
+  },
+  {
+    "input": "How many assignments per subject? / Prati vishay kitne assignments hote hain?",
+    "output": "At least 2 per semester. / Prati semester kam se kam 2."
+  },
+  {
+    "input": "What is the deadline for assignment submission? / Assignment submission ki antim tarikh kya hai?",
+    "output": "Usually before mid-semester exams. / Aam taur par mid-semester exams se pehle."
+  },
+  {
+    "input": "Is there a late submission penalty? / Kya der se submission par jurmana hai?",
+    "output": "Marks deduction. / Ankon ki kati."
+  },
+  {
+    "input": "What is the exam schedule? / Pariksha ka karyakram kya hai?",
+    "output": "Mid-semester in September/February, end-semester in November/May. / Mid-semester September/February mein, end-semester November/May mein."
+  },
+  {
+    "input": "Are exams conducted online or offline? / Pariksha online hoti hai ya offline?",
+    "output": "Offline, pen and paper. / Offline, pen aur paper."
+  },
+  {
+    "input": "What is the passing marks? / Uttirna anka kya hain?",
+    "output": "40% in each subject and overall. / Pratyek vishay mein 40% aur samagra."
+  },
+  {
+    "input": "Is there re-evaluation? / Kya punah mulyankan hota hai?",
+    "output": "Yes, with fee. / Haan, shulk ke saath."
+  },
+  {
+    "input": "What is the re-evaluation fee? / Punah mulyankan shulk kya hai?",
+    "output": "500 per paper. / 500 prati paper."
+  },
+  {
+    "input": "Can students see their answer scripts? / Kya students apni uttar pustika dekh sakte hain?",
+    "output": "Yes, through RTI or after result. / Haan, RTI ya parinaam ke baad."
+  },
+  {
+    "input": "What is the procedure for result verification? / Parinaam satyapan ki kya prakriya hai?",
+    "output": "Apply to examination branch within 15 days. / 15 din ke andar examination branch mein aavedan karein."
+  },
+  {
+    "input": "Is there a supplementary exam? / Kya supplementary pariksha hoti hai?",
+    "output": "Yes, for failed students. / Haan, anuttirna students ke liye."
+  },
+  {
+    "input": "What is the supplementary exam fee? / Supplementary pariksha shulk kya hai?",
+    "output": "1000 per subject. / 1000 prati vishay."
+  },
+  {
+    "input": "How many backlogs are allowed? / Kitne backlogs allowed hain?",
+    "output": "Maximum 4 at a time. / Ek samay mein adhiktam 4."
+  },
+  {
+    "input": "Can a student with backlog appear for next semester? / Kya backlog wala student agle semester mein baith sakta hai?",
+    "output": "Yes, but must clear within max duration. / Haan, lekin adhikatam avadhi ke andar clear karna hoga."
+  },
+  {
+    "input": "What is the maximum duration for UG? / UG ke liye adhikatam avadhi kya hai?",
+    "output": "5 years for a 3-year program. / 3-saal ke program ke liye 5 saal."
+  },
+  {
+    "input": "What is the maximum duration for PG? / PG ke liye adhikatam avadhi kya hai?",
+    "output": "4 years for a 2-year program. / 2-saal ke program ke liye 4 saal."
+  },
+  {
+    "input": "Is there a provision for grace marks? / Kya grace marks ki vyavastha hai?",
+    "output": "Yes, up to 2% for final year. / Haan, antim varsh ke liye 2% tak."
+  },
+  {
+    "input": "What is the CGPA to percentage conversion? / CGPA se pratishat mein kaise badlein?",
+    "output": "Multiply CGPA by 9.5. / CGPA ko 9.5 se guna karein."
+  },
+  {
+    "input": "What is the division criteria? / Vibhajan ka maapdand kya hai?",
+    "output": "60% and above: First division, 50-59%: Second, below 50%: Third. / 60% aur usse adhik: Pratham, 50-59%: Dwitiya, 50% se kam: Tritiya."
+  },
+  {
+    "input": "Does CUSB have a gold medal for toppers? / Kya CUSB mein toppers ke liye gold medal hai?",
+    "output": "Yes, for highest CGPA in each program. / Haan, pratyek program mein sarvochch CGPA ke liye."
+  },
+  {
+    "input": "What is the name of the gold medal? / Gold medal ka naam kya hai?",
+    "output": "Chancellor's Gold Medal. / Chancellor's Gold Medal."
+  },
+  {
+    "input": "Is there a cash prize for gold medalists? / Kya gold medalists ko nageen puraskar milta hai?",
+    "output": "No, only medal. / Nahi, keval medal."
+  },
+  {
+    "input": "Does CUSB have a student union? / Kya CUSB mein student union hai?",
+    "output": "Yes, elected annually. / Haan, prati varsh nirvachit."
+  },
+  {
+    "input": "What are the roles of student union? / Student union ki kya bhumikayein hain?",
+    "output": "Represent students, organize events, address grievances. / Students ka pratinidhitva, events aayojan, shikayat samadhan."
+  },
+  {
+    "input": "When are student union elections held? / Student union chunav kab hote hain?",
+    "output": "Usually in August-September. / Aam taur par August-September."
+  },
+  {
+    "input": "Can first-year students contest elections? / Kya pratham varsh ke students chunav lad sakte hain?",
+    "output": "No, only second year onwards. / Nahi, keval doosre varsh se."
+  },
+  {
+    "input": "Is there a students' welfare officer? / Kya students' welfare officer hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the role of the Dean of Students? / Dean of Students ki kya bhumika hai?",
+    "output": "Overall student affairs. / Samagr student maamle."
+  },
+  {
+    "input": "How to contact the Dean? / Dean se kaise sampark karein?",
+    "output": "Email or visit office. / Email ya office jayein."
+  },
+  {
+    "input": "Does CUSB have a student helpline number? / Kya CUSB ka student helpline number hai?",
+    "output": "Yes, available on website. / Haan, website par uplabdh."
+  },
+  {
+    "input": "What is the emergency contact? / Aakasmik sampark kya hai?",
+    "output": "24x7 security: +91-XXXXXXXXXX (example). / 24x7 security: +91-XXXXXXXXXX (udaaharan)."
+  },
+  {
+    "input": "Is there a night patrol? / Kya raat mein gashth hoti hai?",
+    "output": "Yes, security guards on duty. / Haan, security guard duty par."
+  },
+  {
+    "input": "What is the CCTV coverage? / CCTV ka kshetrafal kya hai?",
+    "output": "All common areas and entry points. / Sabhi common areas aur pravesh dwar."
+  },
+  {
+    "input": "Can students request CCTV footage? / Kya students CCTV footage ka anurodh kar sakte hain?",
+    "output": "Only through administration for complaints. / Keval prashasan ke madhyam se shikayaton ke liye."
+  },
+  {
+    "input": "Is there a fire safety system? / Kya agni suraksha pranali hai?",
+    "output": "Fire extinguishers and alarms installed. / Fire extinguisher aur alarms lage hue."
+  },
+  {
+    "input": "Are there fire drills? / Kya fire drills hote hain?",
+    "output": "Occasionally. / Kabhi kabhi."
+  },
+  {
+    "input": "What is the fire evacuation plan? / Agni nikaasi yojna kya hai?",
+    "output": "Displayed on notice boards. / Notice board par pradarshit."
+  },
+  {
+    "input": "Does CUSB have a generator backup? / Kya CUSB ke paas generator backup hai?",
+    "output": "Yes for essential services. / Haan, aavashyak sewaon ke liye."
+  },
+  {
+    "input": "How often are power cuts? / Bijli kataw kitni baar hoti hai?",
+    "output": "Rare, due to dedicated feeder. / Shayad hi, dedicated feeder ke karan."
+  },
+  {
+    "input": "What is the water supply source? / Pani supply ka srot kya hai?",
+    "output": "Borewells and municipal supply. / Borewells aur nagar nigam supply."
+  },
+  {
+    "input": "Is water quality tested? / Kya pani ki gunvatta ki jaanch hoti hai?",
+    "output": "Yes, periodically. / Haan, samay samay par."
+  },
+  {
+    "input": "Are there water purifiers? / Kya water purifiers hain?",
+    "output": "RO systems in every building. / Har bhawan mein RO system."
+  },
+  {
+    "input": "What is the solid waste management system? / Thos apashistha prabandhan pranali kya hai?",
+    "output": "Segregation and composting. / Alag karna aur khad banana."
+  },
+  {
+    "input": "Does CUSB have a sewage treatment plant? / Kya CUSB ka sewage treatment plant hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Is there a rainwater harvesting system? / Kya rainwater harvesting pranali hai?",
+    "output": "Yes, in some buildings. / Haan, kuch bhawanon mein."
+  },
+  {
+    "input": "What is the green cover percentage? / Hariyali ka pratishat kya hai?",
+    "output": "Approximately 40%. / Lagbhag 40%."
+  },
+  {
+    "input": "Does CUSB have a botanical garden? / Kya CUSB ka botanical garden hai?",
+    "output": "No, but a small herbal garden. / Nahi, lekin ek chhota herbal garden."
+  },
+  {
+    "input": "Are there any rare plants? / Kya koi durlabh paudhe hain?",
+    "output": "Some medicinal plants. / Kuch aushadhi paudhe."
+  },
+  {
+    "input": "Can students participate in gardening? / Kya students baghbaani mein bhag le sakte hain?",
+    "output": "Through Eco-club. / Eco-club ke madhyam se."
+  },
+  {
+    "input": "What is the Eco-club? / Eco-club kya hai?",
+    "output": "Student club for environmental activities. / Paryavaran gatividhiyon ke liye student club."
+  },
+  {
+    "input": "Does CUSB celebrate Earth Day? / Kya CUSB Earth Day manata hai?",
+    "output": "Yes, with plantation drives. / Haan, plantation drives ke saath."
+  },
+  {
+    "input": "Is there a bicycle sharing system? / Kya cycle sharing pranali hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Can students bring their own bicycles? / Kya students apni cycle la sakte hain?",
+    "output": "Yes, stands available. / Haan, stands available hain."
+  },
+  {
+    "input": "What is the policy on electric vehicles? / Electric vehicles par kya niti hai?",
+    "output": "Allowed, but no charging points yet. / Anumati hai, lekin abhi charging points nahi."
+  },
+  {
+    "input": "Are there any speed limits inside campus? / Kya campus ke andar gati seema hai?",
+    "output": "Max 20 km/h for vehicles. / Vaahanon ke liye adhiktam 20 km/h."
+  },
+  {
+    "input": "Is there a traffic sign? / Kya yatayaat sanket hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the fine for overspeeding? / Tej gati par kya jurmana hai?",
+    "output": "500. / 500."
+  },
+  {
+    "input": "Can students park cars? / Kya students car park kar sakte hain?",
+    "output": "Yes, with parking sticker. / Haan, parking sticker ke saath."
+  },
+  {
+    "input": "How to get parking sticker? / Parking sticker kaise milega?",
+    "output": "Apply to security office with vehicle papers. / Security office mein vehicle papers ke saath apply karein."
+  },
+  {
+    "input": "Is there a fee for parking? / Kya parking shulk hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the nearest bus stop? / Nearest bus stop kaunsa hai?",
+    "output": "Panchanpur bus stop, 500 m. / Panchanpur bus stop, 500 m."
+  },
+  {
+    "input": "Are there direct buses to Gaya railway station? / Kya Gaya railway station ke liye seedhi bus hai?",
+    "output": "Yes, every 30 minutes. / Haan, har 30 minute mein."
+  },
+  {
+    "input": "What is the bus fare to Gaya? / Gaya tak bus fare kya hai?",
+    "output": "20-30. / 20-30."
+  },
+  {
+    "input": "Is there an auto stand near campus? / Kya campus ke paas auto stand hai?",
+    "output": "Yes, at the main gate. / Haan, mukhya dwar par."
+  },
+  {
+    "input": "What is the auto fare to Gaya? / Gaya tak auto fare kya hai?",
+    "output": "150-200. / 150-200."
+  },
+  {
+    "input": "Can we book Ola/Uber? / Kya Ola/Uber book kar sakte hain?",
+    "output": "Limited availability. / Seemit upalabdhta."
+  },
+  {
+    "input": "What is the nearest metro station? / Nearest metro station kaunsa hai?",
+    "output": "No metro in Gaya. / Gaya mein metro nahi."
+  },
+  {
+    "input": "What is the nearest airport? / Nearest airport kaunsa hai?",
+    "output": "Gaya Airport (15 km). / Gaya Airport (15 km)."
+  },
+  {
+    "input": "Are there flights from Gaya to Delhi? / Kya Gaya se Delhi ke liye flight hai?",
+    "output": "Yes, daily. / Haan, daily."
+  },
+  {
+    "input": "What is the taxi fare from airport to campus? / Airport se campus tak taxi fare kya hai?",
+    "output": "400-500. / 400-500."
+  },
+  {
+    "input": "Does CUSB have a travel desk? / Kya CUSB ka travel desk hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Can students get railway concession? / Kya students ko railway concession milta hai?",
+    "output": "Yes, through university letter. / Haan, university patra ke madhyam se."
+  },
+  {
+    "input": "How to apply for railway concession? / Railway concession ke liye kaise apply karein?",
+    "output": "Fill form in Dean's office. / Dean's office mein form bharein."
+  },
+  {
+    "input": "What is the concession percentage? / Concession ka pratishat kya hai?",
+    "output": "50% for second class. / Second class ke liye 50%."
+  },
+  {
+    "input": "Is there an airline concession for students? / Kya students ke liye airline concession hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What are the nearby tourist attractions? / Paas ke paryatan sthal kaun se hain?",
+    "output": "Mahabodhi Temple (10 km), Vishnupad Temple (15 km), Barabar Caves (30 km). / Mahabodhi Mandir (10 km), Vishnupad Mandir (15 km), Barabar Caves (30 km)."
+  },
+  {
+    "input": "Does the university organize trips? / Kya university yatra aayojit karti hai?",
+    "output": "Occasionally by student clubs. / Kabhi kabhi student clubs dwara."
+  },
+  {
+    "input": "Can students visit Bodh Gaya? / Kya students Bodh Gaya jaa sakte hain?",
+    "output": "Yes, easily by auto/bus. / Haan, aaram se auto/bus se."
+  },
+  {
+    "input": "What is the best time to visit Bodh Gaya? / Bodh Gaya jaane ka sabse achha samay kya hai?",
+    "output": "October to March. / October se March."
+  },
+  {
+    "input": "Is there a dress code for temples? / Kya mandiron mein dress code hai?",
+    "output": "Decent attire. / Susabhy pahnaawa."
+  },
+  {
+    "input": "Are there any restaurants near campus? / Kya campus ke paas restaurants hain?",
+    "output": "Small dhabas and cafes in Panchanpur. / Panchanpur mein chhote dhaba aur cafes."
+  },
+  {
+    "input": "What is the famous food in Gaya? / Gaya ka prasiddh bhojan kya hai?",
+    "output": "Litti Chokha, Sattu paratha. / Litti Chokha, Sattu paratha."
+  },
+  {
+    "input": "Is there a grocery store on campus? / Kya campus mein kirana dukaan hai?",
+    "output": "No, but nearby Panchanpur has shops. / Nahi, lekin paas ke Panchanpur mein dukanein hain."
+  },
+  {
+    "input": "What is the bank branch on campus? / Campus mein bank branch kya hai?",
+    "output": "SBI and ICICI kiosks. / SBI aur ICICI kiosks."
+  },
+  {
+    "input": "What are the banking hours? / Banking ke ghante kya hain?",
+    "output": "10 AM to 4 PM (weekdays). / Subah 10 se sham 4 (kaaryadivas)."
+  },
+  {
+    "input": "Is there a post office? / Kya post office hai?",
+    "output": "No, nearest in Panchanpur. / Nahi, paas ka Panchanpur mein."
+  },
+  {
+    "input": "Does CUSB have a courier service? / Kya CUSB mein courier seva hai?",
+    "output": "No, but private couriers deliver at gate. / Nahi, lekin niji courier gate par pahunchate hain."
+  },
+  {
+    "input": "What is the PIN code of CUSB? / CUSB ka PIN code kya hai?",
+    "output": "824236. / 824236."
+  },
+  {
+    "input": "How to send a letter to CUSB? / CUSB ko patra kaise bhejein?",
+    "output": "Address: Central University of South Bihar, Panchanpur, Gaya-824236. / Pata: Central University of South Bihar, Panchanpur, Gaya-824236."
+  },
+  {
+    "input": "Is there a WhatsApp group for students? / Kya students ke liye WhatsApp group hai?",
+    "output": "Yes, official groups per batch. / Haan, prati batch aupcharik group."
+  },
+  {
+    "input": "What is the policy on social media usage? / Social media upyog par kya niti hai?",
+    "output": "Responsible use; no defamation. / Jimmedar upyog; koi manhanik nahi."
+  },
+  {
+    "input": "Does CUSB have a Facebook page? / Kya CUSB ka Facebook page hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the official Twitter handle? / Aupcharik Twitter handle kya hai?",
+    "output": "@CUSB_official. / @CUSB_official."
+  },
+  {
+    "input": "Is there an Instagram account? / Kya Instagram account hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Can students post photos of campus? / Kya students campus ki photos post kar sakte hain?",
+    "output": "Yes, but not of restricted areas. / Haan, lekin pratibandhit kshetron ki nahi."
+  },
+  {
+    "input": "What is the penalty for posting offensive content? / Aapattijanak content post karne par kya saza hai?",
+    "output": "Legal action and expulsion. / Kanuni karyavahi aur nishkasan."
+  },
+  {
+    "input": "Does CUSB have a media club? / Kya CUSB ka media club hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What does the media club do? / Media club kya karta hai?",
+    "output": "Covers events, manages social media. / Events cover karta hai, social media sambhalta hai."
+  },
+  {
+    "input": "Can students join media club? / Kya students media club join kar sakte hain?",
+    "output": "Yes, by audition. / Haan, auditions ke madhyam se."
+  },
+  {
+    "input": "Is there a photography club? / Kya photography club hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What equipment does photography club have? / Photography club ke paas kya upakaran hai?",
+    "output": "Basic DSLR cameras. / Basic DSLR camera."
+  },
+  {
+    "input": "Can students borrow camera? / Kya students camera le sakte hain?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Is there a painting club? / Kya painting club hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the art society name? / Kala samaj ka naam kya hai?",
+    "output": "\"Rang\". / \"Rang\"."
+  },
+  {
+    "input": "Does CUSB have a music club? / Kya CUSB ka music club hai?",
+    "output": "Yes, \"Sargam\". / Haan, \"Sargam\"."
+  },
+  {
+    "input": "What instruments are available? / Kaun se instrument available hain?",
+    "output": "Harmonium, tabla, guitar (basic). / Harmonium, tabla, guitar (basic)."
+  },
+  {
+    "input": "Can students form a band? / Kya students band bana sakte hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Is there a dance club? / Kya dance club hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What styles of dance are taught? / Dance ki kaun si vidhayen sikhayi jati hain?",
+    "output": "Bollywood, classical, contemporary. / Bollywood, classical, contemporary."
+  },
+  {
+    "input": "Does CUSB have a drama club? / Kya CUSB ka drama club hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "How often are plays organized? / Natak kitni baar aayojit hote hain?",
+    "output": "Once a semester. / Ek baar semester."
+  },
+  {
+    "input": "What is the literary club? / Sahitya club kya hai?",
+    "output": "\"Shabd\". / \"Shabd\"."
+  },
+  {
+    "input": "Does the literary club publish a magazine? / Kya sahitya club patrika prakaashit karta hai?",
+    "output": "Yes, annual. / Haan, varshik."
+  },
+  {
+    "input": "Can students submit poems? / Kya students kavita submit kar sakte hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the debate club? / Vada-vivad club kya hai?",
+    "output": "\"Vivaad\". / \"Vivaad\"."
+  },
+  {
+    "input": "Are there inter-college debates? / Kya antar-mahavidyalay vada-vivad hote hain?",
+    "output": "Yes, participation in national events. / Haan, rashtriya aayojanon mein bhagedari."
+  },
+  {
+    "input": "Does CUSB have a quiz club? / Kya quiz club hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the frequency of quizzes? / Quiz ki aavritti kya hai?",
+    "output": "Monthly. / Maasik."
+  },
+  {
+    "input": "Is there a coding club? / Kya coding club hai?",
+    "output": "Yes, for computer science. / Haan, computer science ke liye."
+  },
+  {
+    "input": "What languages are taught in coding club? / Coding club mein kaun si bhashayein sikhayi jati hain?",
+    "output": "Python, Java, C++. / Python, Java, C++."
+  },
+  {
+    "input": "Are there hackathons? / Kya hackathons hote hain?",
+    "output": "Yes, annually. / Haan, varshik."
+  },
+  {
+    "input": "What is the robotics club? / Robotics club kya hai?",
+    "output": "For electronics and mechanical projects. / Electronics aur mechanical projects ke liye."
+  },
+  {
+    "input": "Does CUSB have a science club? / Kya CUSB ka science club hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What activities does science club do? / Science club kya karta hai?",
+    "output": "Science exhibitions, talks. / Science exhibitions, baatcheet."
+  },
+  {
+    "input": "Is there a math club? / Kya math club hai?",
+    "output": "Yes, for students interested in mathematics. / Haan, mathematics mein ruchi rakhne walon ke liye."
+  },
+  {
+    "input": "What is the astronomy club? / Astronomy club kya hai?",
+    "output": "No, but students can start. / Nahi, lekin students shuru kar sakte hain."
+  },
+  {
+    "input": "Can students start a new club? / Kya students naya club shuru kar sakte hain?",
+    "output": "Yes, with proposal to Dean. / Haan, Dean ko prastav dekar."
+  },
+  {
+    "input": "What is the procedure to start a club? / Club shuru karne ki kya prakriya hai?",
+    "output": "Submit constitution and faculty advisor. / Samvidhan aur faculty advisor submit karein."
+  },
+  {
+    "input": "Does the university fund clubs? / Kya university clubs ko fund deti hai?",
+    "output": "Limited annual budget. / Seemit varshik budget."
+  },
+  {
+    "input": "How to get funding for an event? / Event ke liye funding kaise milegi?",
+    "output": "Submit proposal to Student Welfare. / Student Welfare ko prastav dekar."
+  },
+  {
+    "input": "What is the annual cultural fest? / Varshik sanskritik utsav kya hai?",
+    "output": "\"Kaleidoscope\". / \"Kaleidoscope\"."
+  },
+  {
+    "input": "When is Kaleidoscope held? / Kaleidoscope kab hota hai?",
+    "output": "February/March. / February/March."
+  },
+  {
+    "input": "Are outside performers invited? / Kya bahar ke kalakar bulaye jate hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the technical fest? / Technical fest kya hai?",
+    "output": "\"Technovate\". / \"Technovate\"."
+  },
+  {
+    "input": "Is there a sports fest? / Kya sports fest hai?",
+    "output": "\"Spardha\". / \"Spardha\"."
+  },
+  {
+    "input": "When is Spardha held? / Spardha kab hota hai?",
+    "output": "January. / January."
+  },
+  {
+    "input": "Do students get participation certificates? / Kya students ko bhagidari praman patra milta hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Are there prizes for winners? / Kya vijetaon ke liye puraskar hain?",
+    "output": "Trophies and cash prizes. / Trophies aur nageen puraskar."
+  },
+  {
+    "input": "What is the prize money for first place? / Pratham sthan ke liye puraskar rashi kya hai?",
+    "output": "5000. / 5000."
+  },
+  {
+    "input": "Is there a student exchange within India? / Kya India ke andar student exchange hai?",
+    "output": "No formal program. / Koi aupcharik program nahi."
+  },
+  {
+    "input": "Can students go to IITs for research? / Kya students IITs mein research ke liye ja sakte hain?",
+    "output": "Through faculty collaboration. / Faculty sahyog ke madhyam se."
+  },
+  {
+    "input": "What is the procedure for research visit? / Research visit ki kya prakriya hai?",
+    "output": "Apply to supervisor and host institute. / Supervisor aur host institute ko aavedan karein."
+  },
+  {
+    "input": "Does CUSB have a summer school? / Kya CUSB ka summer school hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What are the library summer timings? / Library ke summer timings kya hain?",
+    "output": "9 AM to 5 PM. / Subah 9 se sham 5 baje."
+  },
+  {
+    "input": "Is the hostel open in summer? / Kya hostel summer mein khula hota hai?",
+    "output": "No, students must vacate. / Nahi, students ko khali karna padta hai."
+  },
+  {
+    "input": "What is the vacation period? / Avakash avadhi kya hai?",
+    "output": "Summer break: May-June, Winter break: December-January. / Garmiyon ki chhutti: May-June, Sardi ki chhutti: December-January."
+  },
+  {
+    "input": "Are there any summer courses? / Kya koi summer courses hain?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Can students stay on campus during vacations? / Kya students chhuttiyon mein campus par reh sakte hain?",
+    "output": "Only with special permission for research. / Keval research ke liye vishesh anumati se."
+  },
+  {
+    "input": "What is the policy on room retention? / Room retention ki kya niti hai?",
+    "output": "Must vacate and reapply each year. / Har saal khali karna aur punah aavedan karna."
+  },
+  {
+    "input": "What is the hostel reallocation process? / Hostel punah aavedan prakriya kya hai?",
+    "output": "Online form based on CGPA. / CGPA ke aadhar par online form."
+  },
+  {
+    "input": "When does reallocation happen? / Punah aavedan kab hota hai?",
+    "output": "April-May. / April-May."
+  },
+  {
+    "input": "What is the notice period for leaving hostel? / Hostel chhodne ki suchana avadhi kya hai?",
+    "output": "15 days. / 15 din."
+  },
+  {
+    "input": "Is there a hostel fee refund if leaving mid-semester? / Yadi beech semester mein chhodte hain to hostel fee vaapsi?",
+    "output": "No, no refund. / Nahi, koi vaapsi nahi."
+  },
+  {
+    "input": "What is the rule for damaged hostel property? / Kharab hostel sampatti ka kya niyam hai?",
+    "output": "Repair cost deducted from security deposit. / Suraksha jama se marammat kharch kata jata hai."
+  },
+  {
+    "input": "Can students change rooms? / Kya students room badal sakte hain?",
+    "output": "Yes, with valid reason and warden's approval. / Haan, vaidh karan aur warden ki anumati se."
+  },
+  {
+    "input": "What is the room change fee? / Room change shulk kya hai?",
+    "output": "500. / 500."
+  },
+  {
+    "input": "Is there a single room for senior students? / Kya senior students ke liye single room hai?",
+    "output": "Subject to availability. / Uplabdhata ke adheen."
+  },
+  {
+    "input": "What is the hostel discipline committee? / Hostel anushasan samiti kya hai?",
+    "output": "Composed of wardens and student representatives. / Wardens aur student pratinidhiyon se milkar."
+  },
+  {
+    "input": "How to appeal against a hostel penalty? / Hostel jurmane ke virudh appeal kaise karein?",
+    "output": "Submit written appeal to Dean of Students. / Dean of Students ko likhit appeal dein."
+  },
+  {
+    "input": "What is the anti-ragging affidavit? / Anti-ragging shapath patra kya hai?",
+    "output": "Mandatory at admission. / Pravesh par anivarya."
+  },
+  {
+    "input": "Where to submit anti-ragging undertaking? / Anti-ragging shapath patra kahan submit karein?",
+    "output": "Online on Samarth portal. / Samarth portal par online."
+  },
+  {
+    "input": "Is ragging a criminal offense? / Kya ragging aparaadh hai?",
+    "output": "Yes, as per UGC regulations. / Haan, UGC niyamanusar."
+  },
+  {
+    "input": "What is the punishment for ragging? / Ragging ki saza kya hai?",
+    "output": "Expulsion and legal proceedings. / Nishkasan aur kanuni karyavahi."
+  },
+  {
+    "input": "Does CUSB have an anti-ragging squad? / Kya CUSB ki anti-ragging squad hai?",
+    "output": "Yes, with faculty and student volunteers. / Haan, faculty aur student volunteers ke saath."
+  },
+  {
+    "input": "How to report anonymously? / Anonym kaise report karein?",
+    "output": "Drop a letter in the complaint box. / Shikayat box mein patra daalein."
+  },
+  {
+    "input": "What is the helpline number for ragging? / Ragging ke liye helpline number kya hai?",
+    "output": "1800-180-5522 (UGC). / 1800-180-5522 (UGC)."
+  },
+  {
+    "input": "Is there a counselling for victims? / Kya piditon ke liye counselling hai?",
+    "output": "Yes, psychology department. / Haan, psychology vibhag."
+  },
+  {
+    "input": "What is the procedure for submitting assignments? / Assignment submit karne ki kya prakriya hai?",
+    "output": "Online via Samarth or physical as per teacher. / Samarth ke madhyam se online ya teacher ke anusar physical."
+  },
+  {
+    "input": "Are assignments graded? / Kya assignments ko anka diye jate hain?",
+    "output": "Yes, part of internal assessment. / Haan, internal assessment ka hissa."
+  },
+  {
+    "input": "What is the weightage of assignments? / Assignments ka bhaar kitna hai?",
+    "output": "10-15% of total. / Kul ka 10-15%."
+  },
+  {
+    "input": "Can assignments be resubmitted? / Kya assignments dobara submit kar sakte hain?",
+    "output": "No, unless special permission. / Nahi, jab tak vishesh anumati na ho."
+  },
+  {
+    "input": "What is the policy on plagiarism in assignments? / Assignments mein plagiarism par kya niti hai?",
+    "output": "Zero tolerance; marks deducted. / Kshamata zero; anka katenge."
+  },
+  {
+    "input": "Is there a late submission penalty? / Der se submission par kya jurmana hai?",
+    "output": "5% marks deduction per day. / 5% anka prati din kate jayenge."
+  },
+  {
+    "input": "What are the class timings? / Class ke samay kya hain?",
+    "output": "10 AM to 5 PM, with lunch break 1-2 PM. / Subah 10 se sham 5, lunch break 1-2 PM."
+  },
+  {
+    "input": "How many classes per day? / Prati din kitni class hoti hain?",
+    "output": "4-5 classes of 1 hour each. / 4-5 class, prati 1 ghanta."
+  },
+  {
+    "input": "Is there a break between classes? / Kya classes ke beech mein break hota hai?",
+    "output": "10 minutes. / 10 minute."
+  },
+  {
+    "input": "What is the academic workload? / Academic workload kya hai?",
+    "output": "Moderate: 4-6 subjects per semester. / Madhyam: 4-6 vishay prati semester."
+  },
+  {
+    "input": "Are there tutorials? / Kya tutorials hote hain?",
+    "output": "For some subjects. / Kuch vishayon ke liye."
+  },
+  {
+    "input": "What is the tutorial frequency? / Tutorial ki aavritti kya hai?",
+    "output": "Once a week. / Saptah mein ek baar."
+  },
+  {
+    "input": "Are there practical sessions for science students? / Kya science students ke liye practical session hote hain?",
+    "output": "Yes, weekly. / Haan, saptahik."
+  },
+  {
+    "input": "What is the lab duration? / Lab ki avadhi kya hai?",
+    "output": "3 hours per session. / 3 ghante prati session."
+  },
+  {
+    "input": "Are lab coats provided? / Kya lab coat pradan kiye jate hain?",
+    "output": "No, students must buy. / Nahi, students ko khareedna hoga."
+  },
+  {
+    "input": "What is the safety protocol in labs? / Labs mein suraksha protocal kya hai?",
+    "output": "Safety goggles, gloves, and strict supervision. / Safety goggles, gloves aur kathor nigrani."
+  },
+  {
+    "input": "Is there a chemistry lab? / Kya chemistry lab hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Does the physics lab have modern equipment? / Kya physics lab mein modern upakaran hain?",
+    "output": "Yes, for UG and PG. / Haan, UG aur PG ke liye."
+  },
+  {
+    "input": "What is the computer lab configuration? / Computer lab configuration kya hai?",
+    "output": "Core i5/i7, 8GB RAM, Linux/Windows. / Core i5/i7, 8GB RAM, Linux/Windows."
+  },
+  {
+    "input": "How many computers in the lab? / Lab mein kitne computer hain?",
+    "output": "50-100. / 50-100."
+  },
+  {
+    "input": "Are there printers in the computer lab? / Kya computer lab mein printer hain?",
+    "output": "Yes, for student use. / Haan, student upyog ke liye."
+  },
+  {
+    "input": "What is the printing cost? / Printing cost kya hai?",
+    "output": "2 per page. / 2 prati page."
+  },
+  {
+    "input": "Can students print in color? / Kya color print kar sakte hain?",
+    "output": "No, only black and white. / Nahi, kevel black and white."
+  },
+  {
+    "input": "What is the scanning facility? / Scanning suvidha kya hai?",
+    "output": "Available in library and computer lab. / Library aur computer lab mein uplabdh."
+  },
+  {
+    "input": "Is there a 3D printer? / Kya 3D printer hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the software available? / Kaun sa software available hai?",
+    "output": "MATLAB, Python, R, SPSS, etc. / MATLAB, Python, R, SPSS aadi."
+  },
+  {
+    "input": "Can students install their own software? / Kya students apna software install kar sakte hain?",
+    "output": "No, only with admin permission. / Nahi, keval admin anumati se."
+  },
+  {
+    "input": "What is the internet speed in labs? / Labs mein internet speed kya hai?",
+    "output": "100 Mbps. / 100 Mbps."
+  },
+  {
+    "input": "Are the labs open after class hours? / Kya labs class ke baad khule rehte hain?",
+    "output": "Yes, until 6 PM. / Haan, sham 6 baje tak."
+  },
+  {
+    "input": "Is there a 24/7 lab? / Kya 24/7 lab hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the language lab? / Language lab kya hai?",
+    "output": "For English communication skills. / English communication skills ke liye."
+  },
+  {
+    "input": "Does the language lab have software? / Kya language lab mein software hai?",
+    "output": "Yes, for pronunciation and listening. / Haan, uchcharan aur sunne ke liye."
+  },
+  {
+    "input": "How often is the language lab used? / Language lab ka upyog kitni baar hota hai?",
+    "output": "Once a week for English courses. / Saptah mein ek baar English courses ke liye."
+  },
+  {
+    "input": "What is the capacity of the auditorium? / Auditorium ki kshamta kya hai?",
+    "output": "500 seats. / 500 seats."
+  },
+  {
+    "input": "Is the auditorium air-conditioned? / Kya auditorium AC hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Can students use the auditorium for events? / Kya students auditorium ka upyog events ke liye kar sakte hain?",
+    "output": "Yes, with permission. / Haan, anumati se."
+  },
+  {
+    "input": "What is the booking process for auditorium? / Auditorium book karne ki kya prakriya hai?",
+    "output": "Apply to the cultural committee. / Cultural committee mein aavedan karein."
+  },
+  {
+    "input": "Is there a fee for auditorium booking? / Kya auditorium booking shulk hai?",
+    "output": "No for student events. / Student events ke liye nahi."
+  },
+  {
+    "input": "What are the seminar halls? / Seminar halls kya hain?",
+    "output": "Smaller halls for 100-200 people. / Chhote hall, 100-200 logon ke liye."
+  },
+  {
+    "input": "How many seminar halls? / Kitne seminar hall hain?",
+    "output": "5. / 5."
+  },
+  {
+    "input": "Are projectors available? / Kya projectors available hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Does CUSB have a conference room? / Kya CUSB mein conference room hai?",
+    "output": "Yes, for official meetings. / Haan, aupcharik baithakon ke liye."
+  },
+  {
+    "input": "What is the medical center? / Medical center kya hai?",
+    "output": "Basic first-aid and consultation. / Basic first-aid aur paramarsh."
+  },
+  {
+    "input": "What are the timings of the medical center? / Medical center ke timings kya hain?",
+    "output": "10 AM to 5 PM. / Subah 10 se sham 5 baje."
+  },
+  {
+    "input": "Is there a doctor available 24/7? / Kya doctor 24/7 uplabdh hai?",
+    "output": "No, only during day. / Nahi, keval din mein."
+  },
+  {
+    "input": "What is the procedure for emergency? / Aakasmik sthiti mein kya karein?",
+    "output": "Call security or use university vehicle. / Security ko bulayein ya university vehicle ka upyog karein."
+  },
+  {
+    "input": "Does CUSB have a dental clinic? / Kya CUSB mein dental clinic hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the ambulance number? / Ambulance number kya hai?",
+    "output": "102 (general). / 102 (samanya)."
+  },
+  {
+    "input": "Are there any health camps? / Kya koi health camps hote hain?",
+    "output": "Occasionally. / Kabhi kabhi."
+  },
+  {
+    "input": "What is the COVID-19 protocol? / COVID-19 protocal kya hai?",
+    "output": "As per government guidelines. / Sarkari niyamanusar."
+  },
+  {
+    "input": "Is there a quarantine facility? / Kya quarantine suvidha hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Are masks mandatory? / Kya mask anivarya hai?",
+    "output": "Not currently. / Abhi nahi."
+  },
+  {
+    "input": "What is the vaccination policy? / Vaccination niti kya hai?",
+    "output": "Encouraged but not mandatory. / Protsahit lekin anivarya nahi."
+  },
+  {
+    "input": "Does CUSB have a gymnasium? / Kya CUSB mein gymnasium hai?",
+    "output": "Open gym only. / Keval open gym."
+  },
+  {
+    "input": "What equipment is in the open gym? / Open gym mein kya upakaran hai?",
+    "output": "Pull-up bars, dip bars, benches, weights. / Pull-up bars, dip bars, benches, weights."
+  },
+  {
+    "input": "Is there a fee for gym? / Kya gym ke liye shulk hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What are the gym timings? / Gym ke samay kya hain?",
+    "output": "6 AM to 8 AM and 5 PM to 7 PM. / Subah 6-8 aur sham 5-7."
+  },
+  {
+    "input": "Is there a trainer? / Kya trainer hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Can girls use the gym? / Kya girls gym upyog kar sakti hain?",
+    "output": "Yes, same timings. / Haan, same samay."
+  },
+  {
+    "input": "Is there a separate gym for girls? / Kya girls ke liye alag gym hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the sports ground area? / Sports ground ka kshetrafal kya hai?",
+    "output": "Approximately 10 acres. / Lagbhag 10 ekad."
+  },
+  {
+    "input": "Is the ground floodlit? / Kya ground floodlights se roshan hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Are there changing rooms? / Kya changing rooms hain?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the condition of the cricket pitch? / Cricket pitch ki sthiti kya hai?",
+    "output": "Grass matting wicket. / Grass matting wicket."
+  },
+  {
+    "input": "Is there a practice net? / Kya practice net hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What is the football ground surface? / Football ground ki surface kya hai?",
+    "output": "Natural grass. / Prakritik ghaas."
+  },
+  {
+    "input": "Are goalposts available? / Kya goalposts hain?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Is there a basketball court? / Kya basketball court hai?",
+    "output": "Yes, outdoor. / Haan, outdoor."
+  },
+  {
+    "input": "What is the basketball court surface? / Basketball court ki surface kya hai?",
+    "output": "Concrete. / Concrete."
+  },
+  {
+    "input": "Is there a volleyball court? / Kya volleyball court hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "What about throwball? / Throwball kya hai?",
+    "output": "Not common. / Aam nahi."
+  },
+  {
+    "input": "Is there a kho-kho ground? / Kya kho-kho ground hai?",
+    "output": "No, but can be played on grass. / Nahi, lekin ghaas par khela ja sakta hai."
+  },
+  {
+    "input": "What is the badminton court? / Badminton court kya hai?",
+    "output": "Indoor, synthetic mats. / Indoor, synthetic mats."
+  },
+  {
+    "input": "How many badminton courts? / Kitne badminton court hain?",
+    "output": "2. / 2."
+  },
+  {
+    "input": "Are racquets provided? / Kya racquets pradan kiye jate hain?",
+    "output": "No, students bring their own. / Nahi, students apne late hain."
+  },
+  {
+    "input": "Is there a table tennis room? / Kya table tennis room hai?",
+    "output": "Yes, 2 tables. / Haan, 2 table."
+  },
+  {
+    "input": "Are TT bats and balls provided? / Kya TT bats aur balls milte hain?",
+    "output": "Yes, at sports office. / Haan, sports office mein."
+  },
+  {
+    "input": "What is the carrom board availability? / Carrom board ki uplabdhata kya hai?",
+    "output": "In common room. / Common room mein."
+  },
+  {
+    "input": "Is chess available? / Kya chess available hai?",
+    "output": "Yes. / Haan."
+  },
+  {
+    "input": "Are there any athletics tracks? / Kya koi athletics tracks hain?",
+    "output": "No, but ground can be used. / Nahi, lekin ground upyog kar sakte hain."
+  },
+  {
+    "input": "What is the long jump pit? / Long jump pit kya hai?",
+    "output": "Not available. / Uplabdh nahi."
+  },
+  {
+    "input": "Are there inter-departmental competitions? / Kya inter-departmental competitions hote hain?",
+    "output": "Yes, annually. / Haan, varshik."
+  },
+  {
+    "input": "How to register for sports team? / Sports team ke liye kaise registre karein?",
+    "output": "Contact sports officer. / Sports officer se sampark karein."
+  },
+  {
+    "input": "What is the sports scholarship amount? / Sports scholarship rashi kya hai?",
+    "output": "Up to 20,000 per year. / 20,000 prati varsh tak."
+  },
+  {
+    "input": "Who is eligible for sports scholarship? / Sports scholarship ke liye kaun patra hai?",
+    "output": "National level players. / Rashtriya star ke khiladi."
+  },
+  {
+    "input": "Does CUSB have a sports hostel? / Kya CUSB ka sports hostel hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the policy on sports leave? / Sports leave ki kya niti hai?",
+    "output": "Up to 10 days per tournament with permission. / Prati tournament 10 din tak anumati se."
+  },
+  {
+    "input": "Are there any sports coaches? / Kya koi sports coaches hain?",
+    "output": "Yes, for cricket and football. / Haan, cricket aur football ke liye."
+  },
+  {
+    "input": "What is the qualification of coaches? / Coaches ki qualification kya hai?",
+    "output": "NIS certified. / NIS pramanit."
+  },
+  {
+    "input": "Does CUSB have a yoga instructor? / Kya CUSB mein yoga instructor hai?",
+    "output": "Yes, in Physical Education department. / Haan, Physical Education vibhag mein."
+  },
+  {
+    "input": "What are the yoga class timings? / Yoga class ke samay kya hain?",
+    "output": "6 AM to 7 AM. / Subah 6 se 7 baje."
+  },
+  {
+    "input": "Is yoga compulsory? / Kya yoga anivarya hai?",
+    "output": "No, optional. / Nahi, vaikalpik."
+  },
+  {
+    "input": "What is the PG Diploma in Yoga? / PG Diploma in Yoga kya hai?",
+    "output": "1-year course. / 1-saal ka course."
+  },
+  {
+    "input": "What is the eligibility for PG Diploma in Yoga? / PG Diploma in Yoga ke liye eligibility kya hai?",
+    "output": "Any bachelor's degree. / Kisi bhi bachelor's degree."
+  },
+  {
+    "input": "Is there an age limit for PG Diploma in Yoga? / Kya PG Diploma in Yoga ke liye aayu seema hai?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "What is the fee for PG Diploma in Yoga? / PG Diploma in Yoga ki fee kya hai?",
+    "output": "Approximately 10,000. / Lagbhag 10,000."
+  },
+  {
+    "input": "Does CUSB offer any certificate courses? / Kya CUSB koi certificate courses offer karta hai?",
+    "output": "Not currently. / Abhi nahi."
+  },
+  {
+    "input": "What is the medium of instruction for Yoga? / Yoga ke liye shikshan madhyam kya hai?",
+    "output": "English. / English."
+  },
+  {
+    "input": "Are there any part-time courses? / Kya koi part-time courses hain?",
+    "output": "No. / Nahi."
+  },
+  {
+    "input": "Can I do two courses simultaneously? / Kya main do courses ek saath kar sakta hoon?",
+    "output": "Not allowed. / Anumati nahi."
+  },
+  {
+    "input": "What is the maximum credit limit per semester? / Prati semester adhiktam credit limit kya hai?",
+    "output": "24 credits. / 24 credits."
+  },
+  {
+    "input": "What is the minimum credit requirement for UG? / UG ke liye minimum credit aavashyakta kya hai?",
+    "output": "120 credits for 3-year program. / 3-saal ke program ke liye 120 credits."
+  },
+  {
+    "input": "What is the credit system? / Credit system kya hai?",
+    "output": "Each theory class = 4 credits, lab = 2 credits. / Prati theory class = 4 credits, lab = 2 credits."
+  },
+  {
+    "input":  "CUSB kya hai? / What is CUSB?",
+    "output": "Central University of South Bihar ek central university hai jo Gaya, Bihar me sthit hai. / Central University of South Bihar is a central university located in Gaya, Bihar."
+  },
+  {
+    "input": "CUSB kaha hai? / Where is CUSB located?",
+    "output": "CUSB Gaya, Bihar ke Panchanpur ke paas sthit hai. / CUSB is located near Panchanpur in Gaya, Bihar."
+  },
+  {
+    "input": "CUSB ka full form kya hai? / What is the full form of CUSB?",
+    "output": "Central University of South Bihar. / Central University of South Bihar."
+  },
+  {
+    "input": "CUSB kab establish hua tha? / When was CUSB established?",
+    "output": "CUSB 2009 me establish hua tha. / CUSB was established in 2009."
+  },
+  {
+    "input": "CUSB kis type ki university hai? / What type of university is CUSB?",
+    "output": "Ye ek Central University hai jo Government of India ke under aati hai. / It is a Central University under the Government of India."
+  },
+  {
+    "input": "CUSB ka campus kaisa hai? / How is the CUSB campus?",
+    "output": "CUSB ka campus modern aur eco-friendly hai. / The CUSB campus is modern and eco-friendly."
+  },
+  {
+    "input": "CUSB me admission kaise hota hai? / How does admission happen in CUSB?",
+    "output": "Admission CUET exam ke through hota hai. / Admission is done through the CUET exam."
+  },
+  {
+    "input": "CUET kya hai? / What is CUET?",
+    "output": "CUET ek national level entrance exam hai. / CUET is a national-level entrance exam."
+  },
+  {
+    "input": "CUSB me UG courses hai kya? / Are UG courses available in CUSB?",
+    "output": "Haan, UG courses available hain. / Yes, UG courses are available."
+  },
+  {
+    "input": "CUSB me PG courses hai kya? / Are PG courses available in CUSB?",
+    "output": "Haan, PG courses available hain. / Yes, PG courses are available."
+  },
+  {
+    "input": "CUSB me PhD hota hai kya? / Are PhD programs available in CUSB?",
+    "output": "Haan, PhD programs available hain. / Yes, PhD programs are available."
+  },
+  {
+    "input": "CUSB me kaun kaun se courses milte hain? / What courses are available in CUSB?",
+    "output": "BA, BSc, MA, MSc, MBA aur PhD courses available hain. / Courses like BA, BSc, MA, MSc, MBA, and PhD are available."
+  },
+  {
+    "input": "CUSB me Data Science course hai kya? / Is Data Science course available in CUSB?",
+    "output": "Haan, MSc Data Science available hai. / Yes, MSc Data Science is available."
+  },
+  {
+    "input": "MSc Data Science admission kaise hota hai? / How is admission done for MSc Data Science?",
+    "output": "CUET PG ke through admission hota hai. / Admission is done through CUET PG."
+  },
+  {
+    "input": "CUSB me hostel hai kya? / Is hostel available in CUSB?",
+    "output": "Haan, boys aur girls ke liye hostel hai. / Yes, hostels are available for both boys and girls."
+  },
+  {
+    "input": "Hostel facility kaisi hai? / How is the hostel facility?",
+    "output": "Basic facilities ke saath hostel available hai. / Hostels are available with basic facilities."
+  },
+  {
+    "input": "CUSB me mess facility hai kya? / Is mess facility available in CUSB?",
+    "output": "Haan, mess facility available hai. / Yes, mess facility is available."
+  },
+  {
+    "input": "Hostel fees kitni hai? / What is the hostel fee?",
+    "output": "Fees vary karti hai, latest info official site par milegi. / Fees vary, latest details are available on the official website."
+  },
+  {
+    "input": "CUSB me library hai kya? / Is there a library in CUSB?",
+    "output": "Haan, central library available hai. / Yes, a central library is available."
+  },
+  {
+    "input": "Library me kya facilities hai? / What facilities are available in the library?",
+    "output": "Books, journals aur digital resources available hain. / Books, journals, and digital resources are available."
+  },
+  {
+    "input": "CUSB me WiFi hai kya? / Is WiFi available in CUSB?",
+    "output": "Haan, campus me WiFi hai. / Yes, WiFi is available across the campus."
+  },
+  {
+    "input": "CUSB me labs hai kya? / Are labs available in CUSB?",
+    "output": "Haan, modern labs available hain. / Yes, modern labs are available."
+  },
+  {
+    "input": "CUSB me placement hota hai kya? / Does CUSB have placements?",
+    "output": "Haan, placement cell available hai. / Yes, a placement cell is available."
+  },
+  {
+    "input": "Placement kaise hota hai? / How does placement work?",
+    "output": "Companies campus me aati hain aur recruitment karti hain. / Companies visit the campus and recruit students."
+  },
+  {
+    "input": "CUSB me internship milta hai kya? / Are internships available in CUSB?",
+    "output": "Haan, internship opportunities milti hain. / Yes, internship opportunities are available."
+  },
+  {
+    "input": "CUSB me scholarship milta hai kya? / Are scholarships available in CUSB?",
+    "output": "Haan, government scholarships available hain. / Yes, government scholarships are available."
+  },
+  {
+    "input": "CUSB ka campus safe hai kya? / Is the CUSB campus safe?",
+    "output": "Haan, security aur CCTV available hai. / Yes, security and CCTV are available."
+  },
+  {
+    "input": "CUSB me ragging allowed hai kya? / Is ragging allowed in CUSB?",
+    "output": "Nahi, ragging strictly banned hai. / No, ragging is strictly banned."
+  },
+  {
+    "input": "CUSB me sports hai kya? / Are sports facilities available in CUSB?",
+    "output": "Haan, sports facilities available hain. / Yes, sports facilities are available."
+  },
+  {
+    "input": "Kaun kaun se sports hai? / Which sports are available?",
+    "output": "Cricket, football, badminton, volleyball. / Cricket, football, badminton, and volleyball are available."
+  },
+  {
+    "input": "CUSB ka exam system kaisa hai? / What is the exam system in CUSB?",
+    "output": "Semester system follow hota hai. / The semester system is followed."
+  },
+  {
+    "input": "Attendance rule kya hai? / What is the attendance rule?",
+    "output": "Minimum attendance required hota hai. / Minimum attendance is required."
+  },
+  {
+    "input": "CUSB me faculty kaisi hai? / How is the faculty in CUSB?",
+    "output": "Qualified aur experienced faculty hai. / The faculty is qualified and experienced."
+  },
+  {
+    "input": "CUSB ka official website kya hai? / What is the official website of CUSB?",
+    "output": "https://www.cusb.ac.in / https://www.cusb.ac.in"
+  },
+  {
+    "input": "CUSB ka contact details kaha milega? / Where can I find CUSB contact details?",
+    "output": "Official website par available hai. / Available on the official website."
+  },
+  {
+    "input": "CUSB ka nearest railway station kaunsa hai? / What is the nearest railway station to CUSB?",
+    "output": "Gaya Junction. / Gaya Junction."
+  },
+  {
+    "input": "CUSB ka nearest airport kaunsa hai? / What is the nearest airport to CUSB?",
+    "output": "Gaya Airport. / Gaya Airport."
+  },
+  {
+    "input": "CUSB me Bioinformatics me kaun se courses hain? / What courses are available in Bioinformatics at CUSB?",
+    "output": "MSc aur PhD in Bioinformatics available hain. / MSc and PhD in Bioinformatics are available."
+  },
+  {
+    "input": "CUSB me Geology me kaun se courses hain? / What courses are available in Geology at CUSB?",
+    "output": "Integrated UG-PG (BSc-MSc), MSc aur PhD in Geology available hain. / Integrated UG-PG (BSc-MSc), MSc, and PhD in Geology are available."
+  },
+  {
+    "input": "CUSB me Life Science me kaun se courses hain? / What courses are available in Life Science at CUSB?",
+    "output": "Integrated UG-PG, MSc aur PhD in Life Science available hain. / Integrated UG-PG, MSc, and PhD in Life Science are available."
+  },
+  {
+    "input": "CUSB me Biotechnology me kaun se courses hain? / What courses are available in Biotechnology at CUSB?",
+    "output": "MSc aur PhD in Biotechnology available hain. / MSc and PhD in Biotechnology are available."
+  },
+  {
+    "input": "CUSB me Environmental Science me kaun se courses hain? / What courses are available in Environmental Science at CUSB?",
+    "output": "MSc aur PhD in Environmental Science available hain. / MSc and PhD in Environmental Science are available."
+  },
+  {
+    "input": "CUSB me Geography me kaun se courses hain? / What courses are available in Geography at CUSB?",
+    "output": "Integrated UG-PG, MA/MSc aur PhD in Geography available hain. / Integrated UG-PG, MA/MSc, and PhD in Geography are available."
+  },
+  {
+    "input": "CUSB me Geography department kaha hai? / Where is the Geography department located in CUSB?",
+    "output": "Geography department Chanakya Bhawan me sthit hai. / The Geography department is located in Chanakya Bhawan."
+  },
+  {
+    "input": "CUSB me Earth, Biological aur Environmental Science ke departments kaha located hain? / Where are the Earth, Biological and Environmental Science departments located in CUSB?",
+    "output": "Ye departments mainly Aryabhatta Bhawan me located hain, sirf Geography department Chanakya Bhawan me hai. / These departments are mainly located in Aryabhatta Bhawan, except Geography which is in Chanakya Bhawan."
+  },
+  {
+    "input": "CUSB me School of Social Science and Policies me kaun se departments hain? / Which departments are in the School of Social Science and Policies at CUSB?",
+    "output": "Is school me Historical, Economic Studies and Policy, Development Studies, Political Science, Sociological Studies aur Library Information Science departments hain. / This school includes departments of Historical Studies, Economic Studies and Policy, Development Studies, Political Science, Sociological Studies, and Library Information Science."
+  },
+  {
+    "input": "CUSB me History department me kaun se courses hain? / What courses are available in the History department at CUSB?",
+    "output": "Integrated UG-PG (BA-MA), MA aur PhD in History available hain. / Integrated UG-PG (BA-MA), MA, and PhD in History are available."
+  },
+  {
+    "input": "History me Integrated course ki duration aur eligibility kya hai? / What is the duration and eligibility for the Integrated History course?",
+    "output": "Ye 5 saal ka BA-MA course hai. Eligibility 10+2 with minimum 50% (General/OBC/EWS) aur 45% (SC/ST/PWD) hai. Admission CUET ke through hota hai. / It is a 5-year BA-MA course. Eligibility is 10+2 with minimum 50% (General/OBC/EWS) and 45% (SC/ST/PWD). Admission is through CUET."
+  },
+  {
+    "input": "CUSB me Economics department me kaun se courses hain? / What courses are available in the Economics department at CUSB?",
+    "output": "Integrated UG-PG (BA-MA), MA aur PhD in Economics available hain. / Integrated UG-PG (BA-MA), MA, and PhD in Economics are available."
+  },
+  {
+    "input": "Economics me Integrated course ki eligibility kya hai? / What is the eligibility for the Integrated Economics course?",
+    "output": "10+2 kisi bhi stream se minimum 45% (General/OBC/EWS) aur 40% (SC/ST/PWD) ke saath apply kar sakte hain. Admission CUET se hota hai. / Candidates can apply after 10+2 in any stream with minimum 45% (General/OBC/EWS) and 40% (SC/ST/PWD). Admission is through CUET."
+  },
+  {
+    "input": "CUSB me Development Studies me kaun se courses hain? / What courses are available in Development Studies at CUSB?",
+    "output": "MA aur PhD in Development Studies available hain. / MA and PhD in Development Studies are available."
+  },
+  {
+    "input": "CUSB me Political Science me kaun se courses hain? / What courses are available in Political Science at CUSB?",
+    "output": "Integrated UG-PG (BA-MA), MA aur PhD in Political Science available hain. / Integrated UG-PG (BA-MA), MA, and PhD in Political Science are available."
+  },
+  {
+    "input": "Political Science me Integrated course ki eligibility kya hai? / What is the eligibility for the Integrated Political Science course?",
+    "output": "10+2 kisi bhi discipline se minimum 50% (General/OBC/EWS) aur 45% (SC/ST/PWD) ke saath apply kar sakte hain. Admission CUET ke through hota hai. / Candidates can apply after 10+2 in any discipline with minimum 50% (General/OBC/EWS) and 45% (SC/ST/PWD). Admission is through CUET."
+  },
+  {
+    "input": "CUSB me Sociological Studies me kaun se courses hain? / What courses are available in Sociological Studies at CUSB?",
+    "output": "Integrated UG-PG, MA in Social Work, MA in Sociology aur PhD in Sociology available hain. / Integrated UG-PG, MA in Social Work, MA in Sociology, and PhD in Sociology are available."
+  },
+  {
+    "input": "Social Work aur Sociology MA ki eligibility kya hai? / What is the eligibility for MA in Social Work and Sociology?",
+    "output": "Bachelor's degree kisi bhi subject me minimum 50% (General/OBC/EWS) aur 45% (SC/ST/PWD) ke saath required hoti hai. / A Bachelor's degree in any subject with minimum 50% (General/OBC/EWS) and 45% (SC/ST/PWD) is required."
+  },
+  {
+    "input": "CUSB me Library Information Science me kaun sa course hai? / What course is available in Library Information Science at CUSB?",
+    "output": "Integrated B.Lib.I.Sc-M.Lib.I.Sc course available hai. / Integrated B.Lib.I.Sc-M.Lib.I.Sc course is available."
+  },
+  {
+    "input": "Library Science course ki eligibility kya hai? / What is the eligibility for the Library Science course?",
+    "output": "Bachelor's degree kisi bhi discipline me 55% (UR/OBC/EWS) aur 50% (SC/ST/PwD) ke saath required hoti hai. / A Bachelor's degree in any discipline with 55% (UR/OBC/EWS) and 50% (SC/ST/PwD) is required."
+  },
+  {
+    "input": "CUSB ke School of Mathematics, Statistics and Computer Science me kaun se departments hain? / Which departments are in the School of Mathematics, Statistics and Computer Science at CUSB?",
+    "output": "Is school me Department of Mathematics, Department of Statistics aur Department of Computer Science shamil hain. / This school includes the Department of Mathematics, Department of Statistics, and Department of Computer Science."
+  },
+  {
+    "input": "CUSB me Mathematics department me kaun se courses available hain? / What courses are available in the Mathematics department at CUSB?",
+    "output": "Mathematics department me Integrated UG-PG (BSc-MSc / BA-MA), MA, MSc aur PhD courses available hain. / The Mathematics department offers Integrated UG-PG (BSc-MSc / BA-MA), MA, MSc, and PhD courses."
+  },
+  {
+    "input": "CUSB me Integrated Mathematics course kya hai? / What is the Integrated Mathematics course at CUSB?",
+    "output": "Ye 5 saal ka Integrated UG-PG program hai (BSc-MSc ya BA-MA) jisme admission CUET ke through hota hai aur 10+2 me Mathematics hona zaruri hai. / It is a 5-year Integrated UG-PG program (BSc-MSc or BA-MA) with admission through CUET, and Mathematics in 10+2 is required."
+  },
+  {
+    "input": "CUSB me MA Mathematics ke liye eligibility kya hai? / What is the eligibility for MA Mathematics at CUSB?",
+    "output": "Candidate ke paas Mathematics ya Statistics me Bachelor's degree honi chahiye aur 3 saal tak Mathematics subject padha hona chahiye. / The candidate must have a Bachelor's degree in Mathematics or Statistics and should have studied Mathematics for 3 years."
+  },
+  {
+    "input": "CUSB me MSc Mathematics ke liye eligibility kya hai? / What is the eligibility for MSc Mathematics at CUSB?",
+    "output": "Candidate ke paas Mathematics ya Statistics background hona chahiye aur graduation me Mathematics padha hona chahiye. / The candidate should have a background in Mathematics or Statistics and must have studied Mathematics during graduation."
+  },
+  {
+    "input": "CUSB me Statistics department me kaun se courses available hain? / What courses are available in the Statistics department at CUSB?",
+    "output": "Statistics department me Integrated UG-PG (Statistics), MSc Statistics, MSc Data Science & Applied Statistics aur PhD in Statistics available hain. / The Statistics department offers Integrated UG-PG (Statistics), MSc Statistics, MSc Data Science & Applied Statistics, and PhD in Statistics."
+  },
+  {
+    "input": "CUSB me Integrated Statistics course kya hai? / What is the Integrated Statistics course at CUSB?",
+    "output": "Ye 5 saal ka Integrated program hai jisme 10+2 Science stream ke saath Mathematics required hota hai aur admission CUET ke through hota hai. / It is a 5-year Integrated program requiring 10+2 in Science with Mathematics, and admission is through CUET."
+  },
+  {
+    "input": "CUSB me MSc Statistics ke liye eligibility kya hai? / What is the eligibility for MSc Statistics at CUSB?",
+    "output": "Candidate ke paas Statistics ya Mathematics me Bachelor's degree hona chahiye ya Computer Science/IT background ke saath Maths/Stats ka paper hona chahiye. / The candidate must have a Bachelor's degree in Statistics or Mathematics, or a Computer Science/IT background with a Maths/Stats subject."
+  },
+  {
+    "input": "CUSB me MSc Data Science & Applied Statistics ke liye eligibility kya hai? / What is the eligibility for MSc Data Science & Applied Statistics at CUSB?",
+    "output": "Candidate ke paas Statistics, Mathematics, Computer Science, IT, AI, Physics ya Economics background hona chahiye aur Maths/Statistics ka knowledge hona zaruri hai. / The candidate should have a background in Statistics, Mathematics, Computer Science, IT, AI, Physics, or Economics, with knowledge of Maths/Statistics."
+  },
+  {
+    "input": "CUSB me Computer Science department me kaun se courses available hain? / What courses are available in the Computer Science department at CUSB?",
+    "output": "Computer Science department me Integrated UG-PG, MSc Artificial Intelligence aur PhD courses available hain. / The Computer Science department offers Integrated UG-PG, MSc Artificial Intelligence, and PhD courses."
+  },
+  {
+    "input": "CUSB me Integrated Computer Science course kya hai? / What is Integrated Computer Science course in CUSB?",
+    "output": "Ye 5 saal ka BSc-MSc program hai jisme 10+2 Science stream me Mathematics hona zaruri hai aur admission CUET ke through hota hai. / It is a 5-year BSc-MSc integrated program requiring Mathematics in 10+2 and admission is through CUET."
+  },
+  {
+    "input": "CUSB me MSc Artificial Intelligence ke liye eligibility kya hai? / What is eligibility for MSc Artificial Intelligence in CUSB?",
+    "output": "Candidate ke paas Computer Science, IT ya Computer Application me Bachelor's degree honi chahiye aur 10+2 me Mathematics hona zaruri hai. / Candidates must have a Bachelor's degree in CS/IT/CA with Mathematics at 10+2 level."
+  },
+  {
+    "input": "CUSB me PhD Computer Science ke liye eligibility kya hai? / What is eligibility for PhD Computer Science in CUSB?",
+    "output": "Candidate ke paas Computer Science ya related field me degree honi chahiye aur Mathematics background bhi required hota hai. / Candidates need a degree in CS or related field with Mathematics background."
+  },
+  {
+    "input": "CUSB ke School of Education me kaun se departments hain? / Which departments are in School of Education at CUSB?",
+    "output": "School of Education me Department of Teacher Education aur Department of Physical Education shamil hain. / It includes Department of Teacher Education and Department of Physical Education."
+  },
+  {
+    "input": "CUSB me Teacher Education department me kaun se courses available hain? / What courses are available in Teacher Education department?",
+    "output": "Teacher Education department me BA-B.Ed, B.Sc-B.Ed, M.Ed aur PhD courses available hain. / Courses include BA-B.Ed, B.Sc-B.Ed, M.Ed, and PhD."
+  },
+  {
+    "input": "CUSB me BA-B.Ed course kya hai? / What is BA-B.Ed course in CUSB?",
+    "output": "BA-B.Ed ek 4 saal ka integrated teacher education course hai jo teaching career ke liye prepare karta hai. / It is a 4-year integrated teacher education program for teaching careers."
+  },
+  {
+    "input": "CUSB me B.Sc-B.Ed course kya hai? / What is B.Sc-B.Ed course in CUSB?",
+    "output": "B.Sc-B.Ed ek 4 saal ka integrated course hai jo science background ke students ko teaching field ke liye prepare karta hai. / It is a 4-year integrated program for science students aiming for teaching."
+  },
+  {
+    "input": "CUSB me M.Ed ke liye eligibility kya hai? / What is eligibility for M.Ed in CUSB?",
+    "output": "Candidate ke paas B.Ed ya 4 saal ka integrated BA-B.Ed/B.Sc-B.Ed degree hona chahiye with minimum required marks. / Candidates must have B.Ed or integrated degree with required marks."
+  },
+  {
+    "input": "CUSB me PhD in Education kya hai? / What is PhD in Education in CUSB?",
+    "output": "PhD in Education ek doctoral level research program hai jo Teacher Education department ke under aata hai. / It is a doctoral research program under Teacher Education department."
+  },
+  {
+    "input": "CUSB me Physical Education department me kaun se courses available hain? / What courses are available in Physical Education department?",
+    "output": "Physical Education department me PG Diploma in Yoga, M.P.Ed aur PhD courses available hain. / Courses include PG Diploma in Yoga, M.P.Ed, and PhD."
+  },
+  {
+    "input": "CUSB me PG Diploma in Yoga kya hai? / What is PG Diploma in Yoga in CUSB?",
+    "output": "PG Diploma in Yoga ek 1 saal ka diploma course hai jo yoga aur physical wellness par focus karta hai. / It is a 1-year diploma focused on yoga and wellness."
+  },
+  {
+    "input": "CUSB me M.P.Ed ke liye eligibility kya hai? / What is eligibility for M.P.Ed in CUSB?",
+    "output": "Candidate ke paas B.P.Ed ya B.Sc Health & Physical Education degree honi chahiye with required minimum marks. / Candidates must have B.P.Ed or equivalent degree."
+  },
+  {
+    "input": "CUSB me PhD in Physical Education kya hai? / What is PhD in Physical Education in CUSB?",
+    "output": "PhD in Physical Education ek doctoral level research program hai jo Physical Education department ke under aata hai. / It is a doctoral research program in Physical Education."
+  },
+  {
+    "input": "CUSB ke School of Physical & Chemical me kaun se departments hain? / Which departments are in School of Physical & Chemical?",
+    "output": "Is school me Department of Chemistry aur Department of Physics shamil hain. / It includes Department of Chemistry and Department of Physics."
+  },
+  {
+    "input": "CUSB me Chemistry department me kaun se courses available hain? / What courses are available in Chemistry department?",
+    "output": "Chemistry department me Integrated UG-PG (BSc-MSc), MSc aur PhD courses available hain. / Courses include Integrated BSc-MSc, MSc, and PhD."
+  },
+  {
+    "input": "CUSB me Integrated Chemistry course kya hai? / What is Integrated Chemistry course in CUSB?",
+    "output": "Ye 5 saal ka BSc-MSc program hai jisme 10+2 Science stream ke saath admission CUET ke through hota hai. / It is a 5-year BSc-MSc program with CUET admission."
+  },
+  {
+    "input": "CUSB me MSc Chemistry ke liye eligibility kya hai? / What is eligibility for MSc Chemistry in CUSB?",
+    "output": "Candidate ke paas BSc degree me Chemistry subject hona chahiye ya equivalent degree honi chahiye. / Candidates must have BSc with Chemistry or equivalent."
+  },
+  {
+    "input": "CUSB me PhD Chemistry kya hai? / What is PhD Chemistry in CUSB?",
+    "output": "PhD Chemistry ek doctoral level research program hai jo Chemistry department ke under aata hai. / It is a doctoral research program in Chemistry."
+  },
+  {
+    "input": "CUSB me Physics department me kaun se courses available hain? / What courses are available in Physics department?",
+    "output": "Physics department me Integrated UG-PG (BSc-MSc), MSc aur PhD courses available hain. / Courses include Integrated BSc-MSc, MSc, and PhD."
+  },
+  {
+    "input": "CUSB me Integrated Physics course kya hai? / What is Integrated Physics course in CUSB?",
+    "output": "Ye 5 saal ka BSc-MSc program hai jisme 10+2 me Physics hona zaruri hai aur admission CUET ke through hota hai. / It is a 5-year BSc-MSc program requiring Physics in 10+2 with CUET admission."
+  },
+  {
+    "input": "CUSB me MSc Physics ke liye eligibility kya hai? / What is eligibility for MSc Physics in CUSB?",
+    "output": "Candidate ke paas BSc me Physics subject hona chahiye ya equivalent degree honi chahiye. / Candidates must have BSc with Physics or equivalent."
+  },
+  {
+    "input": "CUSB me PhD Physics kya hai? / What is PhD Physics in CUSB?",
+    "output": "PhD Physics ek doctoral level research program hai jo Physics department ke under aata hai. / It is a doctoral research program in Physics."
+  },
+  {
+    "input": "CUSB ke School of Languages & Literature me kaun se departments hain? / Which departments are in School of Languages & Literature?",
+    "output": "Is school me Department of English aur Department of Indian Languages shamil hain. / It includes Department of English and Department of Indian Languages."
+  },
+  {
+    "input": "CUSB me English department me kaun se courses available hain? / What courses are available in English department?",
+    "output": "English department me Integrated UG-PG (BA-MA), MA aur PhD courses available hain. / Courses include Integrated BA-MA, MA, and PhD."
+  },
+  {
+    "input": "CUSB me Integrated English course kya hai? / What is Integrated English course in CUSB?",
+    "output": "Ye 5 saal ka BA-MA program hai jisme 10+2 ke baad admission CUET ke through hota hai. / It is a 5-year BA-MA program with CUET admission."
+  },
+  {
+    "input": "CUSB me MA English ke liye eligibility kya hai? / What is eligibility for MA English in CUSB?",
+    "output": "Candidate ke paas Bachelor's degree honi chahiye jisme English subject hona zaruri hai. / Candidates must have a Bachelor's degree with English as a subject."
+  },
+  {
+    "input": "CUSB me PhD English kya hai? / What is PhD English in CUSB?",
+    "output": "PhD English ek doctoral level research program hai jo English department ke under aata hai. / PhD English is a doctoral-level research program under the Department of English."
+  },
+  {
+    "input": "CUSB me Indian Languages department me kaun se courses available hain? / What courses are available in Indian Languages department?",
+    "output": "Indian Languages department me Integrated UG-PG (BA-MA), MA aur PhD courses available hain. / The department offers Integrated BA-MA, MA, and PhD programs."
+  },
+  {
+    "input": "CUSB me Integrated Hindi course kya hai? / What is Integrated Hindi course in CUSB?",
+    "output": "Ye 5 saal ka BA-MA program hai jisme 10+2 me Hindi subject hona zaruri hai aur admission CUET ke through hota hai. / It is a 5-year BA-MA program requiring Hindi in 10+2 with admission through CUET."
+  },
+  {
+    "input": "CUSB me MA Indian Languages ke liye eligibility kya hai? / What is eligibility for MA Indian Languages in CUSB?",
+    "output": "Candidate ke paas kisi bhi discipline me Bachelor's degree honi chahiye. / Candidates must have a Bachelor's degree in any discipline."
+  },
+  {
+    "input": "CUSB me PhD Indian Languages kya hai? / What is PhD Indian Languages in CUSB?",
+    "output": "PhD Indian Languages ek doctoral level research program hai jo Indian Languages department ke under aata hai. / It is a doctoral research program under the Department of Indian Languages."
+  },
+  {
+    "input": "CUSB ke School of Management me kaun sa department hai? / Which department is in School of Management?",
+    "output": "School of Management me Department of Commerce and Business Studies shamil hai. / It includes the Department of Commerce and Business Studies."
+  },
+  {
+    "input": "CUSB me Commerce and Business Studies department me kaun se courses available hain? / What courses are available in Commerce and Business Studies?",
+    "output": "Is department me Integrated UG-PG (BCom-MCom), MCom aur PhD courses available hain. / It offers Integrated BCom-MCom, MCom, and PhD programs."
+  },
+  {
+    "input": "CUSB me Integrated BCom-MCom course kya hai? / What is Integrated BCom-MCom course in CUSB?",
+    "output": "Ye 5 saal ka integrated program hai jisme 10+2 ke baad admission CUET ke through hota hai aur commerce, economics ya mathematics background helpful hota hai. / It is a 5-year integrated program with CUET admission; commerce, economics, or mathematics background is helpful."
+  },
+  {
+    "input": "CUSB me MCom ke liye eligibility kya hai? / What is eligibility for MCom in CUSB?",
+    "output": "Candidate ke paas Commerce me Bachelor's degree honi chahiye with required minimum marks. / Candidates must have a Bachelor's degree in Commerce with required marks."
+  },
+  {
+    "input": "CUSB me PhD Commerce kya hai? / What is PhD Commerce in CUSB?",
+    "output": "PhD Commerce ek doctoral level research program hai jo Commerce and Business Studies department ke under aata hai. / It is a doctoral research program under the Department of Commerce and Business Studies."
+  },
+  {
+    "input": "CUSB ke School of Human Science me kaun sa department hai? / Which department is in School of Human Science?",
+    "output": "School of Human Science me Department of Psychological Science shamil hai. / It includes the Department of Psychological Science."
+  },
+  {
+    "input": "CUSB me Psychological Science department me kaun se courses available hain? / What courses are available in Psychological Science?",
+    "output": "Is department me Integrated UG-PG, MA, MSc aur PhD courses available hain. / It offers Integrated programs, MA, MSc, and PhD."
+  },
+  {
+    "input": "CUSB me Integrated Psychology course kya hai? / What is Integrated Psychology course in CUSB?",
+    "output": "Ye 5 saal ka integrated program hai (BSc-MSc ya BA-MA) jisme 10+2 ke baad admission CUET ke through hota hai. / It is a 5-year integrated program (BSc-MSc or BA-MA) with CUET admission."
+  },
+  {
+    "input": "CUSB me MA Psychology ke liye eligibility kya hai? / What is eligibility for MA Psychology in CUSB?",
+    "output": "Candidate ke paas Psychology ya related fields jaise Science, Social Science, Life Science ya Engineering me Bachelor's degree honi chahiye. / Candidates must have a Bachelor's degree in Psychology or related fields."
+  },
+  {
+    "input": "CUSB me MSc Psychology ke liye eligibility kya hai? / What is eligibility for MSc Psychology in CUSB?",
+    "output": "Candidate ke paas Psychology ya related fields me Bachelor's degree honi chahiye with required minimum marks. / Candidates must have a Bachelor's degree in Psychology or related fields with required marks."
+  },
+  {
+    "input": "CUSB me PhD Psychology kya hai? / What is PhD Psychology in CUSB?",
+    "output": "PhD Psychology ek doctoral level research program hai jo Psychological Science department ke under aata hai. / It is a doctoral research program under the Department of Psychological Science."
+  },
+  {
+    "input": "CUSB ke School of Law and Governance me kaun sa department hai? / Which department is in School of Law and Governance?",
+    "output": "Is school me Department of Law and Governance shamil hai. / It includes the Department of Law and Governance."
+  },
+  {
+    "input": "CUSB me Law and Governance department me kaun se courses available hain? / What courses are available in Law and Governance?",
+    "output": "Is department me BA LLB, BBA LLB, LLM aur PhD courses available hain. / It offers BA LLB, BBA LLB, LLM, and PhD programs."
+  },
+  {
+    "input": "CUSB me BA LLB course kya hai? / What is BA LLB course in CUSB?",
+    "output": "BA LLB ek 5 saal ka integrated law course hai jisme 10+2 ke baad admission CUET ke through hota hai. / BA LLB is a 5-year integrated law course with admission through CUET after 10+2."
+  },
+  {
+    "input": "CUSB me BBA LLB course kya hai? / What is BBA LLB course in CUSB?",
+    "output": "BBA LLB ek 5 saal ka integrated course hai jisme business aur law dono subjects hote hain aur admission CUET ke through hota hai. / BBA LLB is a 5-year integrated course combining business and law, with admission through CUET."
+  },
+  {
+    "input": "CUSB me LLM ke liye eligibility kya hai? / What is eligibility for LLM in CUSB?",
+    "output": "Candidate ke paas LLB ya equivalent law degree honi chahiye with required minimum marks. / Candidates must have an LLB or equivalent law degree with required marks."
+  },
+  {
+    "input": "CUSB me PhD Law kya hai? / What is PhD Law in CUSB?",
+    "output": "PhD Law ek doctoral level research program hai jo Law and Governance department ke under aata hai. / PhD Law is a doctoral-level research program under the Department of Law and Governance."
+  },
+  {
+    "input": "CUSB ke School of Health Science me kaun sa department hai? / Which department is in School of Health Science?",
+    "output": "Is school me Department of Pharmacy shamil hai. / It includes the Department of Pharmacy."
+  },
+  {
+    "input": "CUSB me Pharmacy department me kaun se courses available hain? / What courses are available in Pharmacy department?",
+    "output": "Pharmacy department me D.Pharm, M.Pharm aur PhD level ke courses available hain. / The department offers D.Pharm, M.Pharm, and PhD-level courses."
+  },
+  {
+    "input": "CUSB me D.Pharm course kya hai? / What is D.Pharm course in CUSB?",
+    "output": "D.Pharm ek 2 saal ka diploma course hai jisme 10+2 Science (PCM/PCB) ke baad admission CUET ke through hota hai. / D.Pharm is a 2-year diploma course after 10+2 (PCM/PCB) with admission through CUET."
+  },
+  {
+    "input": "CUSB me M.Pharm ke liye eligibility kya hai? / What is eligibility for M.Pharm in CUSB?",
+    "output": "Candidate ke paas Pharmacy me Bachelor's degree honi chahiye aur GPAT score wale candidates ko preference milta hai. / Candidates must have a Bachelor's degree in Pharmacy; GPAT-qualified candidates get preference."
+  },
+  {
+    "input": "CUSB ke School of Agriculture & Development me kaun sa department hai? / Which department is in School of Agriculture & Development?",
+    "output": "Is school me Department of Agriculture shamil hai. / It includes the Department of Agriculture."
+  },
+  {
+    "input": "CUSB me Agriculture department me kaun sa course available hai? / What course is available in Agriculture department?",
+    "output": "Agriculture department me BSc (Hons) Agriculture course available hai. / The department offers BSc (Hons) Agriculture."
+  },
+  {
+    "input": "CUSB me BSc Agriculture ke liye eligibility kya hai? / What is eligibility for BSc Agriculture in CUSB?",
+    "output": "Candidate ne 10+2 Agriculture ya Science stream (Physics, Chemistry, Biology/Mathematics) ke saath pass kiya hona chahiye aur admission CUET ke through hota hai. / Candidates must have passed 10+2 with Agriculture or Science stream (PCB/Math) and admission is through CUET."
+  },
+  {
+    "input": "CUSB me NCC facility hai kya? / Is NCC available in CUSB?",
+    "output": "Haan, CUSB me NCC (National Cadet Corps) facility available hai. / Yes, NCC facility is available in CUSB."
+  },
+  {
+    "input": "CUSB me hospital ya medical facility hai kya? / Is there medical facility in CUSB?",
+    "output": "Haan, campus me basic medical/hospital facility available hai. / Yes, basic medical/hospital facility is available in the campus."
+  },
+  {
+    "input": "CUSB me open gym hai kya? / Is there an open gym in CUSB?",
+    "output": "Haan, students ke liye open gym facility available hai. / Yes, an open gym facility is available for students."
+  },
+  {
+    "input": "CUSB ke campus me garden hai kya? / Is there a garden in CUSB campus?",
+    "output": "Haan, campus me green garden aur open spaces available hain. / Yes, the campus has green gardens and open spaces."
+  },
+  {
+    "input": "CUSB me cricket ground hai kya? / Is there a cricket ground in CUSB?",
+    "output": "Haan, cricket ke liye alag ground available hai. / Yes, a dedicated cricket ground is available."
+  },
+  {
+    "input": "CUSB me football ground hai kya? / Is there a football ground in CUSB?",
+    "output": "Haan, football ke liye dedicated ground available hai. / Yes, a dedicated football ground is available."
+  },
+  {
+    "input": "CUSB me tennis facility hai kya? / Is there a tennis facility in CUSB?",
+    "output": "Haan, tennis khelne ke liye court available hai. / Yes, a tennis court is available."
+  },
+  {
+    "input": "CUSB me kaun kaun se banks available hain? / Which banks are available in CUSB?",
+    "output": "Campus me SBI aur ICICI Bank ki facilities available hain. / SBI and ICICI Bank facilities are available in the campus."
+  },
+  {
+    "input": "CUSB me ATM facility hai kya? / Are ATMs available in CUSB?",
+    "output": "Haan, SBI aur ICICI ke ATM campus me available hain. / Yes, SBI and ICICI ATMs are available in the campus."
+  },
+  {
+    "input": "CUSB me canteen hai kya? / Is there a canteen in CUSB?",
+    "output": "Haan, campus me do canteen available hain. / Yes, there are two canteens in the campus."
+  },
+  {
+    "input": "CUSB me parking facility hai kya? / Does CUSB have parking facility?",
+    "output": "Haan, students aur staff ke liye parking facility available hai. / Yes, parking facility is available for students and staff."
+  },
+  {
+    "input": "CUSB me indoor games ke liye facility hai kya? / Are there indoor game facilities in CUSB?",
+    "output": "Haan, indoor games ke liye alag facilities available hain. / Yes, separate facilities are available for indoor games."
+  },
+  {
+    "input": "CUSB me outdoor games ke liye facility hai kya? / Are there outdoor game facilities in CUSB?",
+    "output": "Haan, outdoor sports ke liye alag-alag grounds available hain. / Yes, separate grounds are available for outdoor sports."
+  },
+  {
+    "input": "CUSB me sports facilities kaisi hain? / How are sports facilities in CUSB?",
+    "output": "CUSB me indoor aur outdoor dono types ke sports ke liye separate grounds aur facilities available hain. / CUSB has separate grounds and facilities for both indoor and outdoor sports."
+  },
+  {
+    "input": "CUSB me kaun kaun se sports khele ja sakte hain? / Which sports are available in CUSB?",
+    "output": "Cricket, football, tennis aur kai indoor-outdoor sports khele ja sakte hain. / Cricket, football, tennis and many indoor-outdoor sports can be played."
+  },
+  {
+    "input": "CUSB me sports tournament hota hai kya? / Are sports tournaments held in CUSB?",
+    "output": "Haan, har saal sports tournaments organize kiye jate hain. / Yes, sports tournaments are organized every year."
+  },
+  {
+    "input": "CUSB me annual sports events hote hain kya? / Are annual sports events held in CUSB?",
+    "output": "Haan, campus me yearly sports events aur competitions hote hain. / Yes, yearly sports events and competitions are held in the campus."
+  },
+  {
+    "input": "CUSB me students ke liye fitness facilities hain kya? / Are there fitness facilities for students in CUSB?",
+    "output": "Haan, open gym aur sports grounds ke through fitness facilities available hain. / Yes, fitness facilities are available through open gym and sports grounds."
+  },
+  {
+    "input": "CUSB ka campus sports friendly hai kya? / Is CUSB a sports-friendly campus?",
+    "output": "Haan, campus sports friendly hai jahan har tarah ke games ke liye facilities hain. / Yes, the campus is sports-friendly with facilities for all types of games."
+  },
+  {
+    "input": "CUSB me SWAYAM course lena hota hai kya? / Do students need to take SWAYAM courses in CUSB?",
+    "output": "Haan, CUSB me SWAYAM platform ke courses lena hota hai. / Yes, students need to take courses from the SWAYAM platform."
+  },
+  {
+    "input": "CUSB me Samarth portal kya hai? / What is Samarth portal in CUSB?",
+    "output": "Samarth portal ek online system hai jisme registration aur academic related kaam kiya jata hai. / Samarth portal is an online system used for registration and academic-related activities."
+  },
+  {
+    "input": "CUSB me Samarth portal par registration karna padta hai kya? / Is registration required on Samarth portal in CUSB?",
+    "output": "Haan, students ko Samarth portal par registration karna padta hai. / Yes, students need to register on the Samarth portal."
+  },
+  {
+    "input": "CUSB me marks kaise divide hote hain? / How are marks divided in CUSB?",
+    "output": "CUSB me 30 marks assignment/test par depend hote hain aur 70 marks final exam ke hote hain. / In CUSB, 30 marks depend on assignments/tests and 70 marks are from the final exam."
+  },
+  {
+    "input": "CUSB ka exam pattern kaisa hai? / What is the exam pattern in CUSB?",
+    "output": "Exam pattern me 30% internal (assignment/test) aur 70% external exam hota hai. / The exam pattern consists of 30% internal (assignment/test) and 70% external exam."
+  },
+  {
+    "input": "CUSB me grading system kaisa hai? / What is the grading system in CUSB?",
+    "output": "CUSB me CGPA based grading system hota hai jisme grades show kiye jate hain. / CUSB follows a CGPA-based grading system where grades are displayed."
+  },
+  {
+    "input": "CUSB me CGPA system hai kya? / Does CUSB follow CGPA system?",
+    "output": "Haan, CUSB me CGPA (grading system) follow hota hai. / Yes, CUSB follows a CGPA-based grading system."
+  },
+  {
+    "input": "CUSB me girls ke liye bus facility hai kya? / Is there bus facility for girls in CUSB?",
+    "output": "Haan, girls students ke liye bus facility available hai. / Yes, bus facility is available for girl students."
+  },
+  {
+    "input": "CUSB me auto facility milti hai kya? / Is auto facility available in CUSB?",
+    "output": "Haan, university campus me auto facility available rehti hai. / Yes, auto facility is available inside the university campus."
+  },
+  {
+    "input": "CUSB me college timing kya hai? / What are the college timings in CUSB?",
+    "output": "College aam taur par subah 10 baje se shaam 5 baje tak chalta hai. / The college usually runs from 10 AM to 5 PM."
+  },
+  {
+    "input": "CUSB me attendance kitni jaruri hai? / How much attendance is required in CUSB?",
+    "output": "CUSB me minimum 75% attendance jaruri hoti hai. / A minimum of 75% attendance is required in CUSB."
+  },
+  {
+    "input": "CUSB me attendance kam ho to kya hota hai? / What happens if attendance is low in CUSB?",
+    "output": "Agar attendance 75% se kam ho to student exam nahi de payega. / If attendance is below 75%, the student may not be allowed to appear in exams."
+  },
+  {
+    "input": "CUSB me fresher party hoti hai kya? / Is there a fresher party in CUSB?",
+    "output": "Haan, CUSB me fresher party organize ki jati hai. / Yes, fresher parties are organized in CUSB."
+  },
+  {
+    "input": "CUSB me farewell hota hai kya? / Is farewell organized in CUSB?",
+    "output": "Haan, final year students ke liye farewell program hota hai. / Yes, farewell programs are organized for final-year students."
+  },
+  {
+    "input": "CUSB me Teacher's Day celebrate hota hai kya? / Is Teacher's Day celebrated in CUSB?",
+    "output": "Haan, Teacher's Day celebrate kiya jata hai. / Yes, Teacher's Day is celebrated."
+  },
+  {
+    "input": "CUSB me festivals celebrate hote hain kya? / Are festivals celebrated in CUSB?",
+    "output": "Haan, campus me sabhi major festivals celebrate kiye jate hain. / Yes, all major festivals are celebrated in the campus."
+  },
+  {
+    "input": "CUSB me programs aur events hote hain kya? / Are programs and events held in CUSB?",
+    "output": "Haan, campus me cultural programs, events aur parties organize kiye jate hain. / Yes, cultural programs, events, and parties are organized in the campus."
+  },
+  {
+    "input": "CUSB me student life kaisa hai? / How is student life in CUSB?",
+    "output": "CUSB me student life active hai jahan padhai ke saath events, festivals aur activities hoti rehti hain. / Student life in CUSB is active with studies along with events, festivals, and activities."
+  },
+  {
+    "input": "Are classrooms in CUSB air-conditioned? / Kya CUSB ke classrooms AC wale hain?",
+    "output": "Yes, many classrooms in CUSB are air-conditioned. / Haan, CUSB ke kai classrooms air-conditioned hain."
+  },
+  {
+    "input": "Is CUSB a plastic-free campus? / Kya CUSB plastic-free campus hai?",
+    "output": "Yes, CUSB is a plastic-free campus. / Haan, CUSB ek plastic-free campus hai."
+  },
+  {
+    "input": "Does CUSB have lift facilities? / Kya CUSB me lift ki suvidha hai?",
+    "output": "Yes, lifts are available in academic buildings. / Haan, academic buildings me lift available hai."
+  },
+  {
+    "input": "Is there a placement cell in CUSB? / Kya CUSB me placement cell hai?",
+    "output": "Yes, CUSB has a dedicated placement cell for student support. / Haan, CUSB me placement cell available hai."
+  },
+  {
+    "input": "Does CUSB have an auditorium? / Kya CUSB me auditorium hai?",
+    "output": "Yes, an auditorium is available for events and programs. / Haan, events aur programs ke liye auditorium available hai."
+  },
+  {
+    "input": "Is there a cafe or tea point in CUSB? / Kya CUSB me cafe ya tea point hai?",
+    "output": "Yes, there are cafes and tea points available on campus. / Haan, campus me cafe aur tea points available hain."
+  },
+  {
+    "input": "Does CUSB have a library? / Kya CUSB me library hai?",
+    "output": "Yes, CUSB has a central library with international-level resources. / Haan, CUSB me central library hai jisme international-level resources available hain."
+  },
+  {
+    "input": "Is WiFi available for students in CUSB? / Kya CUSB me students ke liye WiFi hai?",
+    "output": "Yes, free WiFi is available for students on campus. / Haan, students ke liye campus me free WiFi available hai."
+  },
+  {
+    "input": "Does CUSB have computer labs? / Kya CUSB me computer labs hain?",
+    "output": "Yes, modern computer labs are available. / Haan, modern computer labs available hain."
+  },
+  {
+    "input": "Are GPU/CPU facilities available in CUSB? / Kya CUSB me GPU/CPU facilities hain?",
+    "output": "Yes, advanced computing facilities including GPU/CPU are available. / Haan, advanced computing facilities (GPU/CPU) available hain."
+  },
+  {
+    "input": "How far is CUSB from Gaya Railway Station? / CUSB Gaya Railway Station se kitna door hai?",
+    "output": "CUSB is approximately 15 km from Gaya Railway Station. / CUSB Gaya Railway Station se lagbhag 15 km door hai."
+  },
+  {
+    "input": "What is the nearest market to CUSB? / CUSB ke paas ka nearest market kaunsa hai?",
+    "output": "Panchanpur and Dharamsala village are the nearest markets. / Panchanpur aur Dharamsala gaon nearest market hain."
+  },
+  {
+    "input": "Are there facilities outside the CUSB campus? / Kya CUSB campus ke bahar facilities hain?",
+    "output": "Yes, outside the campus there are hotels, tea stalls, rooms, flats, and other facilities. / Haan, campus ke bahar hotel, tea stall, room, flat aur anya facilities available hain."
+  },
+  {
+    "input": "Are hostels available near CUSB? / Kya CUSB ke paas hostel available hai?",
+    "output": "Yes, both girls' and boys' hostels are available near the campus. / Haan, campus ke paas boys aur girls dono ke hostel available hain."
+  },
+  {
+    "input": "Does CUSB have guest house facilities? / Kya CUSB me guest house hai?",
+    "output": "Yes, guest house facilities are available inside the campus. / Haan, campus ke andar guest house available hai."
+  },
+  {
+    "input": "Are staff quarters available in CUSB? / Kya CUSB me staff quarters hain?",
+    "output": "Yes, quarters are available for professors and staff. / Haan, professors aur staff ke liye quarters available hain."
+  },
+  {
+    "input": "CUSB kab establish hua tha? / When was CUSB established?",
+    "output": "CUSB 2009 me establish hua tha. / CUSB was established in 2009."
+  },
+  {
+    "input": "CUSB kis type ki university hai? / What type of university is CUSB?",
+    "output": "Ye ek Central University hai jo Government of India ke under aati hai. / It is a Central University under the Government of India."
+  },
+  {
+    "input": "CUSB ka campus kaisa hai? / How is the CUSB campus?",
+    "output": "CUSB ka campus modern aur eco-friendly hai. / The CUSB campus is modern and eco-friendly."
+  },
+  {
+    "input": "CUSB me admission kaise hota hai? / How does admission happen in CUSB?",
+    "output": "Admission CUET exam ke through hota hai. / Admission is done through the CUET exam."
+  },
+  {
+    "input": "CUET kya hai? / What is CUET?",
+    "output": "CUET ek national level entrance exam hai. / CUET is a national-level entrance exam."
+  },
+  {
+    "input": "CUSB me UG courses hai kya? / Are UG courses available in CUSB?",
+    "output": "Haan, UG courses available hain. / Yes, UG courses are available."
+  },
+  {
+    "input": "CUSB me PG courses hai kya? / Are PG courses available in CUSB?",
+    "output": "Haan, PG courses available hain. / Yes, PG courses are available."
+  },
+  {
+    "input": "CUSB me PhD hota hai kya? / Are PhD programs available in CUSB?",
+    "output": "Haan, PhD programs available hain. / Yes, PhD programs are available."
+  },
+  {
+    "input": "CUSB me kaun kaun se courses milte hain? / What courses are available in CUSB?",
+    "output": "BA, BSc, MA, MSc, MBA aur PhD courses available hain. / Courses like BA, BSc, MA, MSc, MBA, and PhD are available."
+  },
+  {
+    "input": "CUSB me Data Science course hai kya? / Is Data Science course available in CUSB?",
+    "output": "Haan, MSc Data Science available hai. / Yes, MSc Data Science is available."
+  },
+  {
+    "input": "MSc Data Science admission kaise hota hai? / How is admission done for MSc Data Science?",
+    "output": "CUET PG ke through admission hota hai. / Admission is done through CUET PG."
+  },
+  {
+    "input": "CUSB me hostel hai kya? / Is hostel available in CUSB?",
+    "output": "Haan, boys aur girls ke liye hostel hai. / Yes, hostels are available for both boys and girls."
+  },
+  {
+    "input": "Hostel facility kaisi hai? / How is the hostel facility?",
+    "output": "Basic facilities ke saath hostel available hai. / Hostels are available with basic facilities."
+  },
+  {
+    "input": "CUSB me mess facility hai kya? / Is mess facility available in CUSB?",
+    "output": "Haan, mess facility available hai. / Yes, mess facility is available."
+  },
+  {
+    "input": "Hostel fees kitni hai? / What is the hostel fee?",
+    "output": "Fees vary karti hai, latest info official site par milegi. / Fees vary, latest details are available on the official website."
+  },
+  {
+    "input": "CUSB me library hai kya? / Is there a library in CUSB?",
+    "output": "Haan, central library available hai. / Yes, a central library is available."
+  },
+  {
+    "input": "Library me kya facilities hai? / What facilities are available in the library?",
+    "output": "Books, journals aur digital resources available hain. / Books, journals, and digital resources are available."
+  },
+  {
+    "input": "CUSB me WiFi hai kya? / Is WiFi available in CUSB?",
+    "output": "Haan, campus me WiFi hai. / Yes, WiFi is available across the campus."
+  },
+  {
+    "input": "CUSB me labs hai kya? / Are labs available in CUSB?",
+    "output": "Haan, modern labs available hain. / Yes, modern labs are available."
+  },
+  {
+    "input": "CUSB me placement hota hai kya? / Does CUSB have placements?",
+    "output": "Haan, placement cell available hai. / Yes, a placement cell is available."
+  },
+  {
+    "input": "Placement kaise hota hai? / How does placement work?",
+    "output": "Companies campus me aati hain aur recruitment karti hain. / Companies visit the campus and recruit students."
+  },
+  {
+    "input": "CUSB me internship milta hai kya? / Are internships available in CUSB?",
+    "output": "Haan, internship opportunities milti hain. / Yes, internship opportunities are available."
+  },
+  {
+    "input": "CUSB me scholarship milta hai kya? / Are scholarships available in CUSB?",
+    "output": "Haan, government scholarships available hain. / Yes, government scholarships are available."
+  },
+  {
+    "input": "CUSB ka campus safe hai kya? / Is the CUSB campus safe?",
+    "output": "Haan, security aur CCTV available hai. / Yes, security and CCTV are available."
+  },
+  {
+    "input": "CUSB me ragging allowed hai kya? / Is ragging allowed in CUSB?",
+    "output": "Nahi, ragging strictly banned hai. / No, ragging is strictly banned."
+  },
+  {
+    "input": "CUSB me sports hai kya? / Are sports facilities available in CUSB?",
+    "output": "Haan, sports facilities available hain. / Yes, sports facilities are available."
+  },
+  {
+    "input": "Kaun kaun se sports hai? / Which sports are available?",
+    "output": "Cricket, football, badminton, volleyball. / Cricket, football, badminton, and volleyball are available."
+  },
+  {
+    "input": "CUSB ka exam system kaisa hai? / What is the exam system in CUSB?",
+    "output": "Semester system follow hota hai. / The semester system is followed."
+  },
+  {
+    "input": "Attendance rule kya hai? / What is the attendance rule?",
+    "output": "Minimum attendance required hota hai. / Minimum attendance is required."
+  },
+  {
+    "input": "CUSB me faculty kaisi hai? / How is the faculty in CUSB?",
+    "output": "Qualified aur experienced faculty hai. / The faculty is qualified and experienced."
+  },
+  {
+    "input": "CUSB ka official website kya hai? / What is the official website of CUSB?",
+    "output": "https://www.cusb.ac.in / https://www.cusb.ac.in"
+  },
+  {
+    "input": "CUSB ka contact details kaha milega? / Where can I find CUSB contact details?",
+    "output": "Official website par available hai. / Available on the official website."
+  },
+  {
+    "input": "CUSB ka nearest railway station kaunsa hai? / What is the nearest railway station to CUSB?",
+    "output": "Gaya Junction. / Gaya Junction."
+  },
+  {
+    "input": "CUSB ka nearest airport kaunsa hai? / What is the nearest airport to CUSB?",
+    "output": "Gaya Airport. / Gaya Airport."
+  },
+  {
+    "input": "CUSB me Bioinformatics me kaun se courses hain? / What courses are available in Bioinformatics at CUSB?",
+    "output": "MSc aur PhD in Bioinformatics available hain. / MSc and PhD in Bioinformatics are available."
+  },
+  {
+    "input": "CUSB me Geology me kaun se courses hain? / What courses are available in Geology at CUSB?",
+    "output": "Integrated UG-PG (BSc-MSc), MSc aur PhD in Geology available hain. / Integrated UG-PG (BSc-MSc), MSc, and PhD in Geology are available."
+  },
+  {
+    "input": "CUSB me Life Science me kaun se courses hain? / What courses are available in Life Science at CUSB?",
+    "output": "Integrated UG-PG, MSc aur PhD in Life Science available hain. / Integrated UG-PG, MSc, and PhD in Life Science are available."
+  },
+  {
+    "input": "CUSB me Biotechnology me kaun se courses hain? / What courses are available in Biotechnology at CUSB?",
+    "output": "MSc aur PhD in Biotechnology available hain. / MSc and PhD in Biotechnology are available."
+  },
+  {
+    "input": "CUSB me Environmental Science me kaun se courses hain? / What courses are available in Environmental Science at CUSB?",
+    "output": "MSc aur PhD in Environmental Science available hain. / MSc and PhD in Environmental Science are available."
+  },
+  {
+    "input": "CUSB me Geography me kaun se courses hain? / What courses are available in Geography at CUSB?",
+    "output": "Integrated UG-PG, MA/MSc aur PhD in Geography available hain. / Integrated UG-PG, MA/MSc, and PhD in Geography are available."
+  },
+  {
+    "input": "CUSB me Geography department kaha hai? / Where is the Geography department located in CUSB?",
+    "output": "Geography department Chanakya Bhawan me sthit hai. / The Geography department is located in Chanakya Bhawan."
+  },
+  {
+    "input": "CUSB me Earth, Biological aur Environmental Science ke departments kaha located hain? / Where are the Earth, Biological and Environmental Science departments located in CUSB?",
+    "output": "Ye departments mainly Aryabhatta Bhawan me located hain, sirf Geography department Chanakya Bhawan me hai. / These departments are mainly located in Aryabhatta Bhawan, except Geography which is in Chanakya Bhawan."
+  },
+  {
+    "input": "CUSB me School of Social Science and Policies me kaun se departments hain? / Which departments are in the School of Social Science and Policies at CUSB?",
+    "output": "Is school me Historical, Economic Studies and Policy, Development Studies, Political Science, Sociological Studies aur Library Information Science departments hain. / This school includes departments of Historical Studies, Economic Studies and Policy, Development Studies, Political Science, Sociological Studies, and Library Information Science."
+  },
+  {
+    "input": "CUSB me History department me kaun se courses hain? / What courses are available in the History department at CUSB?",
+    "output": "Integrated UG-PG (BA-MA), MA aur PhD in History available hain. / Integrated UG-PG (BA-MA), MA, and PhD in History are available."
+  },
+  {
+    "input": "History me Integrated course ki duration aur eligibility kya hai? / What is the duration and eligibility for the Integrated History course?",
+    "output": "Ye 5 saal ka BA-MA course hai. Eligibility 10+2 with minimum 50% (General/OBC/EWS) aur 45% (SC/ST/PWD) hai. Admission CUET ke through hota hai. / It is a 5-year BA-MA course. Eligibility is 10+2 with minimum 50% (General/OBC/EWS) and 45% (SC/ST/PWD). Admission is through CUET."
+  },
+  {
+    "input": "CUSB me Economics department me kaun se courses hain? / What courses are available in the Economics department at CUSB?",
+    "output": "Integrated UG-PG (BA-MA), MA aur PhD in Economics available hain. / Integrated UG-PG (BA-MA), MA, and PhD in Economics are available."
+  },
+  {
+    "input": "Economics me Integrated course ki eligibility kya hai? / What is the eligibility for the Integrated Economics course?",
+    "output": "10+2 kisi bhi stream se minimum 45% (General/OBC/EWS) aur 40% (SC/ST/PWD) ke saath apply kar sakte hain. Admission CUET se hota hai. / Candidates can apply after 10+2 in any stream with minimum 45% (General/OBC/EWS) and 40% (SC/ST/PWD). Admission is through CUET."
+  },
+  {
+    "input": "CUSB me Development Studies me kaun se courses hain? / What courses are available in Development Studies at CUSB?",
+    "output": "MA aur PhD in Development Studies available hain. / MA and PhD in Development Studies are available."
+  },
+  {
+    "input": "CUSB me Political Science me kaun se courses hain? / What courses are available in Political Science at CUSB?",
+    "output": "Integrated UG-PG (BA-MA), MA aur PhD in Political Science available hain. / Integrated UG-PG (BA-MA), MA, and PhD in Political Science are available."
+  },
+  {
+    "input": "Political Science me Integrated course ki eligibility kya hai? / What is the eligibility for the Integrated Political Science course?",
+    "output": "10+2 kisi bhi discipline se minimum 50% (General/OBC/EWS) aur 45% (SC/ST/PWD) ke saath apply kar sakte hain. Admission CUET ke through hota hai. / Candidates can apply after 10+2 in any discipline with minimum 50% (General/OBC/EWS) and 45% (SC/ST/PWD). Admission is through CUET."
+  },
+  {
+    "input": "CUSB me Sociological Studies me kaun se courses hain? / What courses are available in Sociological Studies at CUSB?",
+    "output": "Integrated UG-PG, MA in Social Work, MA in Sociology aur PhD in Sociology available hain. / Integrated UG-PG, MA in Social Work, MA in Sociology, and PhD in Sociology are available."
+  },
+  {
+    "input": "Social Work aur Sociology MA ki eligibility kya hai? / What is the eligibility for MA in Social Work and Sociology?",
+    "output": "Bachelor's degree kisi bhi subject me minimum 50% (General/OBC/EWS) aur 45% (SC/ST/PWD) ke saath required hoti hai. / A Bachelor's degree in any subject with minimum 50% (General/OBC/EWS) and 45% (SC/ST/PWD) is required."
+  },
+  {
+    "input": "CUSB me Library Information Science me kaun sa course hai? / What course is available in Library Information Science at CUSB?",
+    "output": "Integrated B.Lib.I.Sc-M.Lib.I.Sc course available hai. / Integrated B.Lib.I.Sc-M.Lib.I.Sc course is available."
+  },
+  {
+    "input": "Library Science course ki eligibility kya hai? / What is the eligibility for the Library Science course?",
+    "output": "Bachelor's degree kisi bhi discipline me 55% (UR/OBC/EWS) aur 50% (SC/ST/PwD) ke saath required hoti hai. / A Bachelor's degree in any discipline with 55% (UR/OBC/EWS) and 50% (SC/ST/PwD) is required."
+  },
+  {
+    "input": "CUSB ke School of Mathematics, Statistics and Computer Science me kaun se departments hain? / Which departments are in the School of Mathematics, Statistics and Computer Science at CUSB?",
+    "output": "Is school me Department of Mathematics, Department of Statistics aur Department of Computer Science shamil hain. / This school includes the Department of Mathematics, Department of Statistics, and Department of Computer Science."
+  },
+  {
+    "input": "CUSB me Mathematics department me kaun se courses available hain? / What courses are available in the Mathematics department at CUSB?",
+    "output": "Mathematics department me Integrated UG-PG (BSc-MSc / BA-MA), MA, MSc aur PhD courses available hain. / The Mathematics department offers Integrated UG-PG (BSc-MSc / BA-MA), MA, MSc, and PhD courses."
+  },
+  {
+    "input": "CUSB me Integrated Mathematics course kya hai? / What is the Integrated Mathematics course at CUSB?",
+    "output": "Ye 5 saal ka Integrated UG-PG program hai (BSc-MSc ya BA-MA) jisme admission CUET ke through hota hai aur 10+2 me Mathematics hona zaruri hai. / It is a 5-year Integrated UG-PG program (BSc-MSc or BA-MA) with admission through CUET, and Mathematics in 10+2 is required."
+  },
+  {
+    "input": "CUSB me MA Mathematics ke liye eligibility kya hai? / What is the eligibility for MA Mathematics at CUSB?",
+    "output": "Candidate ke paas Mathematics ya Statistics me Bachelor's degree honi chahiye aur 3 saal tak Mathematics subject padha hona chahiye. / The candidate must have a Bachelor's degree in Mathematics or Statistics and should have studied Mathematics for 3 years."
+  },
+  {
+    "input": "CUSB me MSc Mathematics ke liye eligibility kya hai? / What is the eligibility for MSc Mathematics at CUSB?",
+    "output": "Candidate ke paas Mathematics ya Statistics background hona chahiye aur graduation me Mathematics padha hona chahiye. / The candidate should have a background in Mathematics or Statistics and must have studied Mathematics during graduation."
+  },
+  {
+    "input": "CUSB me Statistics department me kaun se courses available hain? / What courses are available in the Statistics department at CUSB?",
+    "output": "Statistics department me Integrated UG-PG (Statistics), MSc Statistics, MSc Data Science & Applied Statistics aur PhD in Statistics available hain. / The Statistics department offers Integrated UG-PG (Statistics), MSc Statistics, MSc Data Science & Applied Statistics, and PhD in Statistics."
+  },
+  {
+    "input": "CUSB me Integrated Statistics course kya hai? / What is the Integrated Statistics course at CUSB?",
+    "output": "Ye 5 saal ka Integrated program hai jisme 10+2 Science stream ke saath Mathematics required hota hai aur admission CUET ke through hota hai. / It is a 5-year Integrated program requiring 10+2 in Science with Mathematics, and admission is through CUET."
+  },
+  {
+    "input": "CUSB me MSc Statistics ke liye eligibility kya hai? / What is the eligibility for MSc Statistics at CUSB?",
+    "output": "Candidate ke paas Statistics ya Mathematics me Bachelor's degree hona chahiye ya Computer Science/IT background ke saath Maths/Stats ka paper hona chahiye. / The candidate must have a Bachelor's degree in Statistics or Mathematics, or a Computer Science/IT background with a Maths/Stats subject."
+  },
+  {
+    "input": "CUSB me MSc Data Science & Applied Statistics ke liye eligibility kya hai? / What is the eligibility for MSc Data Science & Applied Statistics at CUSB?",
+    "output": "Candidate ke paas Statistics, Mathematics, Computer Science, IT, AI, Physics ya Economics background hona chahiye aur Maths/Statistics ka knowledge hona zaruri hai. / The candidate should have a background in Statistics, Mathematics, Computer Science, IT, AI, Physics, or Economics, with knowledge of Maths/Statistics."
+  },
+  {
+    "input": "CUSB me Computer Science department me kaun se courses available hain? / What courses are available in the Computer Science department at CUSB?",
+    "output": "Computer Science department me Integrated UG-PG, MSc Artificial Intelligence aur PhD courses available hain. / The Computer Science department offers Integrated UG-PG, MSc Artificial Intelligence, and PhD courses."
+  },
+  {
+    "input": "CUSB me Integrated Computer Science course kya hai? / What is Integrated Computer Science course in CUSB?",
+    "output": "Ye 5 saal ka BSc-MSc program hai jisme 10+2 Science stream me Mathematics hona zaruri hai aur admission CUET ke through hota hai. / It is a 5-year BSc-MSc integrated program requiring Mathematics in 10+2 and admission is through CUET."
+  },
+  {
+    "input": "CUSB me MSc Artificial Intelligence ke liye eligibility kya hai? / What is eligibility for MSc Artificial Intelligence in CUSB?",
+    "output": "Candidate ke paas Computer Science, IT ya Computer Application me Bachelor's degree honi chahiye aur 10+2 me Mathematics hona zaruri hai. / Candidates must have a Bachelor's degree in CS/IT/CA with Mathematics at 10+2 level."
+  },
+  {
+    "input": "CUSB me PhD Computer Science ke liye eligibility kya hai? / What is eligibility for PhD Computer Science in CUSB?",
+    "output": "Candidate ke paas Computer Science ya related field me degree honi chahiye aur Mathematics background bhi required hota hai. / Candidates need a degree in CS or related field with Mathematics background."
+  },
+  {
+    "input": "CUSB ke School of Education me kaun se departments hain? / Which departments are in School of Education at CUSB?",
+    "output": "School of Education me Department of Teacher Education aur Department of Physical Education shamil hain. / It includes Department of Teacher Education and Department of Physical Education."
+  },
+  {
+    "input": "CUSB me Teacher Education department me kaun se courses available hain? / What courses are available in Teacher Education department?",
+    "output": "Teacher Education department me BA-B.Ed, B.Sc-B.Ed, M.Ed aur PhD courses available hain. / Courses include BA-B.Ed, B.Sc-B.Ed, M.Ed, and PhD."
+  },
+  {
+    "input": "CUSB me BA-B.Ed course kya hai? / What is BA-B.Ed course in CUSB?",
+    "output": "BA-B.Ed ek 4 saal ka integrated teacher education course hai jo teaching career ke liye prepare karta hai. / It is a 4-year integrated teacher education program for teaching careers."
+  },
+  {
+    "input": "CUSB me B.Sc-B.Ed course kya hai? / What is B.Sc-B.Ed course in CUSB?",
+    "output": "B.Sc-B.Ed ek 4 saal ka integrated course hai jo science background ke students ko teaching field ke liye prepare karta hai. / It is a 4-year integrated program for science students aiming for teaching."
+  },
+  {
+    "input": "CUSB me M.Ed ke liye eligibility kya hai? / What is eligibility for M.Ed in CUSB?",
+    "output": "Candidate ke paas B.Ed ya 4 saal ka integrated BA-B.Ed/B.Sc-B.Ed degree hona chahiye with minimum required marks. / Candidates must have B.Ed or integrated degree with required marks."
+  },
+  {
+    "input": "CUSB me PhD in Education kya hai? / What is PhD in Education in CUSB?",
+    "output": "PhD in Education ek doctoral level research program hai jo Teacher Education department ke under aata hai. / It is a doctoral research program under Teacher Education department."
+  },
+  {
+    "input": "CUSB me Physical Education department me kaun se courses available hain? / What courses are available in Physical Education department?",
+    "output": "Physical Education department me PG Diploma in Yoga, M.P.Ed aur PhD courses available hain. / Courses include PG Diploma in Yoga, M.P.Ed, and PhD."
+  },
+  {
+    "input": "CUSB me PG Diploma in Yoga kya hai? / What is PG Diploma in Yoga in CUSB?",
+    "output": "PG Diploma in Yoga ek 1 saal ka diploma course hai jo yoga aur physical wellness par focus karta hai. / It is a 1-year diploma focused on yoga and wellness."
+  },
+  {
+    "input": "CUSB me M.P.Ed ke liye eligibility kya hai? / What is eligibility for M.P.Ed in CUSB?",
+    "output": "Candidate ke paas B.P.Ed ya B.Sc Health & Physical Education degree honi chahiye with required minimum marks. / Candidates must have B.P.Ed or equivalent degree."
+  },
+  {
+    "input": "CUSB me PhD in Physical Education kya hai? / What is PhD in Physical Education in CUSB?",
+    "output": "PhD in Physical Education ek doctoral level research program hai jo Physical Education department ke under aata hai. / It is a doctoral research program in Physical Education."
+  },
+  {
+    "input": "CUSB ke School of Physical & Chemical me kaun se departments hain? / Which departments are in School of Physical & Chemical?",
+    "output": "Is school me Department of Chemistry aur Department of Physics shamil hain. / It includes Department of Chemistry and Department of Physics."
+  },
+  {
+    "input": "CUSB me Chemistry department me kaun se courses available hain? / What courses are available in Chemistry department?",
+    "output": "Chemistry department me Integrated UG-PG (BSc-MSc), MSc aur PhD courses available hain. / Courses include Integrated BSc-MSc, MSc, and PhD."
+  },
+  {
+    "input": "CUSB me Integrated Chemistry course kya hai? / What is Integrated Chemistry course in CUSB?",
+    "output": "Ye 5 saal ka BSc-MSc program hai jisme 10+2 Science stream ke saath admission CUET ke through hota hai. / It is a 5-year BSc-MSc program with CUET admission."
+  },
+  {
+    "input": "CUSB me MSc Chemistry ke liye eligibility kya hai? / What is eligibility for MSc Chemistry in CUSB?",
+    "output": "Candidate ke paas BSc degree me Chemistry subject hona chahiye ya equivalent degree honi chahiye. / Candidates must have BSc with Chemistry or equivalent."
+  },
+  {
+    "input": "CUSB me PhD Chemistry kya hai? / What is PhD Chemistry in CUSB?",
+    "output": "PhD Chemistry ek doctoral level research program hai jo Chemistry department ke under aata hai. / It is a doctoral research program in Chemistry."
+  },
+  {
+    "input": "CUSB me Physics department me kaun se courses available hain? / What courses are available in Physics department?",
+    "output": "Physics department me Integrated UG-PG (BSc-MSc), MSc aur PhD courses available hain. / Courses include Integrated BSc-MSc, MSc, and PhD."
+  },
+  {
+    "input": "CUSB me Integrated Physics course kya hai? / What is Integrated Physics course in CUSB?",
+    "output": "Ye 5 saal ka BSc-MSc program hai jisme 10+2 me Physics hona zaruri hai aur admission CUET ke through hota hai. / It is a 5-year BSc-MSc program requiring Physics in 10+2 with CUET admission."
+  },
+  {
+    "input": "CUSB me MSc Physics ke liye eligibility kya hai? / What is eligibility for MSc Physics in CUSB?",
+    "output": "Candidate ke paas BSc me Physics subject hona chahiye ya equivalent degree honi chahiye. / Candidates must have BSc with Physics or equivalent."
+  },
+  {
+    "input": "CUSB me PhD Physics kya hai? / What is PhD Physics in CUSB?",
+    "output": "PhD Physics ek doctoral level research program hai jo Physics department ke under aata hai. / It is a doctoral research program in Physics."
+  },
+  {
+    "input": "CUSB ke School of Languages & Literature me kaun se departments hain? / Which departments are in School of Languages & Literature?",
+    "output": "Is school me Department of English aur Department of Indian Languages shamil hain. / It includes Department of English and Department of Indian Languages."
+  },
+  {
+    "input": "CUSB me English department me kaun se courses available hain? / What courses are available in English department?",
+    "output": "English department me Integrated UG-PG (BA-MA), MA aur PhD courses available hain. / Courses include Integrated BA-MA, MA, and PhD."
+  },
+  {
+    "input": "CUSB me Integrated English course kya hai? / What is Integrated English course in CUSB?",
+    "output": "Ye 5 saal ka BA-MA program hai jisme 10+2 ke baad admission CUET ke through hota hai. / It is a 5-year BA-MA program with CUET admission."
+  },
+  {
+    "input": "CUSB me MA English ke liye eligibility kya hai? / What is eligibility for MA English in CUSB?",
+    "output": "Candidate ke paas Bachelor's degree honi chahiye jisme English subject hona zaruri hai. / Candidates must have a Bachelor's degree with English as a subject."
+  },
+  {
+    "input": "CUSB me PhD English kya hai? / What is PhD English in CUSB?",
+    "output": "PhD English ek doctoral level research program hai jo English department ke under aata hai. / PhD English is a doctoral-level research program under the Department of English."
+  },
+  {
+    "input": "CUSB me Indian Languages department me kaun se courses available hain? / What courses are available in Indian Languages department?",
+    "output": "Indian Languages department me Integrated UG-PG (BA-MA), MA aur PhD courses available hain. / The department offers Integrated BA-MA, MA, and PhD programs."
+  },
+  {
+    "input": "CUSB me Integrated Hindi course kya hai? / What is Integrated Hindi course in CUSB?",
+    "output": "Ye 5 saal ka BA-MA program hai jisme 10+2 me Hindi subject hona zaruri hai aur admission CUET ke through hota hai. / It is a 5-year BA-MA program requiring Hindi in 10+2 with admission through CUET."
+  },
+  {
+    "input": "CUSB me MA Indian Languages ke liye eligibility kya hai? / What is eligibility for MA Indian Languages in CUSB?",
+    "output": "Candidate ke paas kisi bhi discipline me Bachelor's degree honi chahiye. / Candidates must have a Bachelor's degree in any discipline."
+  },
+  {
+    "input": "CUSB me PhD Indian Languages kya hai? / What is PhD Indian Languages in CUSB?",
+    "output": "PhD Indian Languages ek doctoral level research program hai jo Indian Languages department ke under aata hai. / It is a doctoral research program under the Department of Indian Languages."
+  },
+  {
+    "input": "CUSB ki full form kya hai?",
+    "output": "Central University of South Bihar."
+  },
+  {
+    "input": "CUSB kahan located hai?",
+    "output": "Gaya, Bihar (Panchanpur, NH-120, Post- Fatehpur, Gaya-824236)"
+  },
+  {
+    "input": "CUSB ka campus size kya hai?",
+    "output": "300 Acres"
+  },
+  {
+    "input": "CUSB ki official website kya hai?",
+    "output": "https://www.cusb.ac.in"
+  },
+  {
+    "input": "CUSB ka nearest railway station kaunsa hai?",
+    "output": "Gaya Junction (~15 km)"
+  },
+  {
+    "input": "CUSB ka nearest airport kaunsa hai?",
+    "output": "Gaya Airport"
+  },
+  {
+    "input": "CUSB me admission ka mode kya hai?",
+    "output": "Online"
+  },
+  {
+    "input": "CUSB me entrance exam kaunsa hota hai?",
+    "output": "CUET (Common University Entrance Test) for UG & PG courses"
+  },
+  {
+    "input": "CUSB me admission ke steps kya hain?",
+    "output": "1. Apply for CUET. 2. Appear in CUET. 3. University prepares merit list based on CUET score and cut-off. 4. Selected candidates receive admission offer through email. 5. Pay admission fee within deadline. 6. Provisional admission granted. 7. Document verification at university. 8. If documents valid, admission confirmed. 9. If documents incorrect, admission cancelled."
+  },
+  {
+    "input": "B.Sc (Hons) Agriculture ki total fees kya hai?",
+    "output": "₹ 2.03 Lakhs (4 years)"
+  },
+  {
+    "input": "B.Sc (Hons) ki total fees kya hai?",
+    "output": "₹ 1.20 Lakhs (3 years)"
+  },
+  {
+    "input": "B.A. LL.B. (Hons) ki fees kya hai?",
+    "output": "₹ 69,000 - 84,300 (5 years)"
+  },
+  {
+    "input": "BBA LL.B. ki fees kya hai?",
+    "output": "₹ 50,000 (5 years)"
+  },
+  {
+    "input": "B.Sc + B.Ed (Integrated) ki fees kya hai?",
+    "output": "₹ 52,000 - 60,072 (4 years)"
+  },
+  {
+    "input": "B.A + B.Ed (Integrated) ki fees kya hai?",
+    "output": "₹ 49,800 - 52,072 (4 years)"
+  },
+  {
+    "input": "M.Sc ki fees range kya hai?",
+    "output": "₹ 26,072 - 94,072 (2 years)"
+  },
+  {
+    "input": "M.A ki fees range kya hai?",
+    "output": "₹ 24,836 - 28,072 (2 years)"
+  },
+  {
+    "input": "M.Com ki fees kya hai?",
+    "output": "₹ 24,836 (2 years)"
+  },
+  {
+    "input": "LL.M. ki fees kya hai?",
+    "output": "₹ 42,836 - 44,072 (1-2 years)"
+  },
+  {
+    "input": "M.Ed. ki fees kya hai?",
+    "output": "₹ 35,636 - 36,872 (2 years)"
+  },
+  {
+    "input": "M.Pharm ki fees kya hai?",
+    "output": "₹ 80,072 - 94,072 (2 years)"
+  },
+  {
+    "input": "M.Tech (Computer Science) ki fees kya hai?",
+    "output": "₹ 50,836 - 76,836 (2 years)"
+  },
+  {
+    "input": "Ph.D ki fees kya hai?",
+    "output": "₹ 74,754 - 82,900 (3-5 years)"
+  },
+  {
+    "input": "Ph.D ka tuition fee per semester kitna hai?",
+    "output": "₹ 5,000 per semester"
+  },
+  {
+    "input": "Ph.D ka admission fee kitna hai?",
+    "output": "₹ 600 (one time)"
+  },
+  {
+    "input": "Ph.D ka exam fee per year kitna hai?",
+    "output": "₹ 1,000 per year"
+  },
+  {
+    "input": "Ph.D ka caution fee (refundable) kitna hai?",
+    "output": "₹ 5,000 (one time)"
+  },
+  {
+    "input": "Ph.D ka course work fee kitna hai?",
+    "output": "₹ 4,000 (one time)"
+  },
+  {
+    "input": "Hostel ka fee per semester kitna hai?",
+    "output": "₹ 9,000 per semester"
+  },
+  {
+    "input": "Mess charges per month kitne hain?",
+    "output": "₹ 3,000 per month (~₹ 36,000 annual)"
+  },
+  {
+    "input": "Hostel ka security deposit kitna hai?",
+    "output": "₹ 3,000 - ₹ 6,000 (one time, refundable)"
+  },
+  {
+    "input": "Hostel maintenance fee per year kitna hai?",
+    "output": "₹ 1,000 per year"
+  },
+  {
+    "input": "Annual hostel expense estimated kitna hai?",
+    "output": "~₹ 49,000"
+  },
+  {
+    "input": "Hostel me ghar ka khana allowed hai?",
+    "output": "No"
+  },
+  {
+    "input": "Girls ke liye bus facility hai CUSB me?",
+    "output": "Haan, available hai"
+  },
+  {
+    "input": "Campus ke bahar hotel available hai kya?",
+    "output": "Haan, hotels, tea stalls, rooms, flats available hain"
+  },
+  {
+    "input": "CUSB me placement cell hai?",
+    "output": "Haan, dedicated placement cell available hai"
+  },
+  {
+    "input": "CUSB me sports tournament hota hai?",
+    "output": "Haan, har saal organized kiya jata hai"
+  },
+  {
+    "input": "CUSB me academic calendar follow kiya jata hai?",
+    "output": "Haan, semester system based calendar"
+  },
+  {
+    "input": "CUSB me attendance kitni mandatory hai?",
+    "output": "Minimum 75% attendance required"
+  },
+  {
+    "input": "CUSB me grace marks ka provision hai?",
+    "output": "Haan, up to 2% for final year"
+  },
+  {
+    "input": "CUSB me CGPA to percentage conversion ka formula kya hai?",
+    "output": "Multiply CGPA by 9.5"
+  },
+  {
+    "input": "CUSB me backlogs allowed hain?",
+    "output": "Haan, maximum 4 at a time"
+  },
+  {
+    "input": "Hostel me curfew timing kya hai?",
+    "output": "8 PM"
+  },
+  {
+    "input": "Hostel me security 24 hour hoti hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "Hostel me visitor allowed hai?",
+    "output": "Only campus students allowed, otherwise special permission"
+  },
+  {
+    "input": "CUSB me scholarship kaise apply karein?",
+    "output": "Through National Scholarship Portal (NSP) and government schemes"
+  },
+  {
+    "input": "CUSB me anti-ragging squad hai?",
+    "output": "Haan, faculty aur student volunteers ke saath"
+  },
+  {
+    "input": "CUSB me fire safety system hai?",
+    "output": "Haan, fire extinguishers and alarms installed"
+  },
+  {
+    "input": "CUSB me gym hai?",
+    "output": "Haan, open gym available"
+  },
+  {
+    "input": "CUSB me canteen hai?",
+    "output": "Haan, two canteens available"
+  },
+  {
+    "input": "CUSB me bank available hai?",
+    "output": "Haan, SBI aur ICICI Bank facilities"
+  },
+  {
+    "input": "CUSB me ATM hai?",
+    "output": "Haan, SBI aur ICICI ke ATM"
+  },
+  {
+    "input": "CUSB me parking facility hai?",
+    "output": "Haan, students aur staff ke liye"
+  },
+  {
+    "input": "CUSB me NCC facility hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "CUSB me medical facility hai?",
+    "output": "Haan, basic medical/hospital facility available"
+  },
+  {
+    "input": "CUSB me WiFi students ke liye free hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "CUSB me computer labs hain?",
+    "output": "Haan, modern labs available"
+  },
+  {
+    "input": "CUSB me guest house hai?",
+    "output": "Haan, campus me available"
+  },
+  {
+    "input": "CUSB me staff quarters hain?",
+    "output": "Haan, professors aur staff ke liye"
+  },
+  {
+    "input": "CUSB plastic-free campus hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "CUSB me lift facility hai?",
+    "output": "Haan, academic buildings me"
+  },
+  {
+    "input": "CUSB me auditorium hai?",
+    "output": "Haan, events aur programs ke liye"
+  },
+  {
+    "input": "CUSB me cafe ya tea point hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "CUSB me GPU/CPU facilities hain?",
+    "output": "Haan, advanced computing facilities"
+  },
+  {
+    "input": "CUSB kya hai? / What is CUSB?",
+    "output": "Central University of South Bihar ek central university hai jo Gaya, Bihar me sthit hai. / Central University of South Bihar is a central university located in Gaya, Bihar."
+  },
+  {
+    "input": "CUSB kaha hai? / Where is CUSB located?",
+    "output": "CUSB Gaya, Bihar ke Panchanpur ke paas sthit hai. / CUSB is located near Panchanpur in Gaya, Bihar."
+  },
+  {
+    "input": "CUSB ka full form kya hai?",
+    "output": "Central University of South Bihar."
+  },
+  {
+    "input": "CUSB kab establish hua tha? / When was CUSB established?",
+    "output": "CUSB 2009 me establish hua tha. / CUSB was established in 2009."
+  },
+  {
+    "input": "CUSB kis type ki university hai? / What type of university is CUSB?",
+    "output": "Ye ek Central University hai jo Government of India ke under aati hai. / It is a Central University under the Government of India."
+  },
+  {
+    "input": "CUSB ka campus kaisa hai? / How is the CUSB campus?",
+    "output": "CUSB ka campus modern aur eco-friendly hai. / The CUSB campus is modern and eco-friendly."
+  },
+  {
+    "input": "CUSB ka campus size kya hai?",
+    "output": "300 Acres"
+  },
+  {
+    "input": "CUSB ki official website kya hai?",
+    "output": "https://www.cusb.ac.in"
+  },
+  {
+    "input": "CUSB ka nearest railway station kaunsa hai?",
+    "output": "Gaya Junction (~15 km)"
+  },
+  {
+    "input": "CUSB ka nearest airport kaunsa hai?",
+    "output": "Gaya Airport"
+  },
+  {
+    "input": "CUSB me admission ka mode kya hai?",
+    "output": "Online"
+  },
+  {
+    "input": "CUSB me entrance exam kaunsa hota hai?",
+    "output": "CUET (Common University Entrance Test) for UG & PG courses"
+  },
+  {
+    "input": "CUSB me admission ke steps kya hain?",
+    "output": "1. Apply for CUET. 2. Appear in CUET. 3. University prepares merit list based on CUET score and cut-off. 4. Selected candidates receive admission offer through email. 5. Pay admission fee within deadline. 6. Provisional admission granted. 7. Document verification at university. 8. If documents valid, admission confirmed. 9. If documents incorrect, admission cancelled."
+  },
+  {
+    "input": "CUSB me UG courses hai kya? / Are UG courses available in CUSB?",
+    "output": "Haan, UG courses available hain. / Yes, UG courses are available."
+  },
+  {
+    "input": "CUSB me PG courses hai kya? / Are PG courses available in CUSB?",
+    "output": "Haan, PG courses available hain. / Yes, PG courses are available."
+  },
+  {
+    "input": "CUSB me PhD hota hai kya? / Are PhD programs available in CUSB?",
+    "output": "Haan, PhD programs available hain. / Yes, PhD programs are available."
+  },
+  {
+    "input": "CUSB me kaun kaun se courses milte hain? / What courses are available in CUSB?",
+    "output": "BA, BSc, MA, MSc, MBA aur PhD courses available hain. / Courses like BA, BSc, MA, MSc, MBA, and PhD are available."
+  },
+  {
+    "input": "CUSB me Data Science course hai kya? / Is Data Science course available in CUSB?",
+    "output": "Haan, MSc Data Science available hai. / Yes, MSc Data Science is available."
+  },
+  {
+    "input": "MSc Data Science admission kaise hota hai? / How is admission done for MSc Data Science?",
+    "output": "CUET PG ke through admission hota hai. / Admission is done through CUET PG."
+  },
+  {
+    "input": "CUSB me hostel hai kya? / Is hostel available in CUSB?",
+    "output": "Haan, boys aur girls ke liye hostel hai. / Yes, hostels are available for both boys and girls."
+  },
+  {
+    "input": "Hostel facility kaisi hai? / How is the hostel facility?",
+    "output": "Basic facilities ke saath hostel available hai. / Hostels are available with basic facilities."
+  },
+  {
+    "input": "Hostel fee per semester kitna hai?",
+    "output": "₹ 9,000 per semester"
+  },
+  {
+    "input": "Mess charges per month kitne hain?",
+    "output": "₹ 3,000 per month (~₹ 36,000 annual)"
+  },
+  {
+    "input": "Hostel me ghar ka khana allowed hai?",
+    "output": "No"
+  },
+  {
+    "input": "Girls ke liye bus facility hai CUSB me?",
+    "output": "Haan, available hai"
+  },
+  {
+    "input": "Campus ke bahar hotel available hai kya?",
+    "output": "Haan, hotels, tea stalls, rooms, flats available hain"
+  },
+  {
+    "input": "CUSB me placement hota hai kya? / Does CUSB have placements?",
+    "output": "Haan, placement cell available hai. / Yes, a placement cell is available."
+  },
+  {
+    "input": "Placement kaise hota hai? / How does placement work?",
+    "output": "Companies campus me aati hain aur recruitment karti hain. / Companies visit the campus and recruit students."
+  },
+  {
+    "input": "CUSB me internship milta hai kya? / Are internships available in CUSB?",
+    "output": "Haan, internship opportunities milti hain. / Yes, internship opportunities are available."
+  },
+  {
+    "input": "CUSB me scholarship milta hai kya? / Are scholarships available in CUSB?",
+    "output": "Haan, government scholarships available hain. / Yes, government scholarships are available."
+  },
+  {
+    "input": "CUSB ka campus safe hai kya? / Is the CUSB campus safe?",
+    "output": "Haan, security aur CCTV available hai. / Yes, security and CCTV are available."
+  },
+  {
+    "input": "CUSB me ragging allowed hai kya? / Is ragging allowed in CUSB?",
+    "output": "Nahi, ragging strictly banned hai. / No, ragging is strictly banned."
+  },
+  {
+    "input": "CUSB me sports hai kya? / Are sports facilities available in CUSB?",
+    "output": "Haan, sports facilities available hain. / Yes, sports facilities are available."
+  },
+  {
+    "input": "Kaun kaun se sports hai? / Which sports are available?",
+    "output": "Cricket, football, badminton, volleyball, tennis. / Cricket, football, badminton, volleyball and tennis are available."
+  },
+  {
+    "input": "CUSB ka exam system kaisa hai? / What is the exam system in CUSB?",
+    "output": "Semester system follow hota hai. / The semester system is followed."
+  },
+  {
+    "input": "Attendance rule kya hai? / What is the attendance rule?",
+    "output": "Minimum attendance required hota hai. / Minimum attendance is required."
+  },
+  {
+    "input": "CUSB me faculty kaisi hai? / How is the faculty in CUSB?",
+    "output": "Qualified aur experienced faculty hai. / The faculty is qualified and experienced."
+  },
+  {
+    "input": "CUSB me SWAYAM course lena hota hai kya? / Do students need to take SWAYAM courses in CUSB?",
+    "output": "Haan, CUSB me SWAYAM platform ke courses lena hota hai. / Yes, students need to take courses from the SWAYAM platform."
+  },
+  {
+    "input": "CUSB me Samarth portal kya hai? / What is Samarth portal in CUSB?",
+    "output": "Samarth portal ek online system hai jisme registration aur academic related kaam kiya jata hai. / Samarth portal is an online system used for registration and academic-related activities."
+  },
+  {
+    "input": "CUSB me marks kaise divide hote hain? / How are marks divided in CUSB?",
+    "output": "CUSB me 30 marks assignment/test par depend hote hain aur 70 marks final exam ke hote hain. / In CUSB, 30 marks depend on assignments/tests and 70 marks are from the final exam."
+  },
+  {
+    "input": "CUSB me grading system kaisa hai? / What is the grading system in CUSB?",
+    "output": "CUSB me CGPA based grading system hota hai jisme grades show kiye jate hain. / CUSB follows a CGPA-based grading system where grades are displayed."
+  },
+  {
+    "input": "CUSB me attendance kitni jaruri hai? / How much attendance is required in CUSB?",
+    "output": "CUSB me minimum 75% attendance jaruri hoti hai. / A minimum of 75% attendance is required in CUSB."
+  },
+  {
+    "input": "CUSB me attendance kam ho to kya hota hai? / What happens if attendance is low in CUSB?",
+    "output": "Agar attendance 75% se kam ho to student exam nahi de payega. / If attendance is below 75%, the student may not be allowed to appear in exams."
+  },
+  {
+    "input": "CUSB me fresher party hoti hai kya? / Is there a fresher party in CUSB?",
+    "output": "Haan, CUSB me fresher party organize ki jati hai. / Yes, fresher parties are organized in CUSB."
+  },
+  {
+    "input": "CUSB me farewell hota hai kya? / Is farewell organized in CUSB?",
+    "output": "Haan, final year students ke liye farewell program hota hai. / Yes, farewell programs are organized for final-year students."
+  },
+  {
+    "input": "CUSB me college timing kya hai? / What are the college timings in CUSB?",
+    "output": "College aam taur par subah 10 baje se shaam 5 baje tak chalta hai. / The college usually runs from 10 AM to 5 PM."
+  },
+  {
+    "input": "CUSB me sports tournament hota hai?",
+    "output": "Haan, har saal organized kiya jata hai"
+  },
+  {
+    "input": "CUSB me anti-ragging squad hai?",
+    "output": "Haan, faculty aur student volunteers ke saath"
+  },
+  {
+    "input": "CUSB me fire safety system hai?",
+    "output": "Haan, fire extinguishers and alarms installed"
+  },
+  {
+    "input": "CUSB me gym hai?",
+    "output": "Haan, open gym available"
+  },
+  {
+    "input": "CUSB me canteen hai?",
+    "output": "Haan, two canteens available"
+  },
+  {
+    "input": "CUSB me bank available hai?",
+    "output": "Haan, SBI aur ICICI Bank facilities"
+  },
+  {
+    "input": "CUSB me ATM hai?",
+    "output": "Haan, SBI aur ICICI ke ATM"
+  },
+  {
+    "input": "CUSB me parking facility hai?",
+    "output": "Haan, students aur staff ke liye"
+  },
+  {
+    "input": "CUSB me NCC facility hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "CUSB me medical facility hai?",
+    "output": "Haan, basic medical/hospital facility available"
+  },
+  {
+    "input": "CUSB me WiFi students ke liye free hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "CUSB me computer labs hain?",
+    "output": "Haan, modern labs available"
+  },
+  {
+    "input": "CUSB me guest house hai?",
+    "output": "Haan, campus me available"
+  },
+  {
+    "input": "CUSB plastic-free campus hai?",
+    "output": "Haan"
+  },
+  {
+    "input": "CUSB me lift facility hai?",
+    "output": "Haan, academic buildings me"
+  },
+  {
+    "input": "CUSB me auditorium hai?",
+    "output": "Haan, events aur programs ke liye"
+  },
+  {
+    "input": "B.Sc (Hons) Agriculture ki total fees kya hai?",
+    "output": "₹ 2.03 Lakhs (4 years)"
+  },
+  {
+    "input": "M.Sc ki fees range kya hai?",
+    "output": "₹ 26,072 - 94,072 (2 years)"
+  },
+  {
+    "input": "Ph.D ka tuition fee per semester kitna hai?",
+    "output": "₹ 5,000 per semester"
+  },
+  {
+    "input": "CUSB me backlogs allowed hain?",
+    "output": "Haan, maximum 4 at a time"
+  },
+  {
+    "input": "Hostel me curfew timing kya hai?",
+    "output": "8 PM"
+  }
+
+]  

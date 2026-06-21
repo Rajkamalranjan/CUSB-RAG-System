@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "heading": "CUSB Final Merged Corpus",
+    "preview": "# CUSB Final Merged Corpus\n\nCreated at UTC: 2026-05-16T04:38:34.145221+00:00\n\nTotal source files included: 36\n\nTotal unique records: 1001\n\nSkipped folders: `data/backups`, `data/pdf_cache`\n\nSkipped bi"
+  },
+  {
+    "id": 1,
+    "heading": "1. CUSB kya hai? / What is CUSB?",
+    "preview": "## 1. CUSB kya hai? / What is CUSB?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: CUSB kya hai? / What is CUSB?\nA: Central University of South Bihar ek central university hai jo Gay"
+  },
+  {
+    "id": 2,
+    "heading": "2. CUSB kaha hai? / Where is CUSB located?",
+    "preview": "## 2. CUSB kaha hai? / Where is CUSB located?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: CUSB kaha hai? / Where is CUSB located?\nA: CUSB Gaya, Bihar ke Panchanpur ke paas sthit h"
+  },
+  {
+    "id": 3,
+    "heading": "3. What is the full name of CUSB? / CUSB ka poora naam kya hai?",
+    "preview": "## 3. What is the full name of CUSB? / CUSB ka poora naam kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the full name of CUSB? / CUSB ka poora naam kya hai?\nA: Cent"
+  },
+  {
+    "id": 4,
+    "heading": "4. What is the motto of CUSB? / CUSB ka aadarsh vakya kya hai?",
+    "preview": "## 4. What is the motto of CUSB? / CUSB ka aadarsh vakya kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the motto of CUSB? / CUSB ka aadarsh vakya kya hai?\nA: Knowle"
+  },
+  {
+    "id": 5,
+    "heading": "5. Is CUSB approved by UGC? / Kya CUSB UGC se manyat prapt hai?",
+    "preview": "## 5. Is CUSB approved by UGC? / Kya CUSB UGC se manyat prapt hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: Is CUSB approved by UGC? / Kya CUSB UGC se manyat prapt hai?\nA: Yes,"
+  },
+  {
+    "id": 6,
+    "heading": "6. Does CUSB have NAAC accreditation? / Kya CUSB ke paas NAAC accreditation hai?",
+    "preview": "## 6. Does CUSB have NAAC accreditation? / Kya CUSB ke paas NAAC accreditation hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: Does CUSB have NAAC accreditation? / Kya CUSB ke pa"
+  },
+  {
+    "id": 7,
+    "heading": "7. What is the NIRF ranking of CUSB? / CUSB ki NIRF ranking kya hai?",
+    "preview": "## 7. What is the NIRF ranking of CUSB? / CUSB ki NIRF ranking kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the NIRF ranking of CUSB? / CUSB ki NIRF ranking kya ha"
+  },
+  {
+    "id": 8,
+    "heading": "8. How many schools are there in CUSB? / CUSB mein kitne school hain?",
+    "preview": "## 8. How many schools are there in CUSB? / CUSB mein kitne school hain?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: How many schools are there in CUSB? / CUSB mein kitne school h"
+  },
+  {
+    "id": 9,
+    "heading": "9. How many departments are in CUSB? / CUSB mein kitne vibhag hain?",
+    "preview": "## 9. How many departments are in CUSB? / CUSB mein kitne vibhag hain?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: How many departments are in CUSB? / CUSB mein kitne vibhag hain?"
+  },
+  {
+    "id": 10,
+    "heading": "10. What is the campus area of CUSB? / CUSB ka campus kshetrafal kya hai?",
+    "preview": "## 10. What is the campus area of CUSB? / CUSB ka campus kshetrafal kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the campus area of CUSB? / CUSB ka campus kshetraf"
+  },
+  {
+    "id": 11,
+    "heading": "11. Is the campus fully functional? / Kya campus poora karyaashil hai?",
+    "preview": "## 11. Is the campus fully functional? / Kya campus poora karyaashil hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: Is the campus fully functional? / Kya campus poora karyaashil"
+  },
+  {
+    "id": 12,
+    "heading": "12. What is the student intake per year? / Prati varsh kitne students pravesh lete hain?",
+    "preview": "## 12. What is the student intake per year? / Prati varsh kitne students pravesh lete hain?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the student intake per year? / Prat"
+  },
+  {
+    "id": 13,
+    "heading": "13. How many faculty members are there? / Faculty members ki sankhya kitni hai?",
+    "preview": "## 13. How many faculty members are there? / Faculty members ki sankhya kitni hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: How many faculty members are there? / Faculty member"
+  },
+  {
+    "id": 14,
+    "heading": "14. What is the student-faculty ratio? / Student-faculty ratio kya hai?",
+    "preview": "## 14. What is the student-faculty ratio? / Student-faculty ratio kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the student-faculty ratio? / Student-faculty ratio k"
+  },
+  {
+    "id": 15,
+    "heading": "15. Does CUSB offer distance learning? / Kya CUSB door se shikshan (distance learning) pradan karta hai?",
+    "preview": "## 15. Does CUSB offer distance learning? / Kya CUSB door se shikshan (distance learning) pradan karta hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: Does CUSB offer distance le"
+  },
+  {
+    "id": 16,
+    "heading": "16. Is there any part-time PhD? / Kya part-time PhD hota hai?",
+    "preview": "## 16. Is there any part-time PhD? / Kya part-time PhD hota hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: Is there any part-time PhD? / Kya part-time PhD hota hai?\nA: Yes, for "
+  },
+  {
+    "id": 17,
+    "heading": "17. What is the duration of Integrated courses? / Integrated courses ki avadhi kya hai?",
+    "preview": "## 17. What is the duration of Integrated courses? / Integrated courses ki avadhi kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the duration of Integrated courses? "
+  },
+  {
+    "id": 18,
+    "heading": "18. What is the fee for BA course? / BA course ki fee kya hai?",
+    "preview": "## 18. What is the fee for BA course? / BA course ki fee kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the fee for BA course? / BA course ki fee kya hai?\nA: Approxi"
+  },
+  {
+    "id": 19,
+    "heading": "19. What is the fee for BSc course? / BSc course ki fee kya hai?",
+    "preview": "## 19. What is the fee for BSc course? / BSc course ki fee kya hai?\n\n**Source:** `data\\final_data_set.json`\n\n**Type:** `qa_pair`\n\nQ: What is the fee for BSc course? / BSc course ki fee kya hai?\nA: App"
+  }
+]

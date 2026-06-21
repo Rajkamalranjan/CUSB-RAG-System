@@ -1,0 +1,24 @@
+{
+  "created_at_utc": "2026-05-17T04:36:34.035512+00:00",
+  "input_folder": "data\\manual_pdfs",
+  "discovered_records": 58,
+  "extracted_records": 58,
+  "failed_records": 0,
+  "total_text_chars": 5842013,
+  "total_text_pages": 382,
+  "total_ocr_pages": 2906,
+  "ocr_language": "eng",
+  "ocr_dpi": 240,
+  "ocr_config": "--oem 1 --psm 6 -c preserve_interword_spaces=1",
+  "ocr_configs": [
+    "--oem 1 --psm 3 -c preserve_interword_spaces=1"
+  ],
+  "ocr_rotation_retry": true,
+  "min_page_text_chars": 40,
+  "outputs": {
+    "markdown": "data\\CUSB_manual_syllabus_pdfs.md",
+    "jsonl": "data\\cusb_manual_syllabus_pdfs.jsonl",
+    "metadata": "data\\cusb_manual_syllabus_pdfs_meta.json"
+  },
+  "failed": []
+}

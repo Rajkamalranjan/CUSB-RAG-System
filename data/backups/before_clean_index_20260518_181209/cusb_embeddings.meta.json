@@ -1,0 +1,9 @@
+{
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "chunk_count": 5298,
+  "embedding_shape": [
+    5298,
+    384
+  ],
+  "text_char_total": 15969667
+}

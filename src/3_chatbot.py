@@ -76,6 +76,17 @@ def print_sources(sources: list[dict]):
     for i, s in enumerate(sources, 1):
         bar = "█" * int(s["score"] * 20)
         print(c(f"  {i}. [{s['score']:.3f}] {bar}  {s['heading']}", "dim"))
+        details = []
+        if s.get("source_file"):
+            details.append(f"file={s['source_file']}")
+        if s.get("page"):
+            details.append(f"page={s['page']}")
+        if s.get("url"):
+            details.append(f"url={s['url']}")
+        if s.get("bm25_score") is not None:
+            details.append(f"bm25={s['bm25_score']:.3f}")
+        if details:
+            print(c(f"      {' | '.join(details)}", "dim"))
 
 
 def main():
@@ -116,7 +127,7 @@ def main():
             print(c("👋 Goodbye! CUSB website: https://www.cusb.ac.in", "yellow"))
             break
 
-        if query.lower() == "/sources":
+        if query.lower() in ("/sources", "/source", "\\sources", "\\source", "\\souces", "/souces"):
             if last_result:
                 print_sources(last_result["sources"])
             else:

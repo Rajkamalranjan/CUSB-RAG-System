@@ -1,0 +1,49 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    environment:
+      PYTHONPATH: /app
+      VECTOR_BACKEND: ${DOCKER_VECTOR_BACKEND:-faiss}
+      QDRANT_PATH: /app/data/qdrant_local
+      QDRANT_COLLECTION: ${QDRANT_COLLECTION:-cusb_chunks}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-admin123}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-change-this-local-secret}
+    volumes:
+      - type: bind
+        source: C:/CUSB-RAG-System/data
+        target: /app/data
+      - type: bind
+        source: C:/CUSB-RAG-System/reports
+        target: /app/reports
+      - type: bind
+        source: C:/CUSB-RAG-System/eval
+        target: /app/eval
+      - type: bind
+        source: C:/CUSB-RAG-System/annotations
+        target: /app/annotations
+      - type: volume
+        source: huggingface_cache
+        target: /root/.cache/huggingface
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    environment:
+      NEXT_PUBLIC_API_BASE: http://backend:8080
+      NEXT_PUBLIC_BROWSER_API_BASE: http://127.0.0.1:8080
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  huggingface_cache:

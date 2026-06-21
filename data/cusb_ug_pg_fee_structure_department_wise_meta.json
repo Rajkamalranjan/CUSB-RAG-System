@@ -1,0 +1,11 @@
+{
+  "created_at_utc": "2026-05-18T08:23:29.366800+00:00",
+  "source_file": "data\\admission_fee\\ug_pg_fee_structure.pdf",
+  "record_count": 16,
+  "failed_records": 0,
+  "outputs": {
+    "markdown": "data\\CUSB_ug_pg_fee_structure_department_wise.md",
+    "jsonl": "data\\cusb_ug_pg_fee_structure_department_wise.jsonl",
+    "metadata": "data\\cusb_ug_pg_fee_structure_department_wise_meta.json"
+  }
+}

@@ -3,10 +3,36 @@ sentence-transformers
 faiss-cpu
 numpy
 scipy
+pandas
+scikit-learn
+rank-bm25
+qdrant-client
+PyMuPDF
+pdfplumber
+pytesseract
+ragas
+bert-score
+rouge-score
 
 # LLM APIs
 google-generativeai
 groq
+openai
+
+# Optional LangChain RAG backend
+langchain-core
+langchain-google-genai
+langchain-groq
+
+# API
+fastapi
+uvicorn
+pydantic
+python-jose
+passlib[bcrypt]
+python-multipart
+websockets
+prometheus-client
 
 # Streamlit
 streamlit
@@ -14,3 +40,11 @@ streamlit
 # Utilities
 python-dotenv
 tqdm
+requests
+beautifulsoup4
+PyPDF2
+colorama
+redis
+celery
+loguru
+tenacity

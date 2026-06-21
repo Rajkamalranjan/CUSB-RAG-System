@@ -1,0 +1,26 @@
+{
+  "created_at_utc": "2026-05-18T07:58:47.378409+00:00",
+  "input_folder": "data\\admission_fee",
+  "discovered_records": 13,
+  "extracted_records": 13,
+  "failed_records": 0,
+  "total_text_chars": 154060,
+  "total_text_pages": 1,
+  "total_ocr_pages": 102,
+  "ocr_language": "eng",
+  "ocr_dpi": 240,
+  "ocr_config": "--oem 1 --psm 6 -c preserve_interword_spaces=1",
+  "ocr_configs": [
+    "--oem 1 --psm 3 -c preserve_interword_spaces=1",
+    "--oem 1 --psm 4 -c preserve_interword_spaces=1",
+    "--oem 1 --psm 6 -c preserve_interword_spaces=1"
+  ],
+  "ocr_rotation_retry": true,
+  "min_page_text_chars": 40,
+  "outputs": {
+    "markdown": "data\\CUSB_admission_fee_pdfs.md",
+    "jsonl": "data\\cusb_admission_fee_pdfs.jsonl",
+    "metadata": "data\\cusb_admission_fee_pdfs_meta.json"
+  },
+  "failed": []
+}

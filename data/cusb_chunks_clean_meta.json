@@ -1,0 +1,67 @@
+{
+  "created_at_utc": "2026-05-18T12:30:06.049550+00:00",
+  "input": "data\\final_merged_corpus.jsonl",
+  "outputs": {
+    "pickle": "data\\cusb_chunks_clean.pkl",
+    "jsonl": "data\\cusb_chunks_clean.jsonl",
+    "preview": "data\\cusb_chunks_clean_preview.json",
+    "metadata": "data\\cusb_chunks_clean_meta.json"
+  },
+  "policy": {
+    "excluded_qa_pairs": true,
+    "excluded_benchmark_files": true,
+    "excluded_metadata_files": true,
+    "min_chars": 250,
+    "soft_max_chars": 1400,
+    "hard_max_chars": 1900,
+    "overlap_chars": 160,
+    "dedupe": "exact normalized chunk text sha256"
+  },
+  "chunk_count": 26762,
+  "length_stats": {
+    "min": 122,
+    "max": 1900,
+    "avg": 1304.11,
+    "p25": 1309,
+    "p50": 1339,
+    "p75": 1361,
+    "p90": 1375,
+    "p95": 1384
+  },
+  "chunks_by_record_type": {
+    "json_record": 14255,
+    "markdown_document": 12507
+  },
+  "top_sources": {
+    "data\\cusb_student_academic_pdfs.jsonl": 5405,
+    "data\\cusb_manual_syllabus_pdfs.jsonl": 4379,
+    "data\\CUSB_student_academic_pdfs.md": 3395,
+    "data\\cusb_about_university_pdfs.jsonl": 3164,
+    "data\\CUSB_markdown.md": 2696,
+    "data\\CUSB_about_university_pdfs.md": 2258,
+    "data\\CUSB_syllabus_content.md": 1723,
+    "data\\CUSB_manual_syllabus_pdfs.md": 1066,
+    "data\\CUSB_research_scrape.md": 386,
+    "data\\cusb_research_scrape.jsonl": 338,
+    "data\\cusb_department_faculty_current.jsonl": 239,
+    "data\\cusb_infra_pdfs.jsonl": 237,
+    "data\\CUSB_research_corpus.md": 237,
+    "data\\CUSB_department_faculty_current.md": 217,
+    "data\\cusb_research_corpus.jsonl": 185,
+    "data\\CUSB_infra_pdfs.md": 164,
+    "data\\CUSB_research_pdf_corpus.md": 143,
+    "data\\cusb_admission_fee_pdfs.jsonl": 118,
+    "data\\CUSB_admission_fee_pdfs.md": 118,
+    "data\\cusb_research_pdf_corpus.jsonl": 106,
+    "data\\admission_fee\\ann_fee_1.pdf": 32,
+    "data\\cusb_administration_pdfs.jsonl": 31,
+    "data\\CUSB_ug_pg_fee_structure_department_wise.md": 27,
+    "data\\CUSB_administration_pdfs.md": 22,
+    "data\\admission_fee\\pg_course_fee.pdf": 17,
+    "data\\CUSB_faculty_v2.md": 14,
+    "data\\CUSB_courses_complete.md": 7,
+    "data\\CUSB_syllabus.md": 7,
+    "data\\CUSB_syllabus_complete.md": 6,
+    "data\\CUSB_fee_structure_complete.md": 5
+  }
+}

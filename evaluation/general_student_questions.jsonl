@@ -1,0 +1,200 @@
+{"id":"q001","query":"What is CUSB and where is it located?","language":"english","tags":["about","location"]}
+{"id":"q002","query":"CUSB kya hai aur kaha located hai?","language":"hinglish","tags":["about","location"]}
+{"id":"q003","query":"What is the full form of CUSB?","language":"english","tags":["about"]}
+{"id":"q004","query":"CUSB ka full form kya hai?","language":"hinglish","tags":["about"]}
+{"id":"q005","query":"What is the nearest airport to CUSB?","language":"english","tags":["location"]}
+{"id":"q006","query":"CUSB nearest airport kaunsa hai?","language":"hinglish","tags":["location"]}
+{"id":"q007","query":"Under which act was CUSB established?","language":"english","tags":["about"]}
+{"id":"q008","query":"CUSB kis act ke under establish hua?","language":"hinglish","tags":["about"]}
+{"id":"q009","query":"What is the motto of CUSB?","language":"english","tags":["about"]}
+{"id":"q010","query":"CUSB ka motto kya hai?","language":"hinglish","tags":["about"]}
+{"id":"q011","query":"What is the official website of CUSB?","language":"english","tags":["contact"]}
+{"id":"q012","query":"CUSB official website kya hai?","language":"hinglish","tags":["contact"]}
+{"id":"q013","query":"How can I contact CUSB admission helpline?","language":"english","tags":["contact","admission"]}
+{"id":"q014","query":"CUSB admission helpline number kya hai?","language":"hinglish","tags":["contact","admission"]}
+{"id":"q015","query":"How do I apply for CUSB admission?","language":"english","tags":["admission"]}
+{"id":"q016","query":"CUSB admission ke liye apply kaise kare?","language":"hinglish","tags":["admission"]}
+{"id":"q017","query":"Is CUET required for CUSB admission?","language":"english","tags":["admission"]}
+{"id":"q018","query":"CUSB me CUET required hai kya?","language":"hinglish","tags":["admission"]}
+{"id":"q019","query":"What is UG admission eligibility at CUSB?","language":"english","tags":["admission","eligibility"]}
+{"id":"q020","query":"UG admission eligibility kya hai?","language":"hinglish","tags":["admission","eligibility"]}
+{"id":"q021","query":"What is PG admission eligibility at CUSB?","language":"english","tags":["admission","eligibility"]}
+{"id":"q022","query":"PG admission eligibility kya hai?","language":"hinglish","tags":["admission","eligibility"]}
+{"id":"q023","query":"How does document verification work at CUSB?","language":"english","tags":["admission"]}
+{"id":"q024","query":"CUSB me document verification ke liye kya chahiye?","language":"hinglish","tags":["admission"]}
+{"id":"q025","query":"Where is the CUSB merit list published?","language":"english","tags":["admission"]}
+{"id":"q026","query":"CUSB merit list kaha publish hoti hai?","language":"hinglish","tags":["admission"]}
+{"id":"q027","query":"When can CUSB admission be cancelled?","language":"english","tags":["admission"]}
+{"id":"q028","query":"CUSB admission cancel kab hota hai?","language":"hinglish","tags":["admission"]}
+{"id":"q029","query":"How do I pay CUSB admission fee?","language":"english","tags":["admission","fee"]}
+{"id":"q030","query":"CUSB admission fee payment deadline kya hota hai?","language":"hinglish","tags":["admission","fee"]}
+{"id":"q031","query":"What courses are offered by the Computer Science department?","language":"english","tags":["course","computer_science"]}
+{"id":"q032","query":"Computer Science department me courses kaun se hain?","language":"hinglish","tags":["course","computer_science"]}
+{"id":"q033","query":"What is the fee for MSc Computer Science?","language":"english","tags":["fee","computer_science"]}
+{"id":"q034","query":"MSc Computer Science fee kitni hai?","language":"hinglish","tags":["fee","computer_science"]}
+{"id":"q035","query":"What is MSc AI eligibility?","language":"english","tags":["eligibility","computer_science"]}
+{"id":"q036","query":"MSc AI eligibility batao","language":"hinglish","tags":["eligibility","computer_science"]}
+{"id":"q037","query":"Give Computer Science faculty names.","language":"english","tags":["faculty","computer_science"]}
+{"id":"q038","query":"Computer Science faculty list do","language":"hinglish","tags":["faculty","computer_science"]}
+{"id":"q039","query":"What is the intake for MSc Computer Science?","language":"english","tags":["admission","computer_science"]}
+{"id":"q040","query":"MSc Computer Science intake kya hai?","language":"hinglish","tags":["admission","computer_science"]}
+{"id":"q041","query":"What is MSc Statistics eligibility?","language":"english","tags":["eligibility","statistics"]}
+{"id":"q042","query":"MSc Statistics eligibility kya hai?","language":"hinglish","tags":["eligibility","statistics"]}
+{"id":"q043","query":"Give Statistics faculty names.","language":"english","tags":["faculty","statistics"]}
+{"id":"q044","query":"Statistics faculty names batao","language":"hinglish","tags":["faculty","statistics"]}
+{"id":"q045","query":"What is the fee for MSc Mathematics?","language":"english","tags":["fee","mathematics"]}
+{"id":"q046","query":"MSc Mathematics fee kitni hai?","language":"hinglish","tags":["fee","mathematics"]}
+{"id":"q047","query":"Is BA LLB available at CUSB?","language":"english","tags":["course","law"]}
+{"id":"q048","query":"BA LLB course available hai kya?","language":"hinglish","tags":["course","law"]}
+{"id":"q049","query":"Is LLM available at CUSB?","language":"english","tags":["course","law"]}
+{"id":"q050","query":"LLM course available hai kya CUSB me?","language":"hinglish","tags":["course","law"]}
+{"id":"q051","query":"What is MCom fee at CUSB?","language":"english","tags":["fee","commerce"]}
+{"id":"q052","query":"MCom fee kitni hai?","language":"hinglish","tags":["fee","commerce"]}
+{"id":"q053","query":"Is Agriculture course available at CUSB?","language":"english","tags":["course","agriculture"]}
+{"id":"q054","query":"CUSB me Agriculture course available hai kya?","language":"hinglish","tags":["course","agriculture"]}
+{"id":"q055","query":"Does CUSB have hostel facility?","language":"english","tags":["facility","hostel"]}
+{"id":"q056","query":"CUSB me hostel facility hai kya?","language":"hinglish","tags":["facility","hostel"]}
+{"id":"q057","query":"What is hostel fee per semester?","language":"english","tags":["fee","hostel"]}
+{"id":"q058","query":"Hostel fee per semester kitna hai?","language":"hinglish","tags":["fee","hostel"]}
+{"id":"q059","query":"How is hostel allotment done at CUSB?","language":"english","tags":["facility","hostel"]}
+{"id":"q060","query":"CUSB me hostel allotment kaise hota hai?","language":"hinglish","tags":["facility","hostel"]}
+{"id":"q061","query":"What library facilities are available at CUSB?","language":"english","tags":["facility","library"]}
+{"id":"q062","query":"CUSB me library facility kya hai?","language":"hinglish","tags":["facility","library"]}
+{"id":"q063","query":"What is library membership fee?","language":"english","tags":["fee","library"]}
+{"id":"q064","query":"Library membership fee kya hai?","language":"hinglish","tags":["fee","library"]}
+{"id":"q065","query":"Does CUSB have medical facility?","language":"english","tags":["facility","health"]}
+{"id":"q066","query":"CUSB me medical facility hai kya?","language":"hinglish","tags":["facility","health"]}
+{"id":"q067","query":"Does CUSB have gym facility?","language":"english","tags":["facility","sports"]}
+{"id":"q068","query":"CUSB me gym facility hai kya?","language":"hinglish","tags":["facility","sports"]}
+{"id":"q069","query":"What sports facilities are available at CUSB?","language":"english","tags":["facility","sports"]}
+{"id":"q070","query":"CUSB me sports facilities kya hain?","language":"hinglish","tags":["facility","sports"]}
+{"id":"q071","query":"Does CUSB have WiFi facility?","language":"english","tags":["facility","wifi"]}
+{"id":"q072","query":"CUSB me WiFi facility hai kya?","language":"hinglish","tags":["facility","wifi"]}
+{"id":"q073","query":"Does CUSB have a placement cell?","language":"english","tags":["placement"]}
+{"id":"q074","query":"CUSB me placement cell hai kya?","language":"hinglish","tags":["placement"]}
+{"id":"q075","query":"What is anti-ragging support at CUSB?","language":"english","tags":["student_support"]}
+{"id":"q076","query":"Anti ragging committee CUSB me hai kya?","language":"hinglish","tags":["student_support"]}
+{"id":"q077","query":"Does CUSB have SC ST OBC cell?","language":"english","tags":["student_support"]}
+{"id":"q078","query":"CUSB me SC ST OBC cell hai kya?","language":"hinglish","tags":["student_support"]}
+{"id":"q079","query":"How can I submit grievance at CUSB?","language":"english","tags":["student_support"]}
+{"id":"q080","query":"CUSB me grievance redressal kaise kare?","language":"hinglish","tags":["student_support"]}
+{"id":"q081","query":"What scholarship facility is available at CUSB?","language":"english","tags":["student_support","scholarship"]}
+{"id":"q082","query":"Scholarship facility CUSB me hai kya?","language":"hinglish","tags":["student_support","scholarship"]}
+{"id":"q083","query":"Does CUSB have NSS activities?","language":"english","tags":["student_support","nss"]}
+{"id":"q084","query":"CUSB me NSS activities hoti hain kya?","language":"hinglish","tags":["student_support","nss"]}
+{"id":"q085","query":"Is migration certificate required at CUSB admission?","language":"english","tags":["admission"]}
+{"id":"q086","query":"Migration certificate required hai kya admission ke time?","language":"hinglish","tags":["admission"]}
+{"id":"q087","query":"Can foreign students take admission at CUSB?","language":"english","tags":["admission"]}
+{"id":"q088","query":"CUSB me foreign students admission le sakte hain kya?","language":"hinglish","tags":["admission"]}
+{"id":"q089","query":"What is medium of instruction at CUSB?","language":"english","tags":["academic"]}
+{"id":"q090","query":"CUSB ka medium of instruction kya hai?","language":"hinglish","tags":["academic"]}
+{"id":"q091","query":"How can I download admit card?","language":"english","tags":["exam"]}
+{"id":"q092","query":"CUSB admit card kaise download kare?","language":"hinglish","tags":["exam"]}
+{"id":"q093","query":"How can I check CUSB result?","language":"english","tags":["exam"]}
+{"id":"q094","query":"CUSB result kaise check kare?","language":"hinglish","tags":["exam"]}
+{"id":"q095","query":"What is re-evaluation fee?","language":"english","tags":["exam","fee"]}
+{"id":"q096","query":"Re-evaluation fee kya hai?","language":"hinglish","tags":["exam","fee"]}
+{"id":"q097","query":"What is supplementary exam fee?","language":"english","tags":["exam","fee"]}
+{"id":"q098","query":"Supplementary exam fee kitna hai?","language":"hinglish","tags":["exam","fee"]}
+{"id":"q099","query":"What is attendance requirement at CUSB?","language":"english","tags":["academic"]}
+{"id":"q100","query":"CUSB me attendance requirement kitna hai?","language":"hinglish","tags":["academic"]}
+{"id":"q101","query":"Who is the Chancellor of CUSB?","language":"english","tags":["about","administration"]}
+{"id":"q102","query":"CUSB ke Chancellor kaun hain?","language":"hinglish","tags":["about","administration"]}
+{"id":"q103","query":"Who is the Vice-Chancellor of CUSB?","language":"english","tags":["about","administration"]}
+{"id":"q104","query":"CUSB ke Vice Chancellor kaun hain?","language":"hinglish","tags":["about","administration"]}
+{"id":"q105","query":"What is the CUSB campus size?","language":"english","tags":["about","campus"]}
+{"id":"q106","query":"CUSB ka campus kitne acres ka hai?","language":"hinglish","tags":["about","campus"]}
+{"id":"q107","query":"How far is CUSB from Gaya railway station?","language":"english","tags":["location"]}
+{"id":"q108","query":"CUSB Gaya railway station se kitna door hai?","language":"hinglish","tags":["location"]}
+{"id":"q109","query":"How far is CUSB from Gaya Airport?","language":"english","tags":["location"]}
+{"id":"q110","query":"CUSB Gaya Airport se kitna door hai?","language":"hinglish","tags":["location"]}
+{"id":"q111","query":"What is the old name of CUSB?","language":"english","tags":["about"]}
+{"id":"q112","query":"CUSB ka old name kya tha?","language":"hinglish","tags":["about"]}
+{"id":"q113","query":"When was CUSB established?","language":"english","tags":["about"]}
+{"id":"q114","query":"CUSB kab establish hua tha?","language":"hinglish","tags":["about"]}
+{"id":"q115","query":"What is the address of CUSB?","language":"english","tags":["location"]}
+{"id":"q116","query":"CUSB ka address batao","language":"hinglish","tags":["location"]}
+{"id":"q117","query":"How can I reach CUSB campus?","language":"english","tags":["location"]}
+{"id":"q118","query":"CUSB campus kaise pahunch sakte hain?","language":"hinglish","tags":["location"]}
+{"id":"q119","query":"What is the registrar email of CUSB?","language":"english","tags":["contact"]}
+{"id":"q120","query":"CUSB registrar email kya hai?","language":"hinglish","tags":["contact"]}
+{"id":"q121","query":"What is the reception number of CUSB?","language":"english","tags":["contact"]}
+{"id":"q122","query":"CUSB reception number kya hai?","language":"hinglish","tags":["contact"]}
+{"id":"q123","query":"Where can I find CUSB admission notices?","language":"english","tags":["admission"]}
+{"id":"q124","query":"CUSB admission notices kaha milenge?","language":"hinglish","tags":["admission"]}
+{"id":"q125","query":"Where can I find the admission bulletin?","language":"english","tags":["admission"]}
+{"id":"q126","query":"Admission bulletin kaha milega?","language":"hinglish","tags":["admission"]}
+{"id":"q127","query":"What happens after CUSB merit list is published?","language":"english","tags":["admission"]}
+{"id":"q128","query":"CUSB merit list ke baad kya karna hota hai?","language":"hinglish","tags":["admission"]}
+{"id":"q129","query":"What documents are commonly required for admission?","language":"english","tags":["admission","documents"]}
+{"id":"q130","query":"Admission ke liye kaun kaun se documents chahiye?","language":"hinglish","tags":["admission","documents"]}
+{"id":"q131","query":"Is fee payment required after counselling?","language":"english","tags":["admission","fee"]}
+{"id":"q132","query":"Counselling ke baad fee payment karna hota hai kya?","language":"hinglish","tags":["admission","fee"]}
+{"id":"q133","query":"How can I check CUSB counselling instructions?","language":"english","tags":["admission"]}
+{"id":"q134","query":"CUSB counselling instructions kaise check kare?","language":"hinglish","tags":["admission"]}
+{"id":"q135","query":"What is the general PhD admission process?","language":"english","tags":["admission","phd"]}
+{"id":"q136","query":"PhD admission process kya hai?","language":"hinglish","tags":["admission","phd"]}
+{"id":"q137","query":"What is the fee for PhD at CUSB?","language":"english","tags":["fee","phd"]}
+{"id":"q138","query":"PhD fee kitni hai CUSB me?","language":"hinglish","tags":["fee","phd"]}
+{"id":"q139","query":"What is PhD Computer Science eligibility?","language":"english","tags":["eligibility","computer_science","phd"]}
+{"id":"q140","query":"PhD Computer Science eligibility kya hai?","language":"hinglish","tags":["eligibility","computer_science","phd"]}
+{"id":"q141","query":"What is MSc Artificial Intelligence eligibility?","language":"english","tags":["eligibility","computer_science"]}
+{"id":"q142","query":"MSc Artificial Intelligence eligibility kya hai?","language":"hinglish","tags":["eligibility","computer_science"]}
+{"id":"q143","query":"What is the syllabus of MSc Computer Science?","language":"english","tags":["syllabus","computer_science"]}
+{"id":"q144","query":"MSc Computer Science syllabus do","language":"hinglish","tags":["syllabus","computer_science"]}
+{"id":"q145","query":"What programmes are available in Department of Statistics?","language":"english","tags":["course","statistics"]}
+{"id":"q146","query":"Statistics department me kaun se programmes hain?","language":"hinglish","tags":["course","statistics"]}
+{"id":"q147","query":"What is MSc Data Science eligibility?","language":"english","tags":["eligibility","statistics"]}
+{"id":"q148","query":"MSc Data Science eligibility batao","language":"hinglish","tags":["eligibility","statistics"]}
+{"id":"q149","query":"What is the Statistics syllabus?","language":"english","tags":["syllabus","statistics"]}
+{"id":"q150","query":"Statistics syllabus do","language":"hinglish","tags":["syllabus","statistics"]}
+{"id":"q151","query":"Give Mathematics faculty names.","language":"english","tags":["faculty","mathematics"]}
+{"id":"q152","query":"Mathematics faculty list do","language":"hinglish","tags":["faculty","mathematics"]}
+{"id":"q153","query":"What programmes are available in Mathematics department?","language":"english","tags":["course","mathematics"]}
+{"id":"q154","query":"Mathematics department me courses kya hain?","language":"hinglish","tags":["course","mathematics"]}
+{"id":"q155","query":"Is PhD Mathematics available at CUSB?","language":"english","tags":["course","mathematics","phd"]}
+{"id":"q156","query":"PhD Mathematics available hai kya?","language":"hinglish","tags":["course","mathematics","phd"]}
+{"id":"q157","query":"What programmes are available in Bioinformatics?","language":"english","tags":["course","bioinformatics"]}
+{"id":"q158","query":"Bioinformatics courses available hain?","language":"hinglish","tags":["course","bioinformatics"]}
+{"id":"q159","query":"What is MSc Bioinformatics eligibility?","language":"english","tags":["eligibility","bioinformatics"]}
+{"id":"q160","query":"MSc Bioinformatics eligibility kya hai?","language":"hinglish","tags":["eligibility","bioinformatics"]}
+{"id":"q161","query":"Give Bioinformatics faculty names.","language":"english","tags":["faculty","bioinformatics"]}
+{"id":"q162","query":"Bioinformatics faculty list do","language":"hinglish","tags":["faculty","bioinformatics"]}
+{"id":"q163","query":"What is MSc Biotechnology eligibility?","language":"english","tags":["eligibility","biotechnology"]}
+{"id":"q164","query":"MSc Biotechnology eligibility kya hai?","language":"hinglish","tags":["eligibility","biotechnology"]}
+{"id":"q165","query":"What is MSc Chemistry eligibility?","language":"english","tags":["eligibility","chemistry"]}
+{"id":"q166","query":"MSc Chemistry eligibility batao","language":"hinglish","tags":["eligibility","chemistry"]}
+{"id":"q167","query":"What programmes are available in Chemistry department?","language":"english","tags":["course","chemistry"]}
+{"id":"q168","query":"Chemistry department courses kya hain?","language":"hinglish","tags":["course","chemistry"]}
+{"id":"q169","query":"Give Physics faculty names.","language":"english","tags":["faculty","physics"]}
+{"id":"q170","query":"Physics faculty names batao","language":"hinglish","tags":["faculty","physics"]}
+{"id":"q171","query":"What is MSc Physics fee?","language":"english","tags":["fee","physics"]}
+{"id":"q172","query":"MSc Physics fee kitni hai?","language":"hinglish","tags":["fee","physics"]}
+{"id":"q173","query":"What is BSc Agriculture fee?","language":"english","tags":["fee","agriculture"]}
+{"id":"q174","query":"BSc Agriculture fee kitni hai?","language":"hinglish","tags":["fee","agriculture"]}
+{"id":"q175","query":"What programmes are available in Geology?","language":"english","tags":["course","geology"]}
+{"id":"q176","query":"Geology course list batao","language":"hinglish","tags":["course","geology"]}
+{"id":"q177","query":"What is Geography syllabus?","language":"english","tags":["syllabus","geography"]}
+{"id":"q178","query":"Geography syllabus do","language":"hinglish","tags":["syllabus","geography"]}
+{"id":"q179","query":"Tell me about Environmental Science department.","language":"english","tags":["department","environmental_science"]}
+{"id":"q180","query":"Environmental Science department info do","language":"hinglish","tags":["department","environmental_science"]}
+{"id":"q181","query":"What courses are available in Commerce department?","language":"english","tags":["course","commerce"]}
+{"id":"q182","query":"Commerce department courses kya hain?","language":"hinglish","tags":["course","commerce"]}
+{"id":"q183","query":"Is MBA available at CUSB?","language":"english","tags":["course","management"]}
+{"id":"q184","query":"MBA available hai kya CUSB me?","language":"hinglish","tags":["course","management"]}
+{"id":"q185","query":"What courses are available in Economics department?","language":"english","tags":["course","economics"]}
+{"id":"q186","query":"Economics department courses batao","language":"hinglish","tags":["course","economics"]}
+{"id":"q187","query":"What is MA Economics eligibility?","language":"english","tags":["eligibility","economics"]}
+{"id":"q188","query":"MA Economics eligibility kya hai?","language":"hinglish","tags":["eligibility","economics"]}
+{"id":"q189","query":"What courses are available in Education department?","language":"english","tags":["course","education"]}
+{"id":"q190","query":"Education department courses kya hain?","language":"hinglish","tags":["course","education"]}
+{"id":"q191","query":"Is integrated B.Ed course available at CUSB?","language":"english","tags":["course","education"]}
+{"id":"q192","query":"B.Ed integrated course available hai kya?","language":"hinglish","tags":["course","education"]}
+{"id":"q193","query":"Is MEd available at CUSB?","language":"english","tags":["course","education"]}
+{"id":"q194","query":"MEd available hai kya?","language":"hinglish","tags":["course","education"]}
+{"id":"q195","query":"What Physical Education courses are available?","language":"english","tags":["course","physical_education"]}
+{"id":"q196","query":"Physical Education courses kya hain?","language":"hinglish","tags":["course","physical_education"]}
+{"id":"q197","query":"Is PG Diploma in Yoga available at CUSB?","language":"english","tags":["course","physical_education"]}
+{"id":"q198","query":"PG Diploma Yoga available hai kya?","language":"hinglish","tags":["course","physical_education"]}
+{"id":"q199","query":"Does CUSB have auditorium facility?","language":"english","tags":["facility","auditorium"]}
+{"id":"q200","query":"CUSB me auditorium facility hai kya?","language":"hinglish","tags":["facility","auditorium"]}

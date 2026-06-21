@@ -1,0 +1,9 @@
+# Optional OCR/GPU extras.
+# Install this only if you need PaddleOCR-based scanned PDF extraction.
+#
+# Windows note:
+# `paddlepaddle-gpu` is often not available from the default pip index.
+# This repository includes a cached wheel under downloads/ for Python 3.10.
+
+paddleocr
+downloads/paddlepaddle_gpu-3.2.2-cp310-cp310-win_amd64.whl

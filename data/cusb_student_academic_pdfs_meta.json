@@ -1,0 +1,388 @@
+{
+  "created_at_utc": "2026-05-17T11:51:20.391791+00:00",
+  "seed_page_count": 22,
+  "discovered_records": 568,
+  "extracted_records": 529,
+  "failed_records": 39,
+  "ocr_max_pages": 0,
+  "ocr_dpi": 240,
+  "ocr_language": "eng",
+  "ocr_configs": [
+    "--oem 1 --psm 3 -c preserve_interword_spaces=1"
+  ],
+  "ocr_rotation_retry": true,
+  "min_page_text_chars": 40,
+  "total_text_chars": 8951203,
+  "total_text_pages": 3159,
+  "total_ocr_pages": 1297,
+  "outputs": {
+    "markdown": "data\\CUSB_student_academic_pdfs.md",
+    "jsonl": "data\\cusb_student_academic_pdfs.jsonl",
+    "metadata": "data\\cusb_student_academic_pdfs_meta.json"
+  },
+  "seed_pages": [
+    {
+      "section": "Department & Programmes",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=535&Itemid=190"
+    },
+    {
+      "section": "Academics/Examination Notices",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=76&Itemid=191"
+    },
+    {
+      "section": "Semester Exam Schedule",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193"
+    },
+    {
+      "section": "Semester Result",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194"
+    },
+    {
+      "section": "Prospectus",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=82&Itemid=197"
+    },
+    {
+      "section": "Convocation",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=625&Itemid=209"
+    },
+    {
+      "section": "Download (Format/Performa)",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=455&Itemid=619"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195"
+    },
+    {
+      "section": "Scholarship and Fellowship",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=81&Itemid=196"
+    },
+    {
+      "section": "Hostel",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=451&Itemid=198"
+    },
+    {
+      "section": "Anti-Ragging",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199"
+    },
+    {
+      "section": "Alumni",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=85&Itemid=200"
+    },
+    {
+      "section": "DACE",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=86&Itemid=201"
+    },
+    {
+      "section": "Capacity Development and Skill Enhancement Programme",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=525&Itemid=202"
+    },
+    {
+      "section": "Placement Cell",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=88&Itemid=203"
+    },
+    {
+      "section": "Students Counselling and Well- being Centre",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=89&Itemid=204"
+    },
+    {
+      "section": "NSS",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=495&Itemid=205"
+    },
+    {
+      "section": "NCC",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=92&Itemid=206"
+    },
+    {
+      "section": "Extracurricular Activities",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=93&Itemid=207"
+    },
+    {
+      "section": "Code of Ethics",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=96&Itemid=210"
+    },
+    {
+      "section": "Grievance Redressal Committee for Students",
+      "url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=97&Itemid=211"
+    }
+  ],
+  "failed": [
+    {
+      "section": "Semester Exam Schedule",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "title": "Time-Table of End-Term Examination of MA in Hindi-2nd & 4th Sem and UG-PG in Hindi-2nd & 4th Sem",
+      "url": "https://www.cusb.ac.in/images/2026/academic/exam_time/7.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/2026/academic/exam_time/7.pdf"
+    },
+    {
+      "section": "Semester Exam Schedule",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=77&Itemid=192",
+      "title": "Time-Table of End-Term Examination of MA in History-2nd & 4th Sem",
+      "url": "https://www.cusb.ac.in/images/2026/academic/exam_time/8.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/2026/academic/exam_time/8.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "General Notification (Dated 13/04/2021)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_862_phd_20_21.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_862_phd_20_21.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Claim Form for Non-Net Fellowship",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/claim_form_non_net_fellowship.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/claim_form_non_net_fellowship.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Claim form for Non-Net Contingency",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/non_net_contingency_claim_from_862.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/non_net_contingency_claim_from_862.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Research-scholar-Leave-approval-format.pdf",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2023/01/Research-scholar-Leave-approval-format.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2023/01/Research-scholar-Leave-approval-format.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Notice Regarding Disbursement of Fellowship by UGC (CUSB/DEV/2522/2018 dated 03/11/2018)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/notice_ugc_web_portal.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/notice_ugc_web_portal.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Public Notice: Enhancements made to UGC-Canara Bank web portal",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/UGC-Notice-Enahncements-made-to-UGC-Canara-web.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/UGC-Notice-Enahncements-made-to-UGC-Canara-web.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Canara Bank Guide lines",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/CANARA_Guidelines.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/CANARA_Guidelines.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Joining and Certification Net JRF",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/joining_and_certification_net_jrf.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/joining_and_certification_net_jrf.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "UGC Exception format",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/exception_fellowship.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/exception_fellowship.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "General Notification (Dated 22/10/2019)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_phd_1599.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/notification_phd_1599.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "Claim Form for Non-Net Fellowship",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/application_non_net_fellowship.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/application_non_net_fellowship.pdf"
+    },
+    {
+      "section": "Ordinance/ Manual/ Regulation",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=78&Itemid=193",
+      "title": "General Notification (Dated 19/02/2019)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2022/01/phd_gen_notification.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2022/01/phd_gen_notification.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "title": "Result of M.Sc. Environmental Science, 3rd semester, session 2024-26.",
+      "url": "https://www.cusb.ac.in/images/2025/result_dec_25/612.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/2025/result_dec_25/612.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "title": "Revised result (After submission of pending documents) of 3rd Semester PG Programme in Mass Communication 2024-26",
+      "url": "https://www.cusb.ac.in/images/2025/result_dec_25/611.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/2025/result_dec_25/611.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "title": "Revised Result M.COM PG 2024-26-3st Sem.",
+      "url": "https://www.cusb.ac.in/images/2025/result_dec_25/609.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/2025/result_dec_25/609.pdf"
+    },
+    {
+      "section": "Semester Result",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=904&Itemid=194",
+      "title": "Backlog Result M.COM PG 2024-26-1st Sem.",
+      "url": "https://www.cusb.ac.in/images/2025/result_dec_25/610.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/2025/result_dec_25/610.pdf"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195",
+      "title": "Board of Studies [NEP]",
+      "url": "https://www.cusb.ac.in/images/dept/geology/syllabus/BoS-Minutes.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/dept/geology/syllabus/BoS-Minutes.pdf"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195",
+      "title": "Course Structure",
+      "url": "https://www.cusb.ac.in/images/dept/geology/syllabus/Struc_5_Years_Integrated_UG_PG_Geo.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/dept/geology/syllabus/Struc_5_Years_Integrated_UG_PG_Geo.pdf"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195",
+      "title": "Syllabus",
+      "url": "https://www.cusb.ac.in/images/dept/geology/syllabus/Syllabus_5_Years_Integrated_UG_PG_geo.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/dept/geology/syllabus/Syllabus_5_Years_Integrated_UG_PG_geo.pdf"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195",
+      "title": "Course Structure",
+      "url": "https://www.cusb.ac.in/images/dept/geology/syllabus/Course_structure_MSc_Geology_NEP2020.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/dept/geology/syllabus/Course_structure_MSc_Geology_NEP2020.pdf"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195",
+      "title": "Syllabus",
+      "url": "https://www.cusb.ac.in/images/dept/biotechonology/syllabus/2020_NEP_Msc_Biotechnology_Syllabus.pdf",
+      "error": "[Errno 22] Invalid argument"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195",
+      "title": "Syllabus",
+      "url": "https://www.cusb.ac.in/images/dept/biotechonology/syllabus/syllabus_2023_PhD_Biotechnology.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/dept/biotechonology/syllabus/syllabus_2023_PhD_Biotechnology.pdf"
+    },
+    {
+      "section": "Course Structure and Syllabus",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=119&Itemid=195",
+      "title": "Syllabus",
+      "url": "https://www.cusb.ac.in/images/dept/physics/Syllabus/Syllabus_msc_physics.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/dept/physics/Syllabus/Syllabus_msc_physics.pdf"
+    },
+    {
+      "section": "Scholarship and Fellowship",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=81&Itemid=196",
+      "title": "CUSB Regulation",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2023/01/scholarship_regulations_cusb.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2023/01/scholarship_regulations_cusb.pdf"
+    },
+    {
+      "section": "Scholarship and Fellowship",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=81&Itemid=196",
+      "title": "Public Notice: Aadhar Seeding for Applying Under UGC Scholarships / Fellowships",
+      "url": "https://www.cusb.ac.in/images/studentmenu/Scholarship/ugc_aadhar_notice.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.cusb.ac.in/images/studentmenu/Scholarship/ugc_aadhar_notice.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "Notice: Submission of Anti-Ragging undertaking (CUSB/Acad./24-3/2013/1377 dated 16/09/2019)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/sub_anti_rag_notice1377.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/sub_anti_rag_notice1377.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "Notification: Constitution of Anti-Ragging Committee and Anti-Ragging Squad (F.No. CUSB/Acad/24-3/2013/2016 dated 25/08/2018)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/anti_ragging_2018.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/anti_ragging_2018.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "Notice: Submission of Anti-Ragging undertaking (CUSB/Acad/24-3/2013/1963)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/submit_anti_ragg.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/submit_anti_ragg.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "Notification: Constitution of Anti-Ragging Committee and Anti-Ragging Squad (CUSB/RS/148/2016 dated 25/07/2016)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/anti_ragging_148.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/anti_ragging_148.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "Notice: Anti-Ragging Committee and Anti-Ragging Squad (No: 3797/2016 dated 19/07/2016)",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/notice_3797new.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/notice_3797new.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "Notice Dated: 22/11/2012",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/notice_new.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/notice_new.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "Notice Dated:09/11/2012",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/notice.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/notice.pdf"
+    },
+    {
+      "section": "Anti-Ragging",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=84&Itemid=199",
+      "title": "UGC Regulation on Curbing the Menace of Ragging in Higher Educational Institutions, 2009",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/regulation.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/regulation.pdf"
+    },
+    {
+      "section": "Placement Cell",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=88&Itemid=203",
+      "title": "Invitation to Companies for Placement Drive",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2023/12/Invitation-to-Companies-for-Placement.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2023/12/Invitation-to-Companies-for-Placement.pdf"
+    },
+    {
+      "section": "Placement Cell",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=88&Itemid=203",
+      "title": "Placement Cell Minutes",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/12/MinutesofMeeting30thApril2019.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/12/MinutesofMeeting30thApril2019.pdf"
+    },
+    {
+      "section": "Placement Cell",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=88&Itemid=203",
+      "title": "Notification Placement Cell",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/12/Notification-_Career-and-Counselling-and-Placement-Cell-2.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/12/Notification-_Career-and-Counselling-and-Placement-Cell-2.pdf"
+    },
+    {
+      "section": "Grievance Redressal Committee for Students",
+      "section_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=97&Itemid=211",
+      "title": "Grievance Redressal Committee for Students",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2024/02/333.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2024/02/333.pdf"
+    }
+  ]
+}

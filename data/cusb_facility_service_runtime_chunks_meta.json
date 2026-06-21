@@ -1,0 +1,19 @@
+{
+  "created_at_utc": "2026-05-19T06:29:31.280611+00:00",
+  "source": "clean chunks plus full faculty chunks plus full facility/service chunks",
+  "facility_source_markdown": "data\\CUSB_facility_service_pdfs.md",
+  "facility_source_jsonl": "data\\cusb_facility_service_pdfs.jsonl",
+  "facility_source_records": 412,
+  "facility_chunks_added": 3209,
+  "facility_chunks_removed_before_add": 1,
+  "facility_skipped": {
+    "duplicate_parts_within_facility_source": 19
+  },
+  "total_chunks": 30197,
+  "include_qa_in_index": false,
+  "min_chars": 122,
+  "max_chars": 3499,
+  "avg_chars": 1302.82,
+  "backup_dir": "data\\backups\\before_facility_service_chunks_20260519_115834",
+  "requires_index_rebuild": true
+}

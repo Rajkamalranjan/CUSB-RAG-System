@@ -1,0 +1,205 @@
+{
+  "created_at_utc": "2026-05-16T18:43:00.563427+00:00",
+  "department_count": 27,
+  "faculty_records": 200,
+  "failed_count": 0,
+  "outputs": {
+    "markdown": "data\\CUSB_department_faculty_current.md",
+    "jsonl": "data\\cusb_department_faculty_current.jsonl",
+    "metadata": "data\\cusb_department_faculty_current_meta.json"
+  },
+  "department_counts": {
+    "Bioinformatics": 5,
+    "Geology": 6,
+    "Geography": 5,
+    "Life Science": 7,
+    "Biotechnology": 7,
+    "Environmental Sciences": 6,
+    "Historical Studies and Archaeology": 6,
+    "Economic Studies and Policy": 8,
+    "Development Studies": 5,
+    "Political Studies": 8,
+    "Sociological Studies": 10,
+    "Library and Information Science": 1,
+    "Mathematics": 8,
+    "Statistics": 5,
+    "Computer Science": 6,
+    "Teacher Education": 14,
+    "Physical Education": 6,
+    "Chemistry": 8,
+    "Physics": 8,
+    "English": 8,
+    "Indian Languages": 1,
+    "Mass Communication and Media": 8,
+    "Commerce and Business Studies": 7,
+    "Psychological Sciences": 7,
+    "Law and Governance": 18,
+    "Pharmacy": 7,
+    "Agriculture": 15
+  },
+  "departments": [
+    {
+      "department": "Bioinformatics",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=31&Itemid=136",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=166&Itemid=276",
+      "faculty_count": 5
+    },
+    {
+      "department": "Geology",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=32&Itemid=142",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=175&Itemid=286",
+      "faculty_count": 6
+    },
+    {
+      "department": "Geography",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=33&Itemid=143",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=183&Itemid=295",
+      "faculty_count": 5
+    },
+    {
+      "department": "Life Science",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=36&Itemid=137",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=435&Itemid=560",
+      "faculty_count": 7
+    },
+    {
+      "department": "Biotechnology",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=34&Itemid=144",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=192&Itemid=304",
+      "faculty_count": 7
+    },
+    {
+      "department": "Environmental Sciences",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=131&Itemid=145",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=131&Itemid=370",
+      "faculty_count": 6
+    },
+    {
+      "department": "Historical Studies and Archaeology",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=137&Itemid=157",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=289&Itemid=379",
+      "faculty_count": 6
+    },
+    {
+      "department": "Economic Studies and Policy",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=46&Itemid=158",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=297&Itemid=388",
+      "faculty_count": 8
+    },
+    {
+      "department": "Development Studies",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=47&Itemid=159",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=306&Itemid=397",
+      "faculty_count": 5
+    },
+    {
+      "department": "Political Studies",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=48&Itemid=160",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=313&Itemid=406",
+      "faculty_count": 8
+    },
+    {
+      "department": "Sociological Studies",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=49&Itemid=161",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=321&Itemid=416",
+      "faculty_count": 10
+    },
+    {
+      "department": "Library and Information Science",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=761&Itemid=623",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=795&Itemid=643",
+      "faculty_count": 1
+    },
+    {
+      "department": "Mathematics",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=56&Itemid=170",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=337&Itemid=425",
+      "faculty_count": 8
+    },
+    {
+      "department": "Statistics",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=55&Itemid=171",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=346&Itemid=434",
+      "faculty_count": 5
+    },
+    {
+      "department": "Computer Science",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=57&Itemid=172",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=353&Itemid=443",
+      "faculty_count": 6
+    },
+    {
+      "department": "Teacher Education",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=41&Itemid=151",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=378&Itemid=506",
+      "faculty_count": 14
+    },
+    {
+      "department": "Physical Education",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=42&Itemid=152",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=384&Itemid=497",
+      "faculty_count": 6
+    },
+    {
+      "department": "Chemistry",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=39&Itemid=148",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=273&Itemid=479",
+      "faculty_count": 8
+    },
+    {
+      "department": "Physics",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=40&Itemid=149",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=281&Itemid=470",
+      "faculty_count": 8
+    },
+    {
+      "department": "English",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=143&Itemid=167",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=362&Itemid=452",
+      "faculty_count": 8
+    },
+    {
+      "department": "Indian Languages",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=53&Itemid=168",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=370&Itemid=461",
+      "faculty_count": 1
+    },
+    {
+      "department": "Mass Communication and Media",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=139&Itemid=163",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=394&Itemid=515",
+      "faculty_count": 8
+    },
+    {
+      "department": "Commerce and Business Studies",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=141&Itemid=165",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=400&Itemid=524",
+      "faculty_count": 7
+    },
+    {
+      "department": "Psychological Sciences",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=38&Itemid=146",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=426&Itemid=551",
+      "faculty_count": 7
+    },
+    {
+      "department": "Law and Governance",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=43&Itemid=154",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=418&Itemid=542",
+      "faculty_count": 18
+    },
+    {
+      "department": "Pharmacy",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=37&Itemid=138",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=329&Itemid=488",
+      "faculty_count": 7
+    },
+    {
+      "department": "Agriculture",
+      "department_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=44&Itemid=155",
+      "faculty_page_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=410&Itemid=533",
+      "faculty_count": 15
+    }
+  ],
+  "failed": []
+}

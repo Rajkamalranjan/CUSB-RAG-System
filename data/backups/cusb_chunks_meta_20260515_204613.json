@@ -1,0 +1,19 @@
+{
+  "created_at_utc": "2026-05-15T20:40:21.077931+00:00",
+  "builder": "build_research_chunks.py",
+  "corpus_path": "D:\\CUSB-RAG-System\\data\\cusb_research_corpus.jsonl",
+  "record_count": 75,
+  "total_chunks": 169,
+  "min_chars": 247,
+  "max_chars": 5427,
+  "avg_chars": 2450,
+  "max_source_chars": 1800,
+  "overlap": 180,
+  "include_qa_in_index": false,
+  "source": "cleaned_cusb_research_corpus",
+  "backups": [
+    "D:\\CUSB-RAG-System\\data\\backups\\cusb_chunks_20260515_204020.pkl",
+    "D:\\CUSB-RAG-System\\data\\backups\\cusb_chunks_preview_20260515_204020.json",
+    "D:\\CUSB-RAG-System\\data\\backups\\cusb_chunks_meta_20260515_204020.json"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-05-19T06:09:42.803053+00:00",
+  "total_chunks": 26989,
+  "source": "clean chunks plus full department-wise faculty chunks from CUSB_department_faculty_current.md/jsonl",
+  "faculty_source_markdown": "data\\CUSB_department_faculty_current.md",
+  "faculty_source_jsonl": "data\\cusb_department_faculty_current.jsonl",
+  "faculty_departments": 27,
+  "faculty_records": 200,
+  "added_faculty_full_chunks": 227,
+  "removed_previous_generated_faculty_chunks": 27,
+  "include_qa_in_index": false,
+  "min_chars": 122,
+  "max_chars": 3499,
+  "avg_chars": 1303.33,
+  "backup_dir": "data\\backups\\before_faculty_full_chunks_20260519_113849",
+  "requires_index_rebuild": true
+}

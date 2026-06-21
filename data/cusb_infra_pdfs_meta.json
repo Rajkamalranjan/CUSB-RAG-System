@@ -1,0 +1,121 @@
+{
+  "created_at_utc": "2026-05-18T06:43:18.504947+00:00",
+  "seed_page_count": 20,
+  "discovered_records": 27,
+  "extracted_records": 26,
+  "webpage_records": 20,
+  "failed_records": 1,
+  "failed_discovery_pages": 0,
+  "ocr_max_pages": 30,
+  "ocr_dpi": 240,
+  "ocr_language": "eng",
+  "ocr_engine": "tesseract",
+  "ocr_configs": [
+    "--oem 1 --psm 3 -c preserve_interword_spaces=1"
+  ],
+  "ocr_rotation_retry": true,
+  "min_page_text_chars": 40,
+  "max_child_pages_per_section": 250,
+  "total_text_chars": 302543,
+  "total_pdf_text_chars": 272349,
+  "total_webpage_text_chars": 30194,
+  "total_text_pages": 134,
+  "total_ocr_pages": 29,
+  "outputs": {
+    "markdown": "data\\CUSB_infra_pdfs.md",
+    "jsonl": "data\\cusb_infra_pdfs.jsonl",
+    "metadata": "data\\cusb_infra_pdfs_meta.json"
+  },
+  "seed_pages": [
+    {
+      "section": "Guest House",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=213&id=98&option=com_content&view=article"
+    },
+    {
+      "section": "Library Services",
+      "url": "https://library.cusb.ac.in/"
+    },
+    {
+      "section": "Hostel Facility",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=214&id=99&option=com_content&view=article"
+    },
+    {
+      "section": "Health Care",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=215&id=100&option=com_content&view=article"
+    },
+    {
+      "section": "Sports",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=216&id=101&option=com_content&view=article"
+    },
+    {
+      "section": "Biodiversity park",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=217&id=102&option=com_content&view=article"
+    },
+    {
+      "section": "Media Studio",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=218&id=103&option=com_content&view=article"
+    },
+    {
+      "section": "University Computer Lab",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=219&id=104&option=com_content&view=article"
+    },
+    {
+      "section": "University Computer Centre",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=220&id=61&option=com_content&view=article"
+    },
+    {
+      "section": "Wi-Fi Campus",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=221&id=106&option=com_content&view=article"
+    },
+    {
+      "section": "Smart Class Room",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=222&id=107&option=com_content&view=article"
+    },
+    {
+      "section": "Integrated Security System",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=223&id=108&option=com_content&view=article"
+    },
+    {
+      "section": "Biometric Attendance",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=224&id=109&option=com_content&view=article"
+    },
+    {
+      "section": "Engineering Wing",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=225&id=110&option=com_content&view=article"
+    },
+    {
+      "section": "Lightning Location Network",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=226&id=111&option=com_content&view=article"
+    },
+    {
+      "section": "Day Care Centre",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=227&id=112&option=com_content&view=article"
+    },
+    {
+      "section": "Bank/ATM",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=228&id=113&option=com_content&view=article"
+    },
+    {
+      "section": "Dhanvantari Arogya Vatika",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=649&id=833&option=com_content&view=article"
+    },
+    {
+      "section": "Auditorium",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=269&id=149&option=com_content&view=article"
+    },
+    {
+      "section": "Conference Hall",
+      "url": "https://www.cusb.ac.in/index.php?Itemid=270&id=150&option=com_content&view=article"
+    }
+  ],
+  "failed": [
+    {
+      "section": "Library Services",
+      "section_url": "https://library.cusb.ac.in/",
+      "title": "Inter Library Loan",
+      "url": "https://library.cusb.ac.in/custom/download/Inter-library-Loan.pdf",
+      "error": "404 Client Error: Not Found for url: https://library.cusb.ac.in/custom/download/Inter-library-Loan.pdf"
+    }
+  ],
+  "failed_pages": []
+}

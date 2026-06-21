@@ -1,0 +1,642 @@
+[
+  {
+    "id": 0,
+    "chunk_id": "clean_000000",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1337,
+    "preview": "Title: About University\nSection: Department & Programmes\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=535&Itemid=190\nDepartment & Programmes\nDepartment of Bioinformatics\nM.Sc. in Bioinformatics\nPh.D. in Bioinformatics\nDepartment of Teach"
+  },
+  {
+    "id": 1,
+    "chunk_id": "clean_000001",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1326,
+    "preview": "Department of Pharmacy\nM. Pharm. (Pharmaceutics)\nM. Pharm. (Pharmacology)\nPh.D. in Pharmacy\nDepartment of Sociological Studies\n5 Years Integrated UG-PG in Sociology\nM.A. in Sociology\nM.A. in Social Work\nPh.D. in Sociology\nDepartment of Chemistry\n5 Years Integr"
+  },
+  {
+    "id": 2,
+    "chunk_id": "clean_000002",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1295,
+    "preview": "Title: About University\nSection: Academics/Examination Notices\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=76&Itemid=191\nAcademics & Examination Notices\nAcademic Calendar:\nAcademic Calander for\nAcademic Calendar AY 2025-26 for students "
+  },
+  {
+    "id": 3,
+    "chunk_id": "clean_000003",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1355,
+    "preview": "Important :Notice No.-CUSB/CoE/2026/AE749 dated 29.04.2026 regarding students of 5 Year UG-PG programme\n29-April-26\nRegarding Deposit of Outstanding Semester Fee – 2nd Semester\n28-April-26\nNotice regarding Extension of last date of Examination Form of End Term"
+  },
+  {
+    "id": 4,
+    "chunk_id": "clean_000004",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1370,
+    "preview": "Notice No.-AE410 dated 12.02.2026 regarding Time-Table of Supplementary Examination of 5 year Integrated UG-PG programme / Backlog Examination of Int.BAB.Ed. / B.Sc. B.Ed. programme to be held from 16th February 2026 onwards\nAnnexure-I\n12-Feb-26\nList of studen"
+  },
+  {
+    "id": 5,
+    "chunk_id": "clean_000005",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1377,
+    "preview": "Notice No.-CUSB/Acad/276 dated 21.01.2026 regarding allotment of supervisor and co-supervisor, if any to the newly admitted PhD Scholar in AY 2025-26\n21-Jan-26\nNotice No.-CUSB/Acad/275 dated 21.01.2026 regarding submission of six-monthly progress reports (July"
+  },
+  {
+    "id": 6,
+    "chunk_id": "clean_000006",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1365,
+    "preview": "Notice No.-CUSB/Acad/2-3/Vol-II/2016/AE49 dated 10.01.2026 regarding registration for repeat the course/s in Undergraduate and Postgraduate programmes of 2nd /4th /6th / 8th /10th Semester for the period of January-June, 2026\nForm for Repeat Courses\n09-Jan-26\n"
+  },
+  {
+    "id": 7,
+    "chunk_id": "clean_000007",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1365,
+    "preview": "Major Course UG-PG (Jan-June 2026)\nOpen Elective Course PG (Jan-June 2026)\nMulti-disciplinary courses UG-PG (Jan-June 2026)\nAbility Enhancement courses UG-PG (Jan-June 2026)\nMinor Course UG-PG (Jan-June 2026)\n05-Jan-26\nList of passed out students in year-2024\n"
+  },
+  {
+    "id": 8,
+    "chunk_id": "clean_000008",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1332,
+    "preview": "Annexure 'C' PG Programme\n30-July-25\nExamination Time-Table of the Backlog courses of BA LLB programme and Supplementary Examination Time -Table of B.Sc. Agriculture programme to be held in August-2025\nAnnexure 'C' PG ProgrammeExamination Time-Table of the Bac"
+  },
+  {
+    "id": 9,
+    "chunk_id": "clean_000009",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1283,
+    "preview": "List of Open Elective and SWAYAM Courses offered for Odd Semester (July-Dec 2025)\nAnnexure 'A' Open Elective Courses for Odd Semester (July-Dec 2025)\nAnnexure 'B' SWAYAM Courses for Odd Semester (July - Dec 2025)\n21-July-25\nNotice No.AE1245 dated 18.07.2025 re"
+  },
+  {
+    "id": 10,
+    "chunk_id": "clean_000010",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1261,
+    "preview": "Notice No.AE1180 dated 11.07.2025 regarding supplementary examination of B.Sc. Agriculture programme and 5 Year Integrated UG-PG programmes\nSupplimentary Examination Form\n11-July-25\nNotice No.-CUSB/Acad/AE1183 dated 11.07.2025 regarding submission of pending d"
+  },
+  {
+    "id": 11,
+    "chunk_id": "clean_000011",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1283,
+    "preview": "Regarding semester registration of B.Sc. (Hons.) in Agriculture programme of 2nd Semesters for the period of January-June, 2025\n07-Feb-25\nRegarding document verification of those UG and PG students admitted in AY 2024-25 who have not completed their document v"
+  },
+  {
+    "id": 12,
+    "chunk_id": "clean_000012",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 504,
+    "preview": "Notice No.-CUSB/Acad/2-2/2013/Vol-II/AE184 dated 27.01.2025 regarding Enrolment Number of students enrolled in Ph.D. programmes AY 2024-25\n28-Jan-25\nNotice: Regarding repetition of 2nd /4th/6th/8th/10th Semester of UG / PG programmes\nBacklog Examination and co"
+  },
+  {
+    "id": 13,
+    "chunk_id": "clean_000013",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1320,
+    "preview": "Title: About University\nSection: Semester Exam Schedule\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=77&Itemid=192\nSemester Examination 2026\nClick Here to Download Hall Ticket\nOld Time Table\nRevised -2 dated 05.05.2026, Time-Tables of En"
+  },
+  {
+    "id": 14,
+    "chunk_id": "clean_000014",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1363,
+    "preview": "Revised Time-Table for End-Term Examination of  MA Economics-4th Semester dt. 05.05.2026\nRevised Time-Tables of End-Term examination of Undergraduate and Postgraduate programmes to be held in May, 2026\nRevised Time-Table of End-Term Examination of M.Sc. Chemis"
+  },
+  {
+    "id": 15,
+    "chunk_id": "clean_000015",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1325,
+    "preview": "Time-Table of End-Term Examination of MA in History-2nd & 4th Sem\nTime-Table of End-Term Examination of MA in Journalism and Mass Communication-2nd & 4th Sem\nTime-Table of End-Term Examination of MA in Political Science and IR-2nd & 4th Sem\nTime-Table of End-T"
+  },
+  {
+    "id": 16,
+    "chunk_id": "clean_000016",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1353,
+    "preview": "Time-Table of End-Term Examination of MSc in Mathematics-2nd and 4th Sem\nTime-Table of End-Term Examination of MSc in Physics- 2nd  and 4th Sem\nTime-Table of End-Term Examination of MSc in Statistics and M.Sc. in Data Science and AS- 2nd  and 4th Sem\nNotice No"
+  },
+  {
+    "id": 17,
+    "chunk_id": "clean_000017",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 490,
+    "preview": "Time-Table of End-Term Examination of UG-PG in Journalism & Mass Communication\nTime-Table of End-Term Examination of UG-PG in Life Science\nTime-Table of End-Term Examination of UG-PG in Mathematics\nTime-Table of End-Term Examination of UG-PG in Physics\nTime-Ta"
+  },
+  {
+    "id": 18,
+    "chunk_id": "clean_000018",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1744,
+    "preview": "Title: About University\nSection: Ordinance/ Manual/ Regulation\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=78&Itemid=193\nAcademic Ordinance/ Regulation & Manual for Ph.D. Students\nOrdinance and Regulations for Ph.D.\nOrdinance Governing "
+  },
+  {
+    "id": 19,
+    "chunk_id": "clean_000019",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1359,
+    "preview": "Title: About University\nSection: Semester Result\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=904&Itemid=194\nSemester Result December_2025\nExamination Result:\nTitle\nPublished Date\nSupplementary Result of 5 Year Integrated UG-PG Mathemati"
+  },
+  {
+    "id": 20,
+    "chunk_id": "clean_000020",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1369,
+    "preview": "Supplementary result and revised results 5-Year Integrated UG-PG Programme in Mass Communication, 1st Semester (Session 2025–30)\n24-March-26\nSupplementary result and revised results 5-Year Integrated UG-PG Programme in Commerce, 1st Semester (Session 2025–30)\n"
+  },
+  {
+    "id": 21,
+    "chunk_id": "clean_000021",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1366,
+    "preview": "Result of M.Sc. Environmental Science, 3rd semester, session 2024-26.\n24-Feb-26\nRevised result (After submission of pending documents) of 3rd Semester PG Programme in Mass Communication 2024-26\n24-Feb-26\nRevised and Backlog (1st-Semester) result (After submiss"
+  },
+  {
+    "id": 22,
+    "chunk_id": "clean_000022",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1368,
+    "preview": "Result of M.A./M.Sc. Psychology 1st Semester (Session 2025-27)\n09-Feb-26\nResult of M.A. English 1st Semester (Session 2025-27)\n09-Feb-26\nResult of M.Sc. Computer Science 1st Semester (Session 2025-27)\n09-Feb-26\nBacklog result of M.sc. Geology 1st and 2nd semes"
+  },
+  {
+    "id": 23,
+    "chunk_id": "clean_000023",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1326,
+    "preview": "Repeat/Backlog/Improvement result of M.A. Hindi 1st and 3rd semester, 2023-25\n04-Feb-26\nRevised result (After submission of pending documents) of 1st Semester Five-Year Integrated UG–PG Programme in PSIR 2025-30\n04-Feb-26\nResult of M.Sc. Data Science and Appli"
+  },
+  {
+    "id": 24,
+    "chunk_id": "clean_000024",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1364,
+    "preview": "Result of 5 Year Integrated UG-PG Hindi 1st semester (Session 2025-30) after submission of requisite documents\n31-Jan-26\nResult of UG-PG Mathematics 1st Semester (Session 2025-30) after submission of requisite documents\n30-Jan-26\nM.A./M.Sc. Psychology Backlog "
+  },
+  {
+    "id": 25,
+    "chunk_id": "clean_000025",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1286,
+    "preview": "05-Jan-26\nChemistry 5 year Integrated UG-PG 3rd sem 2024-29\n04-Jan-26\nGeology Master 3rd sem 2024-26\n04-Jan-26\nPhysics 5 Year Integrated UG-PG 3rd sem 2024-29\n04-Jan-26\nGeography 5 Year Integarted UG-PG 3rd sem 2024-29\n02-Jan-26\nGeography Master 3rd sem 2024-2"
+  },
+  {
+    "id": 26,
+    "chunk_id": "clean_000026",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1360,
+    "preview": "Result of 5 Year Integrated UG-PG Psychology 1st Semester (Session 2025-30)\n31-Dec-25\nResult of 1st Semester M.A. in Economics (2025-27)\n31-Dec-25\nResult of MSc. Life Science 3rd Semester\n31-Dec-25\nResult of 5 Year Integrated UG-PG Mathematics (Session 2025-30"
+  },
+  {
+    "id": 27,
+    "chunk_id": "clean_000027",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1326,
+    "preview": "Result of 1st Semester, M.Ed. Programme, Session 2025-27\n30-Dec-25\nResult of PhD course Work in Mathematics-2nd Semester (AY 2024-25)\n30-Dec-25\nRegarding result of various semesters of Dept. of Teacher Education\n1st SEM BSCBED 25-29\n3RD SEM BABED 24-28\n3rd SEM"
+  },
+  {
+    "id": 28,
+    "chunk_id": "clean_000028",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 694,
+    "preview": "Result of UG-PG in English 3rd Semester (Session 2024-29)\n27-Dec-25\nResult of UG-PG in Psychology 3rd Semester (Session 2024-29)\n27-Dec-25\nBacklog Result of Ravi Shankar Kumar Raj, B.A.B.Ed. programme, session: 2020-24\n26-Dec-25\nResult of 3rd Semester, M.Ed. P"
+  },
+  {
+    "id": 29,
+    "chunk_id": "clean_000029",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 747,
+    "preview": "Title: About University\nSection: Prospectus\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=82&Itemid=197\nProspectus\nEvery year, before commencement of examination and admission process, university releases new prospectus. Attempts are made"
+  },
+  {
+    "id": 30,
+    "chunk_id": "clean_000030",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1080,
+    "preview": "Title: About University\nSection: Convocation\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=625&Itemid=209\n4th convocation (20th march, 2025)\nImportant Notice (4th Convocation)\nMinute to minute Programme - 4th Convocation\nNotice for costum"
+  },
+  {
+    "id": 31,
+    "chunk_id": "clean_000031",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1484,
+    "preview": "Title: About University\nSection: Download (Format/Performa)\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=455&Itemid=619\nFormat/ Performa (UG/ Integrated and PG)\nStudents I Card\nIdentity Card Related\nNotification: Regarding issuance of Ne"
+  },
+  {
+    "id": 32,
+    "chunk_id": "clean_000032",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1341,
+    "preview": "Title: About University\nSection: Course Structure and Syllabus\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=119&Itemid=195\nCourse Structure and Syllabus\nSWAYAM Courses offered in even semester (Jan-June, 2025)\nOpen Elective Courses offer"
+  },
+  {
+    "id": 33,
+    "chunk_id": "clean_000033",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1321,
+    "preview": "Course Structure\nSyllabus\nPh.D. in History\nSyllabus\nDepartment of Agriculture\nBoard of Studies (NEP)\n4 Years B.Sc. in Agriculture\nCourse Structure\nSyllabus\nPh.D. in Agriculture\nSyllabus\nDepartment of Commerce and Business Studies\nBoard of Studies (NEP)\n5 Years"
+  },
+  {
+    "id": 34,
+    "chunk_id": "clean_000034",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1330,
+    "preview": "Department of Sociological Studies\nBoard of Studies (NEP)\n5 Years Integrated UG-PG in Political Studies & IR\nCourse Structure\nSyllabus\nM.A. in Sociology\nCourse Structure\nSyllabus\nM.A. in Social Work\nCourse Structure\nSyllabus\nPh.D. in Sociology\nSyllabus\nDepartm"
+  },
+  {
+    "id": 35,
+    "chunk_id": "clean_000035",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 954,
+    "preview": "Course Structure\nSyllabus\nPh.D. in English\nSyllabus\nDepartment of Statistics\nBoard of Studies (NEP)\n5 Years Integrated UG-PG in Statistics\nCourse Structure\nSyllabus\nM.Sc. in Statistics\nCourse Structure\nSyllabus\nM.Sc. in Data Science and Applied Stastistics\nCou"
+  },
+  {
+    "id": 36,
+    "chunk_id": "clean_000036",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1335,
+    "preview": "Title: About University\nSection: Scholarship and Fellowship\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=81&Itemid=196\nScholarship and Fellowship\nScholarships Scheme\nA number of scholarship schemes, as given below, are available for dese"
+  },
+  {
+    "id": 37,
+    "chunk_id": "clean_000037",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1347,
+    "preview": "An innovative scheme to increase classroom attendance is available for the students. Students achieving 100% attendance during a semester are provided book(s) of their choice/need or reimbursed up to Rs. 1,000 at once.\nRegulation for Attendance Based Merit Sch"
+  },
+  {
+    "id": 38,
+    "chunk_id": "clean_000038",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1303,
+    "preview": "Notice: CUCET Toppers, Semester topper and Attendance based Scholarship\nList of Eligible Candidates under Various Scholarship Schemes of the University\nNotice: Schedule of Interview regarding Scholarship\nNotice regarding Scholarships\nOffice Order : List of eli"
+  },
+  {
+    "id": 39,
+    "chunk_id": "clean_000039",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 607,
+    "preview": "Guidelines and Application for National Council of Rural Institutes Ph.D Research Fellowship\nNotice: Submission of self-attested Aadhar card and Aadhar link Bank Account detail (CUB/Acad/47-1/4462/2016 dated 07/10/2016)\nPublic Notice: Aadhar Seeding for Applyi"
+  },
+  {
+    "id": 40,
+    "chunk_id": "clean_000040",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1275,
+    "preview": "Title: About University\nSection: Hostel\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=451&Itemid=198\nHostel Related Forms and Notification\nHostel's Related Forms\nNo Dues Form for Hostel\nApplication Form No 2: Room Allotment Slip\nForm No 5"
+  },
+  {
+    "id": 41,
+    "chunk_id": "clean_000041",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1340,
+    "preview": "Third Revised Provisional Allotment List of Boys and Girls Hostels for UG & UG-PG Integrated First Semester Students\nSecond Revised Provisional Allotment List of Boys and Girls Hostels for UG & UG-PG Integrated First Semester Students\nFirst Revised Provisional"
+  },
+  {
+    "id": 42,
+    "chunk_id": "clean_000042",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1363,
+    "preview": "Fourth Provisional Allotment List for Boys Girls Hostel UG-PG 3/5/7/9 Sem 2025\nThird Provisional Allotment List of Boys and Girls Hostels for UG/PG - 1/3/5/7/9 Sem Students\nThird Provisional Allotment List for Boys Girls Hostel UG-PG 3/5/7/9 Sem 2025\nSecond Pr"
+  },
+  {
+    "id": 43,
+    "chunk_id": "clean_000043",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 749,
+    "preview": "<<Step-1 : Fill the Hostel form on CUSB Student Samarth Portal>>\n<<Step-2 : Fill the Google form>>\nInvitation for Hostel Accommodation Applications - PG First Semester Students\nNotice for hostel Allotment of Boys and Girls Hostel\nList of Hostel allotment for G"
+  },
+  {
+    "id": 44,
+    "chunk_id": "clean_000044",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1893,
+    "preview": "Title: About University\nSection: Anti-Ragging\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=84&Itemid=199\nAnti-Ragging\nThe University Grants Commission has recommended strong action against ragging in the institutions of higher learning. "
+  },
+  {
+    "id": 45,
+    "chunk_id": "clean_000045",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 168,
+    "preview": "Title: About University\nSection: Alumni\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=85&Itemid=200\nAlumni\n<<click here for Alumni Registration >>"
+  },
+  {
+    "id": 46,
+    "chunk_id": "clean_000046",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1373,
+    "preview": "Title: About University\nSection: DACE\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=86&Itemid=201\nDACE\nAbout Us\nDr. Ambedkar Centre of Excellence (DACE) at\nCentral University of South Bihar\nThe Ministry of Social Justice & Empowerment, Go"
+  },
+  {
+    "id": 47,
+    "chunk_id": "clean_000047",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1691,
+    "preview": "Title: About University\nSection: Capacity Development and Skill Enhancement Programme\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=525&Itemid=202\nSoft Skill\nSoft Skills require a great deal of attention for the students of all discipline"
+  },
+  {
+    "id": 48,
+    "chunk_id": "clean_000048",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1336,
+    "preview": "Title: About University\nSection: Placement Cell\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=88&Itemid=203\nPlacement Cell\nCareer Counselling and Placement Cell\nInvitation to Companies for Placement Drive\nClick Here for:\nInvitation to Com"
+  },
+  {
+    "id": 49,
+    "chunk_id": "clean_000049",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1313,
+    "preview": "Key responsibilities of the Career Counselling and Placement Cell:\nTo organise the job-oriented awareness related workshops time-to-time for the university students.\nTo provide placement training to students with sessions on Resume / CV writing, conducting moc"
+  },
+  {
+    "id": 50,
+    "chunk_id": "clean_000050",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1344,
+    "preview": "This email address is being protected from spambots. You need JavaScript enabled to view it.\nProf. Dhirendra Kumar Pandey\nProfessor, Head\nGeology\nThis email address is being protected from spambots. You need JavaScript enabled to view it.\nDr. Ram Pratap Singh\n"
+  },
+  {
+    "id": 51,
+    "chunk_id": "clean_000051",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1345,
+    "preview": "This email address is being protected from spambots. You need JavaScript enabled to view it.\nProf. Brajesh Kumar\nProfessor, Head\nThis email address is being protected from spambots. You need JavaScript enabled to view it.\nThis email address is being protected "
+  },
+  {
+    "id": 52,
+    "chunk_id": "clean_000052",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1337,
+    "preview": "Dr. Rathi Kanta Kumbhar\nAssociate Professor, Head\nEconomics\nThis email address is being protected from spambots. You need JavaScript enabled to view it.\nDr. Sudhanshu Kumar Jha\nAssistant Prof., Head(I/C)\nHistory\nThis email address is being protected from spamb"
+  },
+  {
+    "id": 53,
+    "chunk_id": "clean_000053",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 939,
+    "preview": "I am highly privileged to be a student of this university and fortunate enough to be an alumnus of this university. It is a place of civility, friendship, and good cheer. I should be thankful to the whole administration for such a co-ordination and co-operatio"
+  },
+  {
+    "id": 54,
+    "chunk_id": "clean_000054",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1394,
+    "preview": "Title: About University\nSection: Students Counselling and Well- being Centre\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=89&Itemid=204\nStudents Counselling and Well- being Centre\nStudents Career Counselling Cum Well-being Centre of the "
+  },
+  {
+    "id": 55,
+    "chunk_id": "clean_000055",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 712,
+    "preview": "Title: About University\nSection: NSS\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=495&Itemid=205\nAbout Us (NSS)\nThe National Service Scheme (NSS) Cell at Central University of South Bihar is a university level unit of Central Sector Sche"
+  },
+  {
+    "id": 56,
+    "chunk_id": "clean_000056",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 217,
+    "preview": "Title: About University\nSection: NCC\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=92&Itemid=206\nNCC\nNCC Activities & Others\nAbout Ncc\nJoin Ncc\nActivities & Others\nMembers\nGallery\nContact Details"
+  },
+  {
+    "id": 57,
+    "chunk_id": "clean_000057",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 195,
+    "preview": "Title: About University\nSection: Extracurricular Activities\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=93&Itemid=207\nExtracurricular Activities\nExtracurricular Activities"
+  },
+  {
+    "id": 58,
+    "chunk_id": "clean_000058",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1352,
+    "preview": "Title: About University\nSection: Code of Ethics\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=96&Itemid=210\nCode of Ethics\nIn exercise of the power vested in sub section-xxi of Section 6 (I) of the Central Universities Act – 2009, pursuan"
+  },
+  {
+    "id": 59,
+    "chunk_id": "clean_000059",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1369,
+    "preview": "Manage their private affairs in a manner consistent with the dignity of the profession;\nSeek to make professional growth continuous through study and research;\nExpress free and frank opinion by participation at professional meetings, seminars, conferences etc."
+  },
+  {
+    "id": 60,
+    "chunk_id": "clean_000060",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1359,
+    "preview": "Deal justly and impartially with students regardless of their religion, caste, gender, political, economic, social and physical characteristics;\nRecognise the difference in aptitude and capabilities among students and strive to meet their individual needs;\nEnc"
+  },
+  {
+    "id": 61,
+    "chunk_id": "clean_000061",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1382,
+    "preview": "Refrain from allowing considerations of caste, creed, religion, race or sex in their professional endeavour.\nIV. Teachers and Authorities\nTeachers should:\nDischarge their professional responsibilities according to the existing rules and adhere to procedures an"
+  },
+  {
+    "id": 62,
+    "chunk_id": "clean_000062",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1205,
+    "preview": "V. Teachers and Non-Teaching Staff\nTeachers should :\nTreat the non-teaching staff as colleagues and equal partners in a cooperative undertaking, within every educational institution;\nHelp in the functioning of joint-staff councils covering both the teachers an"
+  },
+  {
+    "id": 63,
+    "chunk_id": "clean_000063",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 252,
+    "preview": "Refrain from taking part in or subscribing to or assisting in any way activities, which tend to promote feeling of hatred or enmity among different communities, religions or linguistic groups but actively work for national integration.\n→\nCode of Ethics"
+  },
+  {
+    "id": 64,
+    "chunk_id": "clean_000064",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1302,
+    "preview": "Title: About University\nSection: Grievance Redressal Committee for Students\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=97&Itemid=211\nGrievance Redressal Committee for Students\nThe University has constituted a mechanism for the redressa"
+  },
+  {
+    "id": 65,
+    "chunk_id": "clean_000065",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1366,
+    "preview": "The Executive Council will consider and approve the regulation framed by the respective Grievance Redressal Committee for the speedy and efficient disposal of grievances. will consider and approve the regulation framed by the respective Grievance Redressal Com"
+  },
+  {
+    "id": 66,
+    "chunk_id": "clean_000066",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 762,
+    "preview": "This email address is being protected from spambots. You need JavaScript enabled to view it.\nDr. Anju Helan Bara\nMember\nThis email address is being protected from spambots. You need JavaScript enabled to view it.\nMr. Kunal Sethi\nSpecial Invitee\nThis email addr"
+  },
+  {
+    "id": 67,
+    "chunk_id": "clean_000067",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1021,
+    "preview": "Title: About University\nSection: University Guest House\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=98&Itemid=213\nUniversity Guest House\nThe University Guest House (Sangharam) has 03 VIP Rooms (suite room), 32 fully furnished AC rooms, "
+  },
+  {
+    "id": 68,
+    "chunk_id": "clean_000068",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1116,
+    "preview": "Attached Bathroom24-hour Security Sanitizers installed Conference Room in-room Dining/Restaurant Special Diet Meals/Kids' Meals Internet/Wi-Fi/Fax Service (in process)ATM- Nxt to Guest house Laundry Service Hospital in the vicinity (In Gaya town)Doctor/health "
+  },
+  {
+    "id": 69,
+    "chunk_id": "clean_000069",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1367,
+    "preview": "Title: About University\nSection: Hostel Facility\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=99&Itemid=214\nHostel\nTwo well-furnished and aesthetically designed separate hostels for girls and boys have been constructed within campus of t"
+  },
+  {
+    "id": 70,
+    "chunk_id": "clean_000070",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 963,
+    "preview": "Fully furnished rooms (on sharing basis) equipped with wooden bed, wardrobe and a study table with chair\nMess Facilities\nCommon washrooms\nRO-purified Drinking Water\nReading Room\nVisitors’ Room\nMedical Room\nRecreational facility Room with Television\nGymnasium c"
+  },
+  {
+    "id": 71,
+    "chunk_id": "clean_000071",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1429,
+    "preview": "Title: About University\nSection: Health Care\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=100&Itemid=215\nHealth Care\nCUSB Health centre is presently situated inside Chanakya Bhavan having consultation room, separate male and female wards"
+  },
+  {
+    "id": 72,
+    "chunk_id": "clean_000072",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1386,
+    "preview": "Title: About University\nSection: Sports Complex\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=101&Itemid=216\nSports Complex\nThe Games & Sports Committee for Central University of South Bihar, Gaya being constituted in 2020 to look after v"
+  },
+  {
+    "id": 73,
+    "chunk_id": "clean_000073",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1221,
+    "preview": "The sports committee also select and trained the university teams for participation in various state/national tournaments. The sports committee not only has an objective of preparing elite sports persons but it also has many programmes for invoking interest in"
+  },
+  {
+    "id": 74,
+    "chunk_id": "clean_000074",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1066,
+    "preview": "Title: About University\nSection: Biodiversity Park\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=102&Itemid=217\nBiodiversity Park\nA proposal for Biodiversity Park to be built in CUSB campus that will house Wetland, green house & nursery t"
+  },
+  {
+    "id": 75,
+    "chunk_id": "clean_000075",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1055,
+    "preview": "Title: About University\nSection: Media Studio\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=103&Itemid=218\nMedia Studio\nThe department has a soundproof electronic media production lab equipped with 4K professional video cameras (Sony), Au"
+  },
+  {
+    "id": 76,
+    "chunk_id": "clean_000076",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 925,
+    "preview": "Title: About University\nSection: University Computer Lab\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=104&Itemid=219\nUniversity Computer Lab\nThe computer labs provides a central computing facility to the students, teachers and staffs of "
+  },
+  {
+    "id": 77,
+    "chunk_id": "clean_000077",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1371,
+    "preview": "Title: About University\nSection: University Computer Centre\nUrl: https://cusb.ac.in/index.phpoption=com_content&view=article&id=61&Itemid=220\nUniversity Computer Centre\nEstablished since beginning of the University and equipped with all latest technology. At p"
+  },
+  {
+    "id": 78,
+    "chunk_id": "clean_000078",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1278,
+    "preview": "Central Servers (Email, File etc):\nUniversity provide the email facility to all faculty and staff on official website. Website display the profiles of the staff and faculties and departments where they can change /update and add their records, academic and oth"
+  },
+  {
+    "id": 79,
+    "chunk_id": "clean_000079",
+    "heading": "About University",
+    "source_file": "data\\cusb_about_university_pdfs.jsonl",
+    "char_count": 1243,
+    "preview": "This email address is being protected from spambots. You need JavaScript enabled to view it.\n0631-229536\nMr. Rakesh Ranjan\nTechnical Assistant, Computer\nThis email address is being protected from spambots. You need JavaScript enabled to view it.\n0631-229536\nMr"
+  }
+]

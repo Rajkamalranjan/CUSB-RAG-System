@@ -1,0 +1,1 @@
+{"project": "CUSB-EduRAG", "random_seed": 42, "total_answerable": 875, "train_ratio": 0.7, "validation_ratio": 0.15, "test_ratio": 0.15, "warning": "For formal results, rebuild the vector index with --exclude-qa or index only the training/corpus documents, never the held-out test rows."}

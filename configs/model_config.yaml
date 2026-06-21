@@ -1,0 +1,30 @@
+embeddings:
+  active_model: intfloat/multilingual-e5-small
+  candidates:
+    - intfloat/multilingual-e5-small
+    - intfloat/multilingual-e5-large
+    - BAAI/bge-m3
+  query_prefix: "query: "
+  passage_prefix: "passage: "
+  normalize_embeddings: true
+  batch_size: 64
+  fp16: true
+
+reranker:
+  active_model: BAAI/bge-reranker-base
+  candidates:
+    - BAAI/bge-reranker-base
+    - BAAI/bge-reranker-v2-m3
+  max_length: 512
+  fp16: true
+
+training:
+  base_model: intfloat/multilingual-e5-small
+  loss: MultipleNegativesRankingLoss
+  epochs: 3
+  batch_size: 64
+  gradient_accumulation_steps: 1
+  warmup_ratio: 0.1
+  evaluation_steps: 500
+  checkpoint_steps: 500
+

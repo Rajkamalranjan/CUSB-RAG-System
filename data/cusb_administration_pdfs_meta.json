@@ -1,0 +1,108 @@
+{
+  "created_at_utc": "2026-05-18T02:41:07.139364+00:00",
+  "seed_page_count": 14,
+  "discovered_records": 2,
+  "extracted_records": 0,
+  "webpage_records": 14,
+  "failed_records": 2,
+  "failed_discovery_pages": 0,
+  "ocr_max_pages": 2,
+  "ocr_dpi": 240,
+  "ocr_language": "eng",
+  "ocr_engine": "tesseract",
+  "ocr_configs": [
+    "--oem 1 --psm 3 -c preserve_interword_spaces=1"
+  ],
+  "ocr_rotation_retry": true,
+  "min_page_text_chars": 40,
+  "max_child_pages_per_section": 250,
+  "total_text_chars": 31053,
+  "total_pdf_text_chars": 0,
+  "total_webpage_text_chars": 31053,
+  "total_text_pages": 0,
+  "total_ocr_pages": 0,
+  "outputs": {
+    "markdown": "data\\CUSB_administration_pdfs.md",
+    "jsonl": "data\\cusb_administration_pdfs.jsonl",
+    "metadata": "data\\cusb_administration_pdfs_meta.json"
+  },
+  "seed_pages": [
+    {
+      "section": "Visitor",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=16:visitor&catid=2&Itemid=120"
+    },
+    {
+      "section": "Chancellor",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=17:chancellor&catid=2&Itemid=121"
+    },
+    {
+      "section": "Vice-Chancellor",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=18:vice-chancellor&Itemid=122&catid=2"
+    },
+    {
+      "section": "Pro-Vice Chancellor",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=19:pro-vice-chancellor&catid=2&Itemid=123"
+    },
+    {
+      "section": "Dean of Student welfare",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=20:dean-of-student-welfare&catid=2&Itemid=124"
+    },
+    {
+      "section": "Proctorial Board",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=21:proctorial-board&catid=2&Itemid=125"
+    },
+    {
+      "section": "Dean/Head",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=22:dean-head&catid=2&Itemid=126"
+    },
+    {
+      "section": "Registrar",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=23:registrar&catid=2&Itemid=127"
+    },
+    {
+      "section": "Finance Officer",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=24:finance-officer&catid=2&Itemid=128"
+    },
+    {
+      "section": "Controller of Examination",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=25:controller-of-examination&catid=2&Itemid=129"
+    },
+    {
+      "section": "Librarian",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=26:librarian&catid=2&Itemid=130"
+    },
+    {
+      "section": "Section & Staff",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=27:section-staff&catid=2&Itemid=131"
+    },
+    {
+      "section": "Committee/Cell",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=28:committee&catid=2&Itemid=132"
+    },
+    {
+      "section": "Organogram",
+      "url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=29:organogram&catid=2&Itemid=133"
+    }
+  ],
+  "failed": [
+    {
+      "section": "Proctorial Board",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=21:proctorial-board&catid=2&Itemid=125",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=21:proctorial-board&catid=2&Itemid=125",
+      "source_page_title": "About University",
+      "title": "Current Notification of Proctorial Board: dated 02/02/2024",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2024/02/Notification_Admin.__03_2024.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2024/02/Notification_Admin.__03_2024.pdf"
+    },
+    {
+      "section": "Proctorial Board",
+      "section_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=21:proctorial-board&catid=2&Itemid=125",
+      "source_page_url": "https://cusb.ac.in/index.php?option=com_content&view=article&id=21:proctorial-board&catid=2&Itemid=125",
+      "source_page_title": "About University",
+      "title": "Code-of-Conduct-for-Students.pdf",
+      "url": "https://old.cusb.ac.in/wp-content/uploads/2021/06/Code-of-Conduct-for-Students.pdf",
+      "error": "404 Client Error: Not Found for url: https://old.cusb.ac.in/wp-content/uploads/2021/06/Code-of-Conduct-for-Students.pdf"
+    }
+  ],
+  "failed_pages": []
+}

@@ -1,0 +1,26 @@
+hybrid:
+  fusion: rrf
+  dense_weight: 1.0
+  sparse_weight: 1.0
+  dense_top_k: 20
+  bm25_top_k: 20
+  fused_top_k: 30
+  final_top_k: 5
+
+qdrant:
+  url: http://localhost:6333
+  collection: cusb_chunks
+  vector_size: 384
+  distance: Cosine
+  prefer_grpc: false
+
+filters:
+  enabled: true
+  supported:
+    - department
+    - category
+    - semester
+    - source_file
+    - page
+    - url
+

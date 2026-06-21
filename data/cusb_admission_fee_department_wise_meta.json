@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2026-05-18T07:48:29.722520+00:00",
+  "source_file": "data\\admission_fee\\ann_fee_1.pdf",
+  "record_count": 32,
+  "failed_records": 0,
+  "outputs": {
+    "markdown": "data\\CUSB_admission_fee_department_wise.md",
+    "jsonl": "data\\cusb_admission_fee_department_wise.jsonl",
+    "metadata": "data\\cusb_admission_fee_department_wise_meta.json",
+    "raw_markdown_with_clean_table": "data\\CUSB_admission_fee_pdfs.md"
+  }
+}

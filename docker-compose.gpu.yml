@@ -1,0 +1,12 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.gpu
+    gpus: all
+    environment:
+      RERANK_DEVICE: cuda
+      USE_RERANKER: ${USE_RERANKER:-false}
+      FINAL_TOP_K: ${FINAL_TOP_K:-3}
+      DENSE_TOP_K: ${DENSE_TOP_K:-10}
+      BM25_TOP_K: ${BM25_TOP_K:-10}

@@ -1,0 +1,162 @@
+{
+  "answers": [
+    {
+      "id": "full_form",
+      "match_any": ["full form", "cusb stands for"],
+      "answer": "CUSB stands for Central University of South Bihar.",
+      "answer_hinglish": "CUSB ka full form Central University of South Bihar hai."
+    },
+    {
+      "id": "about_cusb_short",
+      "match_any": ["what is cusb", "cusb kya hai"],
+      "not_any": ["full form", "motto", "website", "domain", "old name", "campus size", "acres", "establish", "established", "where", "located", "location", "address", "airport", "railway", "station", "chancellor", "vice", "reception", "helpline", "contact", "ministry", "pin code", "pincode", "naac", "nirf", "ranking", "overview", "notices", "road", "district", "abbreviation", "landmark", "administrative block"],
+      "answer": "CUSB is Central University of South Bihar, a central university and higher education institution in Bihar. Its permanent campus is at Panchanpur near Gaya.",
+      "answer_hinglish": "CUSB Central University of South Bihar hai, jo Bihar ki ek central university aur higher education institution hai. Iska permanent campus Gaya ke paas Panchanpur me hai."
+    },
+    {
+      "id": "ministry",
+      "match_any": ["ministry", "under aata"],
+      "answer": "CUSB comes under the Department of Higher Education, Ministry of Education, Government of India.",
+      "answer_hinglish": "CUSB Department of Higher Education, Ministry of Education, Government of India ke under aata hai."
+    },
+    {
+      "id": "pin_code",
+      "match_any": ["pin code", "pincode"],
+      "answer": "The CUSB Gaya campus PIN code is 824236.",
+      "answer_hinglish": "CUSB Gaya campus ka PIN code 824236 hai."
+    },
+    {
+      "id": "overview",
+      "match_any": ["university overview", "short profile", "basic information"],
+      "answer": "About CUSB: Central University of South Bihar (CUSB) is a central university in Bihar. It was established under the Central Universities Act, 2009 and operates from its permanent 300-acre campus at Panchanpur near Gaya.",
+      "answer_hinglish": "About CUSB: Central University of South Bihar (CUSB) Bihar ki central university hai. Ye Central Universities Act, 2009 ke under establish hui aur iska permanent 300-acre campus Gaya ke paas Panchanpur me hai."
+    },
+    {
+      "id": "reception_number",
+      "match_any": ["reception number", "reception"],
+      "answer": "The CUSB reception number is +91-631-2229530.",
+      "answer_hinglish": "CUSB reception number +91-631-2229530 hai."
+    },
+    {
+      "id": "helpline",
+      "match_any": ["helpline", "contact details", "contact number"],
+      "answer": "CUSB helpline/contact details include Reception: +91-631-2229530, Information: +91-631-2229507, and admission phone numbers 0631-2229512, 0631-2229513, 0631-2229514, 0631-2229518.",
+      "answer_hinglish": "CUSB helpline/contact details: Reception +91-631-2229530, Information +91-631-2229507, aur admission phone numbers 0631-2229512, 0631-2229513, 0631-2229514, 0631-2229518."
+    },
+    {
+      "id": "road_connection",
+      "match_any": ["connected by road", "road se connected", "campus road", "campus ka road"],
+      "answer": "Yes. CUSB Gaya campus is connected by road through Gaya-Panchanpur Road/SH-7 at Panchanpur.",
+      "answer_hinglish": "Haan. CUSB Gaya campus Panchanpur me Gaya-Panchanpur Road/SH-7 se road connected hai."
+    },
+    {
+      "id": "district_state",
+      "match_any": ["district", "state", "bihar me"],
+      "answer": "CUSB is in Gaya district, Bihar, India.",
+      "answer_hinglish": "CUSB Bihar ke Gaya district me hai."
+    },
+    {
+      "id": "official_notices",
+      "match_any": ["official notices", "notices"],
+      "answer": "CUSB official notices are published on the official website https://www.cusb.ac.in under the relevant notice/admission/examination sections.",
+      "answer_hinglish": "CUSB official notices official website https://www.cusb.ac.in par relevant notice/admission/examination sections me publish hote hain."
+    },
+    {
+      "id": "founded_under_law",
+      "match_any": ["founded", "kis act se bana", "under law"],
+      "answer": "CUSB was established under the Central Universities Act, 2009 as Central University of Bihar, and later renamed Central University of South Bihar by the Central Universities (Amendment) Act, 2014.",
+      "answer_hinglish": "CUSB Central Universities Act, 2009 ke under Central University of Bihar ke naam se bana tha. Baad me Central Universities (Amendment) Act, 2014 se iska naam Central University of South Bihar hua."
+    },
+    {
+      "id": "permanent_campus",
+      "match_any": ["permanent campus"],
+      "answer": "Yes. CUSB has its permanent campus at Panchanpur near Gaya, spread over about 300 acres.",
+      "answer_hinglish": "Haan. CUSB ka permanent campus Gaya ke paas Panchanpur me hai, jo lagbhag 300 acres me spread hai."
+    },
+    {
+      "id": "campus_landmark",
+      "match_any": ["campus landmark", "administrative block"],
+      "answer": "CUSB campus landmarks include the grand Entrance Plaza, half-globe shaped Stupa, and multi-storied Administrative Block.",
+      "answer_hinglish": "CUSB campus landmarks me grand Entrance Plaza, half-globe shaped Stupa aur multi-storied Administrative Block include hain."
+    },
+    {
+      "id": "official_domain",
+      "match_any": ["official domain"],
+      "answer": "The official CUSB domain is cusb.ac.in.",
+      "answer_hinglish": "CUSB ka official domain cusb.ac.in hai."
+    },
+    {
+      "id": "original_abbreviation",
+      "match_any": ["original abbreviation"],
+      "answer": "The original abbreviation was CUB, for Central University of Bihar.",
+      "answer_hinglish": "Original abbreviation CUB tha, yani Central University of Bihar."
+    },
+    {
+      "id": "old_name",
+      "match_any": ["old name", "previous name"],
+      "answer": "The old name of CUSB was Central University of Bihar (CUB). It was renamed Central University of South Bihar by the Central Universities (Amendment) Act, 2014.",
+      "answer_hinglish": "CUSB ka old name Central University of Bihar (CUB) tha. Central Universities (Amendment) Act, 2014 ke baad iska naam Central University of South Bihar hua."
+    },
+    {
+      "id": "campus_size",
+      "match_any": ["campus size", "acres", "kitne acres"],
+      "answer": "CUSB's permanent campus is spread over about 300 acres at Panchanpur near Gaya.",
+      "answer_hinglish": "CUSB ka permanent campus Gaya ke paas Panchanpur me lagbhag 300 acres me spread hai."
+    },
+    {
+      "id": "nearest_airport",
+      "match_any": ["nearest airport", "airport"],
+      "answer": "The nearest airport to CUSB Gaya campus is Gaya Airport, about 25 km from the campus.",
+      "answer_hinglish": "CUSB Gaya campus ka nearest airport Gaya Airport hai, campus se lagbhag 25 km door."
+    },
+    {
+      "id": "official_website",
+      "match_any": ["official website", "website"],
+      "answer": "The official website of Central University of South Bihar (CUSB) is https://www.cusb.ac.in.",
+      "answer_hinglish": "CUSB ki official website https://www.cusb.ac.in hai."
+    },
+    {
+      "id": "motto",
+      "match_any": ["motto", "slogan"],
+      "answer": "The motto of Central University of South Bihar (CUSB) is 'Collective Reasoning'.",
+      "answer_hinglish": "CUSB ka motto 'Collective Reasoning' hai."
+    },
+    {
+      "id": "academic_calendar",
+      "match_any": ["academic calendar"],
+      "answer": "CUSB academic calendar is published on the official university website under Academics/Notices. Students should check the latest academic calendar notice for their programme and admission year.",
+      "answer_hinglish": "CUSB academic calendar official website ke Academics/Notices section me publish hota hai. Apne programme aur admission year ka latest notice check karein."
+    },
+    {
+      "id": "exam_timetable",
+      "match_any": ["exam timetable", "exam time table", "timetable", "time table"],
+      "answer": "CUSB exam timetables are published on the official university website under examination/academic notices. Students should check the latest dated timetable for their programme and semester.",
+      "answer_hinglish": "CUSB exam timetable official website ke examination/academic notices section me publish hota hai. Apne programme aur semester ka latest dated timetable check karein."
+    },
+    {
+      "id": "samarth",
+      "match_any": ["samarth", "student login", "student portal"],
+      "answer": "CUSB Samarth student portal: https://cusb.samarth.edu.in\nUse this portal for student login and student-related academic/registration activities.",
+      "answer_hinglish": "CUSB Samarth student portal: https://cusb.samarth.edu.in\nIs portal ka use student login, registration aur academic activities ke liye hota hai."
+    },
+    {
+      "id": "mcom_fee",
+      "match_any": ["mcom", "m.com", "m.com."],
+      "match_all": ["fee"],
+      "answer": "The indexed CUSB fee data says M.Com total fee is Rs. 24,836 for 2 years. Verify the current fee notice before payment.",
+      "answer_hinglish": "Indexed CUSB fee data ke hisaab se M.Com total fee Rs. 24,836 for 2 years hai. Latest fee notice verify karein."
+    },
+    {
+      "id": "bank_atm",
+      "match_any": ["bank", "atm"],
+      "answer": "For bank/ATM facility at CUSB, students should check the latest campus facility notice or contact the university administration. The indexed data does not provide a reliable current bank/ATM timing or branch detail.",
+      "answer_hinglish": "CUSB me bank/ATM facility ke current details ke liye latest campus facility notice check karein ya university administration se contact karein. Indexed data me reliable current bank/ATM timing ya branch detail available nahi hai."
+    },
+    {
+      "id": "canteen",
+      "match_any": ["canteen", "cafeteria"],
+      "answer": "CUSB campus facility data/prospectus sources mention student-support and campus facilities. For the current canteen/cafeteria availability, menu, and timings, students should check the latest campus notice or ask the hostel/administration office.",
+      "answer_hinglish": "CUSB canteen/cafeteria ke current availability, menu aur timings ke liye latest campus notice ya hostel/administration office se confirm karein."
+    }
+  ]
+}

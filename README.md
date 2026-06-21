@@ -1,8 +1,69 @@
 # CUSB AI Chatbot: Research-Oriented RAG System
 
 Retrieval-Augmented Generation chatbot for Central University of South Bihar
-(CUSB). The project builds a local FAISS vector database from a Markdown
-knowledge base and QA dataset, then answers student queries using Gemini.
+(CUSB). The project now runs without Docker: it builds local FAISS artifacts,
+indexes the same chunks into local Qdrant storage, and serves a FastAPI +
+Next.js chatbot with citation metadata.
+
+## No-Docker Local Runtime
+
+This repository is configured for Windows/local development without Docker.
+
+```powershell
+.\scripts\setup.ps1
+.\scripts\index_qdrant_local.ps1
+.\scripts\start_backend.ps1
+```
+
+In a second terminal:
+
+```powershell
+.\scripts\start_frontend.ps1
+```
+
+Default local services:
+
+- Backend API: `http://127.0.0.1:8080/api`
+- Frontend: `http://localhost:3000`
+- Local Qdrant storage: `data\qdrant_local`
+
+Set these in `.env` for the no-Docker production path. For Windows local
+runtime, `faiss` is the most reliable backend because embedded Qdrant locks its
+storage folder to one process.
+
+```env
+VECTOR_BACKEND=faiss
+QDRANT_PATH=data\qdrant_local
+QDRANT_COLLECTION=cusb_chunks
+LLM_PROVIDER=gemini
+ADMIN_PASSWORD=change-me
+JWT_SECRET_KEY=change-this-local-secret
+```
+
+Admin token:
+
+```powershell
+Invoke-RestMethod -Method Post http://127.0.0.1:8080/api/auth/login `
+  -ContentType "application/json" `
+  -Body '{"username":"admin","password":"change-me"}'
+```
+
+Research pipeline:
+
+```powershell
+venv\Scripts\python.exe scripts\run_research_complete.py
+venv\Scripts\python.exe training\train.py --pairs data\benchmark\synthetic_pairs.jsonl
+```
+
+Useful API endpoints:
+
+- `POST /api/chat`
+- `GET /api/search`
+- `POST /api/upload` admin only
+- `POST /api/documents/delete` admin only
+- `GET /api/analytics` admin only
+- `GET /api/metrics`
+- `GET /api/health`
 
 ## Project Structure
 
@@ -51,6 +112,8 @@ GEMINI_API_KEY=your_real_gemini_api_key
 GEMINI_MODEL=gemini-2.5-flash-lite
 GEMINI_FALLBACK_MODELS=gemini-flash-lite-latest,gemini-2.5-flash,gemma-3-1b-it
 EMBED_MODEL=paraphrase-multilingual-MiniLM-L12-v2
+VECTOR_BACKEND=qdrant
+QDRANT_PATH=data\qdrant_local
 TOP_K=5
 MAX_CONTEXT=3000
 RETRIEVAL_CANDIDATES=25
@@ -64,6 +127,7 @@ RERANK_MODEL=cross-encoder/ms-marco-MiniLM-L-6-v2
 ```powershell
 venv\Scripts\python.exe src\1_build_chunks.py
 venv\Scripts\python.exe src\2_build_vectordb.py
+venv\Scripts\python.exe scripts\index_qdrant.py
 venv\Scripts\python.exe src\3_chatbot.py
 ```
 
@@ -78,6 +142,18 @@ Offline fallback mode:
 ```powershell
 venv\Scripts\python.exe src\3_chatbot.py --no-llm
 ```
+
+Optional LangChain backend:
+
+```powershell
+venv\Scripts\python.exe -m pip install langchain-core langchain-google-genai langchain-groq
+venv\Scripts\python.exe src\langchain_rag.py --provider groq
+venv\Scripts\python.exe src\langchain_rag.py --provider gemini
+```
+
+The LangChain backend reuses the same custom FAISS retriever and chunk files,
+so it is safe to compare against the main `src\rag_engine.py` pipeline without
+changing the core RAG flow.
 
 For held-out style retrieval experiments, rebuild chunks without inserting the
 QA dataset into the vector database:

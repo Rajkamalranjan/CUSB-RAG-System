@@ -129,7 +129,7 @@ def main():
         output_dir=str(OUTPUT_DIR),
         num_train_epochs=NUM_EPOCHS,
         per_device_train_batch_size=BATCH_SIZE,
-        gradient_accumulation_steps=GRADIENT_ACCULATION_STEPS,
+        gradient_accumulation_steps=GRADIENT_ACCUMULATION_STEPS,
         learning_rate=LEARNING_RATE,
         warmup_steps=50,
         logging_steps=10,
@@ -169,7 +169,7 @@ def main():
     print("To use the fine-tuned model:")
     print(f"   from unsloth import FastLanguageModel")
     print(f"   model, tokenizer = FastLanguageModel.from_pretrained(")
-    print(f'       model_name="{OUTPUT_DIR / "merged"}")")
+    print(f'       model_name="{OUTPUT_DIR / "merged"}")')
     print("=" * 70)
 
 
